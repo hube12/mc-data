@@ -1,0 +1,9328 @@
+a net/minecraft/src/ClsA
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+b net/minecraft/src/ClsB
+	a a
+	b b
+	<init> ()V <init>
+	a (I)Ljava/lang/String; a
+	<clinit> ()V <clinit>
+c net/minecraft/src/ClsC
+	a a
+	<init> (Lke;Lni;III)V <init>
+	a (Lkp;)Z a
+d net/minecraft/src/ClsD
+	b b
+	a a
+	c c
+	<init> (Lge;DDD)V <init>
+	F_ ()V F_
+	b ()V b
+	a (Lph;)V a
+	b (Lph;)V b
+e net/minecraft/pathfinding/PathPoint
+	a a
+	b b
+	c c
+	j j
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> (III)V <init>
+	a (III)I a
+	a (Le;)F a
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	a ()Z a
+	toString ()Ljava/lang/String; toString
+f net/minecraft/src/ClsF
+	a a
+	<init> (I)V <init>
+	a ()Z a
+	b ()Z b
+	c ()I c
+	a (Lge;III)V a
+	a (Lge;IIILne;)V a
+	b (Lge;III)V b
+	a (I)I getBN
+	c (Lge;III)Z c
+	g (Lge;III)Z g
+	a (Lge;IIII)V a
+	d (Lge;III)V d
+	a (Lge;IIILih;)Z a
+	a_ ()Lqj; a_
+	h (Lge;III)Z h
+g net/minecraft/src/ClsG
+	b b
+	c c
+	d d
+	e e
+	f f
+	a a
+	<init> (Lvi;Ljava/net/DatagramPacket;)V <init>
+	a (J)Ljava/lang/Boolean; a
+	a ()I getC
+	b ()[B getE
+	c ()[B getD
+h net/minecraft/src/ClsH
+	a a
+	<init> (ILjava/util/Random;II)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+i net/minecraft/src/ClsI
+	<init> (I)V <init>
+	a (Ljava/util/Random;)Lqt; get_Q
+j net/minecraft/src/ClsJ
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Laae;ILjava/util/Random;IILjava/util/ArrayList;I)V <init>
+	a ()Laae; getA
+k net/minecraft/src/ClsK
+	a a
+	<init> (II)V <init>
+	d (Lge;III)V d
+	a (II)I getBN
+	c ()I c
+	a ()Z a
+	b ()Z b
+	c (Lge;III)Z c
+	b (Lge;IIII)Z b
+	a (Ljava/util/Random;)I a
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	a (Lzy;III)V a
+	a (Lge;IIII)V a
+	b (I)I b
+l net/minecraft/src/ClsL
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lne;)V <init>
+	a ()Z isF
+	b ()F getE
+	a (DDDF)V a
+	c ()V c
+	a (FFF)F a
+m net/minecraft/src/ClsM
+	<init> (Z)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+n net/minecraft/src/ClsN
+	a a
+	b b
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	a ()V a
+o net/minecraft/src/ClsO
+	<init> (II)V <init>
+	a (I)I getBN
+p net/minecraft/src/ClsP
+	g g
+	h h
+	i i
+	j j
+	<init> (Lyk;Ljava/net/Socket;)V <init>
+	run ()V run
+	a (IILjava/lang/String;)V a
+	e ()V e
+	a (ILjava/lang/String;)V a
+	f ()V f
+q net/minecraft/src/ClsQ
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lq; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+r com/mojang/nbt/NBTFloat
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;F)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+s net/minecraft/src/ClsS
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> ()V <init>
+	<init> (Lmy;ZI)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+	<clinit> ()V <clinit>
+t net/minecraft/src/ClsT
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (IILkp;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+u net/minecraft/src/ClsU
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lu; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	a (I)I a
+v net/minecraft/src/ClsV
+	a a
+	<init> (ILna;)V <init>
+	a_ ()Lqj; a_
+	a (Lzy;III)V a
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	a ()Z a
+	b ()Z b
+	a (Ljava/util/Random;)I a
+	a (Lge;IIILtv;)V a
+	c ()I c
+	a (Lge;III)V a
+	<clinit> ()V <clinit>
+w net/minecraft/src/ClsW
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	d ()I d
+	e ()V e
+	b (Lph;)V b
+	a (Lph;)V a
+	f ()I f
+	a (ZI)V a
+x net/minecraft/src/ClsX
+	<init> (I)V <init>
+y net/minecraft/src/ClsY
+	a a
+	b b
+	c c
+	<init> (ILjava/util/Random;II)V <init>
+	b_ ()Lyj; b_
+z net/minecraft/src/ClsZ
+	a a
+	<init> (Lke;Ljava/lang/String;I)V <init>
+	a ()I a
+	G_ ()V setE
+aa net/minecraft/src/IfAa
+	a (Lon;I)V a
+ab net/minecraft/src/ClsAb
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+ac net/minecraft/src/ClsAc
+	<init> (IILna;)V <init>
+	<init> (ILna;)V <init>
+	b (I)I b
+ad net/minecraft/src/ClsAd
+	a a
+	b b
+	<init> ()V <init>
+	a (Ljb;)V a
+ae net/minecraft/src/ClsAe
+	a a
+	b b
+	c c
+	h h
+	d d
+	e e
+	f f
+	g g
+	<init> (Lco;F)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V setB
+	e ()V e
+	f ()Z f
+	a (Lge;III)Z a
+af net/minecraft/src/ClsAf
+	a a
+	b b
+	c c
+	<init> (Lko;)V <init>
+	<init> (Lko;Z)V <init>
+	a (Lni;)V a
+	a (Lih;)V a
+	b (Lih;)Z b
+	a (I)Lkp; a
+ag net/minecraft/src/ClsAg
+	a a
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	windowClosing (Ljava/awt/event/WindowEvent;)V windowClosing
+ah net/minecraft/src/ClsAh
+	<init> (II)V <init>
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a (Lge;IIILjava/util/Random;)V a
+ai net/minecraft/src/ClsAi
+	a a
+	b b
+	<init> (Lwo;Ljavax/swing/JTextField;)V <init>
+	actionPerformed (Ljava/awt/event/ActionEvent;)V actionPerformed
+aj net/minecraft/src/ClsAj
+	a a
+	<init> (Lwo;)V <init>
+	focusGained (Ljava/awt/event/FocusEvent;)V focusGained
+ak net/minecraft/src/ClsAk
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	a (I)[I a
+	a ()V a
+	<clinit> ()V <clinit>
+al net/minecraft/src/IfAl
+am net/minecraft/src/ClsAm
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+an net/minecraft/src/ClsAn
+	<init> (II)V <init>
+	a (I)I getLightOpacity
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	a (Ljava/util/Random;)I a
+	a_ (Lge;III)V a_
+	c (Lge;IIII)V c
+	b (Lge;IIILih;)V b
+	a (Lge;IIILih;)Z a
+	a_ (I)Lkp; a_
+ao net/minecraft/src/ClsAo
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (SS[B)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ap net/minecraft/src/ClsAp
+	<init> (Ljava/lang/String;FF)V <init>
+aq net/minecraft/src/ClsAq
+	b b
+	a a
+	c c
+	g g
+	<init> (Lge;)V <init>
+	b ()V b
+	c_ ()Z c_
+	g ()V g
+	d ()I d
+	b_ (I)I b_
+	e ()V e
+	a (Ljava/lang/Class;)Z a
+	b (Lph;)V b
+	a (Lph;)V a
+	a (Ltv;)Z a
+	l_ ()Lpa; getA
+	a (Z)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (IIII)V a
+	a (ZI)V a
+	m_ ()I getG
+	n_ ()Z n_
+	b (Z)V setG
+ar net/minecraft/src/ClsAr
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	a a
+	<init> (Lzf;II)V <init>
+	a (Lgi;)V a
+	b (Lgi;)V b
+	a (III)V a
+	a (Llx;)V a
+	a ()V a
+	a (Lqj;)V a
+as net/minecraft/src/ClsAs
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	a ()Z a
+	b ()Z b
+	b_ (Lge;III)Z b_
+	a (Lge;IIII)V a
+	a (Ljava/util/Random;)I a
+	a (Lge;IIILtv;)V a
+at net/minecraft/src/ClsAt
+	<init> (Ljava/lang/String;FF)V <init>
+au net/minecraft/src/ClsAu
+	a a
+	f f
+	<init> (I)V <init>
+	a (II)Z a
+	b (II)Lwg; b
+	<clinit> ()V <clinit>
+av net/minecraft/src/ClsAv
+	d d
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (Ljava/util/Random;)V <init>
+	a (DDD)D a
+	a (IDD)D a
+	a (IDDD)D a
+	a ([DDDDIIIDDDD)V a
+aw net/minecraft/src/ClsAw
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+ax net/minecraft/src/ClsAx
+	<init> (I)V <init>
+ay net/minecraft/src/ClsAy
+	<init> (Ley;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()Z c
+az net/minecraft/src/ClsAz
+	a a
+	b b
+	<init> (II)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+ba net/minecraft/src/ClsBa
+	a a
+	<clinit> ()V <clinit>
+bb net/minecraft/src/ClsBb
+	<init> (Lge;)V <init>
+	f_ ()Z f_
+	b (Lph;)V b
+	a (Lph;)V a
+	l ()Z l
+	m ()I m
+	n ()Z n
+	a (Lih;)I getAA
+bc net/minecraft/src/ClsBc
+	<init> (Ljava/lang/Class;II)V <init>
+	a (I)Z a
+bd net/minecraft/src/ClsBd
+	<init> (Ljava/lang/Class;II)V <init>
+	a (I)Z a
+be net/minecraft/src/ClsBe
+	a a
+	b b
+	<init> (Ljava/lang/String;Lum;)V <init>
+bf com/mojang/nbt/NBTCompressed
+	<init> ()V <init>
+	a (Ljava/io/InputStream;)Lph; readCompressed
+	a (Lph;Ljava/io/OutputStream;)V writeCompressed
+	a ([B)Lph; a
+	a (Lph;)[B a
+	a (Ljava/io/DataInput;)Lph; readRootCompound
+	a (Lph;Ljava/io/DataOutput;)V writeRootCompound
+bg net/minecraft/src/ClsBg
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+bh net/minecraft/src/ClsBh
+	bU bU
+	<init> (ILck;)V <init>
+	a (Lvz;)Z a
+	a (Lkp;Lvz;)F a
+	<clinit> ()V <clinit>
+bi net/minecraft/src/ClsBi
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lkm;BBBB)V <init>
+bj net/minecraft/src/ClsBj
+	d d
+	e e
+	f f
+	g g
+	a a
+	b b
+	c c
+	h h
+	i i
+	<init> (Lge;)V <init>
+	b ()V b
+	<init> (Lge;Lne;)V <init>
+	<init> (Lge;DDD)V <init>
+	c ()F c
+	d ()F d
+	a (DDDFF)V a
+	F_ ()V F_
+	e ()F e
+	a (Lwu;)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	a_ (Lih;)V a_
+bk net/minecraft/src/ClsBk
+	<init> (Lge;Ljava/util/Random;II)V <init>
+bl net/minecraft/src/ClsBl
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> (Lne;Ljava/lang/Class;FZ)V <init>
+	<init> (Lne;FZ)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	e ()V e
+bm net/minecraft/block/blockentity/BlockEntityTrap
+	a a
+	b b
+	<init> ()V <init>
+	c ()I getB
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	p_ ()Lkp; p_
+	a (ILkp;)V a
+	e ()Ljava/lang/String; getA
+	a (Lph;)V a
+	b (Lph;)V b
+	a ()I a
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+bn net/minecraft/src/ClsBn
+	a a
+	b b
+	<init> (Lka;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	e ()V e
+bo net/minecraft/src/ClsBo
+	a a
+	<init> (II)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+bp net/minecraft/src/ClsBp
+	a a
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+bq net/minecraft/src/IfBq
+	a (Lge;II)Lmy; a
+	a (Lge;Lmy;)V a
+	b (Lge;Lmy;)V b
+	a ()V a
+	b ()V b
+br net/minecraft/entity/passive/EntityBreedable
+	a a
+	b b
+	<init> (Lge;)V <init>
+	g ()V g
+	e ()V e
+	a (Ltv;F)V a
+	c (Lbr;)V c
+	a (Lbr;)Lbr; a
+	b (Ltv;F)V b
+	a (Lrq;I)Z a
+	a (III)F a
+	b (Lph;)V b
+	a (Lph;)V a
+	o ()Ltv; o
+	l ()Z l
+	m ()I m
+	n ()Z n
+	a (Lih;)I getAA
+	a (Lkp;)Z a
+	b (Lih;)Z b
+	r_ ()Z r_
+	s_ ()V setA
+	b (Lbr;)Z b
+bs net/minecraft/src/ClsBs
+	a a
+	b b
+	c c
+	d d
+	<init> (Lne;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	e ()V e
+bt net/minecraft/src/ClsBt
+	<init> (I)V <init>
+	a (I)I a
+	a (Lkp;)Ljava/lang/String; getBV
+bu net/minecraft/src/ClsBu
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+	b (Lge;IIII)V b
+bv net/minecraft/src/ClsBv
+	i i
+	<init> (Lne;)V <init>
+	a ()Z a
+	c ()V c
+	b ()Z b
+	e ()V e
+bw net/minecraft/src/ClsBw
+	a a
+	b b
+	c c
+	<init> (Ljava/lang/Class;III)V <init>
+bx net/minecraft/src/ClsBx
+	c c
+	a a
+	<init> (II)V <init>
+	d (Lge;III)V d
+	a (Lge;IIILjava/util/Random;)V a
+	g (Lge;III)V g
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I a
+	a (Lge;IIIIFI)V a
+	a (Lge;Lih;IIII)V a
+	c (I)I c
+	a ()Z a
+	a (II)I a
+	b (Lge;IIILtv;)V b
+by net/minecraft/src/ClsBy
+	<init> (I)V <init>
+	a (Lkp;IIIILne;)Z a
+	a (Lvz;)Z a
+	a (Lkp;Lvz;)F a
+bz net/minecraft/src/ClsBz
+	<init> ()V <init>
+ca net/minecraft/src/ClsCa
+	a a
+	b b
+	c c
+	h h
+	<init> (Lko;Ltr;)V <init>
+	a (Lff;)V a
+	a ()V a
+	b (Lih;)Z b
+	a (I)Lkp; a
+cb net/minecraft/src/ClsCb
+	<init> ()V <init>
+cc net/minecraft/src/EnumCc
+	a UNDEFINED
+	b UNDEAD
+	c ARTHROPOD
+	d $VALUES
+	values ()[Lcc; values
+	valueOf (Ljava/lang/String;)Lcc; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	<clinit> ()V <clinit>
+cd net/minecraft/src/ClsCd
+	d d
+	<init> (Lge;)V <init>
+	<init> (Lge;Lne;I)V <init>
+	<init> (Lge;DDDI)V <init>
+	e ()F e
+	c ()F c
+	d ()F d
+	f ()I getD
+	a (Lwu;)V a
+ce net/minecraft/src/ClsCe
+	<init> ()V <init>
+cf net/minecraft/src/ClsCf
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (III)V <init>
+	<init> (Lcf;)V <init>
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	a (Lcf;)I a
+	a (III)V a
+	b (III)D b
+	c (III)F c
+	compareTo (Ljava/lang/Object;)I compareTo
+cg net/minecraft/src/ClsCg
+	a a
+	b b
+	c c
+	d d
+	g g
+	h h
+	e e
+	f f
+	<init> (Lge;)V <init>
+	a (Lrq;I)Z a
+	b ()V b
+	d ()I d
+	F_ ()V F_
+	d_ ()V d_
+	a (DDDD)Z a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	f ()I f
+	a (ZI)V a
+	p ()F p
+	l ()Z l
+	q ()I q
+ch net/minecraft/src/ClsCh
+	<init> (I)V <init>
+	a (Ljava/util/Random;)Lqt; get_Q
+	b (Ljava/util/Random;)Lqt; b
+	a (Lge;Ljava/util/Random;II)V a
+ci net/minecraft/src/ClsCi
+	a a
+	<init> (IIZ)V <init>
+	d ()I d
+	b (Lge;IIILih;)V b
+	b (Lge;IIILtv;)V b
+	a (Lge;IIILih;)Z a
+	g (Lge;III)V g
+	a (Lge;IIILjava/util/Random;)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (ILjava/util/Random;)I a
+	a (Ljava/util/Random;)I a
+	h (Lge;III)V h
+	a_ (I)Lkp; a_
+cj net/minecraft/src/ClsCj
+	d d
+	e e
+	a a
+	b b
+	c c
+	a (DDD)Lcj; a
+	a ()V a
+	b (DDD)Lcj; b
+	<init> (DDD)V <init>
+	e (DDD)Lcj; e
+	b ()Lcj; b
+	a (Lcj;)D a
+	c (DDD)Lcj; c
+	b (Lcj;)D b
+	c (Lcj;)D c
+	d (DDD)D d
+	c ()D c
+	a (Lcj;D)Lcj; a
+	b (Lcj;D)Lcj; b
+	c (Lcj;D)Lcj; c
+	toString ()Ljava/lang/String; toString
+	a (F)V a
+	b (F)V b
+	<clinit> ()V <clinit>
+ck net/minecraft/src/EnumCk
+	a WOOD
+	b STONE
+	c IRON
+	d EMERALD
+	e GOLD
+	f f
+	g g
+	h h
+	i i
+	j j
+	k $VALUES
+	values ()[Lck; values
+	valueOf (Ljava/lang/String;)Lck; valueOf
+	<init> (Ljava/lang/String;IIIFII)V <init>
+	a ()I getG
+	b ()F getH
+	c ()I getI
+	d ()I getF
+	e ()I getJ
+	<clinit> ()V <clinit>
+cl net/minecraft/src/ClsCl
+	a a
+	<init> (IILsw;Lna;)V <init>
+	d ()I d
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	b (Lzy;III)Z b
+	c (Lge;III)Z c
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;IIILtv;)V a
+	g (Lge;III)V g
+	d (Lge;III)V d
+	a (Lzy;III)V a
+	a (Lzy;IIII)Z a
+	d (Lge;IIII)Z d
+	e ()Z isA
+	f ()V f
+	g ()I g
+cm net/minecraft/src/ClsCm
+	a a
+	b b
+	c c
+	d d
+	<init> (Lka;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V setB
+cn net/minecraft/src/ClsCn
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	d ()I d
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	p ()F p
+	f ()I f
+	a (ZI)V a
+	b (Lih;)Z b
+	a (Lbr;)Lbr; a
+co net/minecraft/src/ClsCo
+	b b
+	<init> (Lge;)V <init>
+	b ()V b
+	g ()V g
+	n ()Z n
+	c_ ()Z c_
+	d ()I d
+	a (F)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	p ()F p
+	f ()I f
+	a (Ltv;)Z a
+	a (Lrq;I)Z a
+	a (ZI)V a
+	b (Lih;)Z b
+	a (Lbr;)Lbr; a
+	a (Lkp;)Z a
+	b (Lbr;)Z b
+	r ()I r
+	c_ (I)V c_
+	l ()Z l
+	s ()Ljava/lang/String; getV
+cp net/minecraft/src/ClsCp
+	a a
+	b b
+	<init> ()V <init>
+	a (Ljava/util/Random;IIIZ)V a
+	a ()I getA
+	b ()I getB
+cq net/minecraft/src/ClsCq
+	<init> (Lge;)V <init>
+	<init> (Lge;Lne;)V <init>
+	<init> (Lge;DDD)V <init>
+	a (Lwu;)V a
+cr net/minecraft/src/ClsCr
+	b b
+	a a
+	<init> (Laba;Ltv;)V <init>
+	a (Ltv;Ltv;)I a
+	compare (Ljava/lang/Object;Ljava/lang/Object;)I compare
+cs net/minecraft/src/ClsCs
+	<init> (II)V <init>
+	b (Lkp;Lge;Lih;)Lkp; b
+ct net/minecraft/src/ClsCt
+	a a
+	b b
+	c c
+	d d
+	<init> (Lne;)V <init>
+	a ()Z a
+	b ()Z b
+	d ()V d
+	e ()V e
+cu net/minecraft/src/ClsCu
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (II)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+	<clinit> ()V <clinit>
+cv net/minecraft/src/ClsCv
+	a a
+	b b
+	<init> (Lni;Lni;)V <init>
+	b (Lih;)Z b
+	a (I)Lkp; a
+	a (Lih;)V a
+cw net/minecraft/src/ClsCw
+	a a
+	b b
+	c c
+	d d
+	<init> (Lgj;F)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	e ()V e
+cx net/minecraft/src/ClsCx
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+cy net/minecraft/src/ClsCy
+	e e
+	f f
+	g g
+	h h
+	i i
+	a a
+	j j
+	k k
+	b b
+	c c
+	d d
+	<init> (Lge;)V <init>
+	b ()V b
+	<init> (Lge;DDDDDD)V <init>
+	<init> (Lge;Lne;DDD)V <init>
+	F_ ()V F_
+	a (Lwu;)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	o_ ()Z o_
+	j_ ()F j_
+	a (Lrq;I)Z a
+	b (F)F b
+cz net/minecraft/src/ClsCz
+	a a
+	b b
+	c c
+	<init> (Lne;F)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+da net/minecraft/block/blockentity/BlockEntityAirportal
+	<init> ()V <init>
+db net/minecraft/block/blockentity/BlockEntityEnchantTable
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	r r
+	<init> ()V <init>
+	q_ ()V q_
+	<clinit> ()V <clinit>
+dc net/minecraft/src/ClsDc
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lge;)V <init>
+	b ()V b
+	<init> (Lge;DDD)V <init>
+	a (DID)V a
+	F_ ()V F_
+	b (Lph;)V b
+	a (Lph;)V a
+	a_ (Lih;)V a_
+	b (F)F b
+	k_ ()Z k_
+dd net/minecraft/src/ClsDd
+	a a
+	<init> (I)V <init>
+	a ()I getA
+	a (Lkp;Lih;Lge;IIII)Z a
+	a (Lkp;)Ljava/lang/String; getBV
+	b ()Ljava/lang/String; getBV
+de net/minecraft/src/ClsDe
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lge;DDDI)V <init>
+	g_ ()Z g_
+	<init> (Lge;)V <init>
+	b ()V b
+	F_ ()V F_
+	h_ ()Z h_
+	a (I)V a
+	a (Lrq;I)Z a
+	b (Lph;)V b
+	a (Lph;)V a
+	a_ (Lih;)V a_
+	y_ ()I getE
+	b (I)I b
+	k_ ()Z k_
+df net/minecraft/world/chunk/ChunkProvider
+	a (II)Z a
+	b (II)Lmy; b
+	c (II)Lmy; c
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z a
+	b ()Z b
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+dg net/minecraft/src/ClsDg
+	<init> (Lge;)V <init>
+	b ()V b
+	e ()V e
+	F_ ()V F_
+	d ()I d
+	x_ ()D x_
+	g_ ()Z g_
+	o ()Ltv; o
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (Ltv;F)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	f ()I f
+	a (ZI)V a
+	t ()Z t
+	u ()V u
+	v ()Lcc; v
+	a (Lzv;)Z a
+	w ()Z w
+	a (Z)V a
+dh net/minecraft/src/ClsDh
+	d d
+	<init> (I)V <init>
+di net/minecraft/src/ClsDi
+	<init> (I)V <init>
+	t_ ()Z t_
+	c (Lkp;Lge;Lih;)Llx; c
+dj net/minecraft/src/ClsDj
+	b b
+	a a
+	<init> ()V <init>
+	a (Lge;II)Lyj; a
+	a (Lge;ZZ)I a
+	a (Lmu;Lge;III)Z a
+	a (Lne;Lge;FFF)V a
+	a (Lge;Llt;IIIILjava/util/Random;)V a
+	<clinit> ()V <clinit>
+dk net/minecraft/src/ClsDk
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	run ()V run
+	b ()V b
+	a (Lhq;)V a
+	a ()V a
+	<clinit> ()V <clinit>
+dl net/minecraft/src/ClsDl
+	a a
+	b b
+	c c
+	<init> (Lne;)V <init>
+	a ()V a
+	a (FFF)F a
+dm net/minecraft/src/ClsDm
+	<init> (Lne;Ljava/lang/Class;F)V <init>
+	<init> (Lne;Ljava/lang/Class;FF)V <init>
+dn net/minecraft/src/ClsDn
+	a a
+	<init> (Ljava/lang/String;Lnet/minecraft/server/MinecraftServer;)V <init>
+	run ()V run
+do net/minecraft/src/ClsDo
+	b b
+	a a
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	a (Ljava/lang/String;)V a
+	a (I)V a
+	b (Ljava/lang/String;)V b
+dp net/minecraft/src/ClsDp
+	<init> (I)V <init>
+dq net/minecraft/src/EnumDq
+	a CLOTH
+	b CHAIN
+	c IRON
+	d GOLD
+	e DIAMOND
+	f f
+	g g
+	h h
+	i $VALUES
+	values ()[Ldq; values
+	valueOf (Ljava/lang/String;)Ldq; valueOf
+	<init> (Ljava/lang/String;II[II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I getH
+	<clinit> ()V <clinit>
+dr net/minecraft/src/ClsDr
+	a a
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	run ()V run
+ds net/minecraft/src/ClsDs
+	a a
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	run ()V run
+dt net/minecraft/src/ClsDt
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+du net/minecraft/src/ClsDu
+	a a
+	b b
+	c c
+	<init> (Ljava/lang/String;FF)V <init>
+	a ()F getB
+	b ()F getC
+	c ()Ljava/lang/String; c
+dv net/minecraft/src/EnumDv
+	a OK
+	b NOT_POSSIBLE_HERE
+	c NOT_POSSIBLE_NOW
+	d TOO_FAR_AWAY
+	e OTHER_PROBLEM
+	f NOT_SAFE
+	g $VALUES
+	values ()[Ldv; values
+	valueOf (Ljava/lang/String;)Ldv; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	<clinit> ()V <clinit>
+dw net/minecraft/src/ClsDw
+	a a
+	<init> (Lks;Lni;III)V <init>
+	a (Lkp;)Z a
+	a ()I getA
+dx net/minecraft/block/blockentity/BlockEntityMobSpawner
+	a a
+	d d
+	b b
+	c c
+	<init> ()V <init>
+	a (Ljava/lang/String;)V setD
+	c ()Z c
+	q_ ()V q_
+	e ()V e
+	a (Lph;)V a
+	b (Lph;)V b
+	d ()Llx; d
+dy net/minecraft/src/ClsDy
+	a a
+	b b
+	a (II)I a
+	a (Lge;IIIZ)Z a
+	<init> (IIZ)V <init>
+	d ()I d
+	a (Lge;III)V a
+	d (Lge;III)V d
+	a (Lzy;IIII)Z a
+	g (Lge;III)Z g
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;IIII)V a
+	d (Lge;IIII)Z d
+	a (ILjava/util/Random;I)I a
+	e ()Z isA
+	<clinit> ()V <clinit>
+dz net/minecraft/src/ClsDz
+	<init> (II)V <init>
+	a_ ()Lqj; a_
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a ()Z a
+ea net/minecraft/src/ClsEa
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lea; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+eb net/minecraft/src/ClsEb
+	a a
+	b b
+	c c
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Leb; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	a (I)I a
+	<clinit> ()V <clinit>
+ec net/minecraft/src/ClsEc
+	<init> ()V <init>
+ed net/minecraft/src/ClsEd
+	a a
+	b b
+	c c
+	<init> ([Le;)V <init>
+	a ()V a
+	b ()Z b
+	c ()Le; c
+	a (I)Le; a
+	d ()I getC
+	b (I)V setC
+	e ()I getB
+	c (I)V setB
+	a (Ltv;I)Lcj; a
+	a (Ltv;)Lcj; a
+	a (Led;)Z a
+	a (Lcj;)Z a
+ee net/minecraft/src/ClsEe
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lka;F)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+ef net/minecraft/src/ClsEf
+	a a
+	b b
+	<init> ()V <init>
+	<init> (II)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+eg net/minecraft/src/ClsEg
+	a a
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+eh net/minecraft/src/ClsEh
+	a a
+	b b
+	c c
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	z_ ()V z_
+	e ()V e
+	d ()I d
+	b ()V b
+	a (ZI)V a
+	f ()I f
+	b (Lih;)Z b
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	x ()I x
+	d_ (I)V d_
+	A_ ()Z A_
+	a (Z)V a
+	a (Ljava/util/Random;)I a
+	a (Lbr;)Lbr; a
+	z ()V z
+	<clinit> ()V <clinit>
+ei net/minecraft/src/ClsEi
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+ej net/minecraft/world/WorldType
+	a WORLD_TYPES
+	b DEFAULT
+	c FLAT
+	d DEFAULT_1_1
+	e e
+	f f
+	g g
+	h h
+	<init> (ILjava/lang/String;)V <init>
+	<init> (ILjava/lang/String;I)V <init>
+	a ()Ljava/lang/String; getName
+	b ()I getF
+	a (I)Lej; withVersion
+	a (Z)Lej; a
+	d ()Lej; d
+	c ()Z isH
+	a (Ljava/lang/String;)Lej; fromName
+	<clinit> ()V <clinit>
+ek net/minecraft/src/ClsEk
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I getB
+el net/minecraft/src/ClsEl
+	a a
+	<init> ()V <init>
+	a (Ljava/lang/String;)Ljava/lang/String; a
+	a (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String; a
+	<clinit> ()V <clinit>
+em net/minecraft/src/ClsEm
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	c ()I c
+	c (Lge;III)Z c
+	e (Lge;IIII)V e
+	a (Lge;IIII)V a
+	a (Ljava/util/Random;)I a
+en net/minecraft/src/ClsEn
+	b b
+	c c
+	a a
+	d d
+	<init> (Ljavax/swing/JTextArea;)V <init>
+	close ()V close
+	flush ()V flush
+	publish (Ljava/util/logging/LogRecord;)V publish
+eo net/minecraft/src/ClsEo
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> (Lne;)V <init>
+	a (Ltv;FF)V a
+	a (DDDFF)V a
+	a ()V a
+	a (FFF)F a
+ep net/minecraft/src/ClsEp
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lep; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+eq net/minecraft/src/ClsEq
+	bU bU
+	a a
+	bV bV
+	b b
+	<init> (IILck;[Lvz;)V <init>
+	a (Lkp;Lvz;)F a
+	a (Lkp;Lne;Lne;)Z a
+	a (Lkp;IIIILne;)Z a
+	a (Ltv;)I getBV
+	c ()I c
+er net/minecraft/src/ClsEr
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+es net/minecraft/src/ClsEs
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (ILzv;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+et net/minecraft/entity/passive/EntityTameable
+	a a
+	<init> (Lge;)V <init>
+	b ()V b
+	b (Lph;)V b
+	a (Lph;)V a
+	a (Z)V a
+	u_ ()Z u_
+	b (Z)V setG
+	v_ ()Z v_
+	c (Z)V c
+	A ()Ljava/lang/String; A
+	a (Ljava/lang/String;)V a
+	w_ ()Lne; w_
+	C ()Ljq; getA
+eu net/minecraft/src/ClsEu
+	a a
+	b b
+	<init> ()V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getB
+ev net/minecraft/src/IfEv
+	a (Lnz;)Z a
+	b (Lnz;)Lkp; b
+	a ()I a
+	b ()Lkp; getA
+ew net/minecraft/inventory/Container
+	d d
+	e e
+	f f
+	a a
+	g g
+	b b
+	<init> ()V <init>
+	a (Lig;)V a
+	a (Lff;)V a
+	b ()Ljava/util/List; b
+	a ()V a
+	a (Lih;I)Z a
+	a (Lni;I)Lig; a
+	b (I)Lig; b
+	a (I)Lkp; a
+	a (IIZLih;)Lkp; a
+	b (IIZLih;)V b
+	a (Lih;)V a
+	a (Lni;)V a
+	a (ILkp;)V a
+	c (Lih;)Z c
+	a (Lih;Z)V a
+	b (Lih;)Z b
+	a (Lkp;IIZ)Z a
+ex net/minecraft/src/ClsEx
+	<init> (II)V <init>
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	g (Lge;III)V g
+	a (Lge;IIILih;)Z a
+	b (Lge;IIILih;)V b
+	h (Lge;III)V h
+	d ()I d
+	c (Lge;III)Z c
+	a ()Z a
+	b ()Z b
+	c ()I c
+ey net/minecraft/src/ClsEy
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	<init> (II)V <init>
+	<clinit> ()V <clinit>
+ez net/minecraft/src/ClsEz
+	a a
+	b b
+	<init> (Lxb;Ljava/lang/String;FF)V <init>
+	b ()V b
+	a (Lph;)V a
+	b (Lph;)V b
+	o_ ()Z o_
+	a (Lrq;I)Z a
+	a_ (Ltv;)Z a_
+fa net/minecraft/src/ClsFa
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lib;F)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	e ()V e
+	a (Lih;)Z a
+fb net/minecraft/src/ClsFb
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (Ljava/lang/String;ZI)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+fc net/minecraft/src/ClsFc
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+fd net/minecraft/src/ClsFd
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+	a (II)I a
+	b (IIII)I b
+	a (JLfh;I)Lfh; a
+fe net/minecraft/src/EnumFe
+	a a
+	b b
+	c c
+	d $VALUES
+	values ()[Lfe; values
+	valueOf (Ljava/lang/String;)Lfe; valueOf
+	<init> (Ljava/lang/String;II)V <init>
+	<clinit> ()V <clinit>
+ff net/minecraft/src/IfFf
+	a (Lew;Ljava/util/List;)V a
+	a (Lew;ILkp;)V a
+	a (Lew;II)V a
+fg net/minecraft/src/ClsFg
+	<init> ()V <init>
+	a (II)I a
+	c (I)I c
+	d (I)I d
+	e (I)I e
+fh net/minecraft/src/ClsFh
+	b b
+	a a
+	c c
+	d d
+	a (JLej;)[Lfh; a
+	<init> (J)V <init>
+	a (J)V a
+	a (JJ)V a
+	a (I)I a
+	a (IIII)[I a
+fi net/minecraft/block/blockentity/BlockEntityRecordPlayer
+	a a
+	<init> ()V <init>
+	a (Lph;)V a
+	b (Lph;)V b
+fj net/minecraft/src/ClsFj
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	<init> (Lph;)V <init>
+	<init> (Lip;Ljava/lang/String;)V <init>
+	<init> (Lfj;)V <init>
+	a ()Lph; a
+	a (Ljava/util/List;)Lph; a
+	a (Lph;Lph;)V a
+	b ()J getA
+	c ()I getC
+	d ()I getD
+	e ()I getE
+	f ()J getF
+	g ()I getJ
+	a (J)V setF
+	a (III)V a
+	a (Ljava/lang/String;)V setK
+	h ()I getL
+	a (I)V setL
+	i ()Z isO
+	a (Z)V setO
+	j ()I getP
+	b (I)V setP
+	k ()Z isM
+	b (Z)V setM
+	l ()I getN
+	c (I)V setN
+	m ()I getQ
+	n ()Z isR
+	d (I)V setQ
+	o ()Z isS
+	p ()Lej; getB
+	a (Lej;)V setB
+fk net/minecraft/src/ClsFk
+	a a
+	d d
+	e e
+	b b
+	f f
+	g g
+	h h
+	c c
+	i i
+	<init> (Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V <init>
+	a (Ljava/net/Socket;)V a
+	a (Lmm;)V a
+	a (Lhu;)V a
+	a ()V a
+	a (Lfk;)Ljava/net/ServerSocket; getD
+	b (Lfk;)Ljava/util/HashMap; getI
+	c (Lfk;)I c
+	a (Lfk;Lhu;)V a
+	<clinit> ()V <clinit>
+fl net/minecraft/src/ClsFl
+	a a
+	b b
+	<init> (Lhu;Lpk;)V <init>
+	run ()V run
+fm net/minecraft/src/ClsFm
+	<init> (I)V <init>
+	a (I)I a
+	a (Lkp;)Ljava/lang/String; getBV
+	a (Lkp;Lih;Lge;IIII)Z a
+	b (Lkp;Lih;Lge;IIII)Z b
+fn net/minecraft/src/ClsFn
+	<init> (II)V <init>
+	a (ILjava/util/Random;I)I getLightOpacity
+fo net/minecraft/src/ClsFo
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	<init> ()V <init>
+	a ()V a
+	<clinit> ()V <clinit>
+fp net/minecraft/util/math/AABB
+	g g
+	h h
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	a (DDDDDD)Lfp; a
+	a ()V a
+	b (DDDDDD)Lfp; b
+	<init> (DDDDDD)V <init>
+	c (DDDDDD)Lfp; c
+	a (DDD)Lfp; a
+	b (DDD)Lfp; b
+	c (DDD)Lfp; c
+	a (Lfp;D)D a
+	b (Lfp;D)D b
+	c (Lfp;D)D c
+	a (Lfp;)Z a
+	d (DDD)Lfp; d
+	a (Lcj;)Z a
+	e (DDD)Lfp; e
+	b ()Lfp; b
+	a (Lcj;Lcj;)Lwu; a
+	b (Lcj;)Z b
+	c (Lcj;)Z c
+	d (Lcj;)Z d
+	b (Lfp;)V b
+	toString ()Ljava/lang/String; toString
+	<clinit> ()V <clinit>
+fq net/minecraft/src/ClsFq
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+	a (Ljava/util/Random;)Lkp; a
+	b (Ljava/util/Random;)Ljava/lang/String; b
+fr net/minecraft/src/ClsFr
+	a a
+	<init> ()V <init>
+	a (Lka;II)Lcj; a
+	a (Lka;IILcj;)Lcj; a
+	b (Lka;IILcj;)Lcj; b
+	c (Lka;IILcj;)Lcj; c
+	<clinit> ()V <clinit>
+fs net/minecraft/src/ClsFs
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (IIF)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+ft net/minecraft/src/ClsFt
+	a a
+	b b
+	c c
+	d d
+	<init> (Ljava/lang/Class;II)V <init>
+	a (I)Z a
+	a ()Z a
+fu net/minecraft/src/ClsFu
+	<init> ()V <init>
+	<init> (DDDDFFZ)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getB
+fv net/minecraft/src/ClsFv
+	a a
+	b b
+	<init> (I)V <init>
+	a ([B)V a
+	a (Ljava/lang/String;)V a
+	a (I)V a
+	a (S)V a
+	a ()[B a
+	b ()V b
+fw net/minecraft/src/ClsFw
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lge;IIIIII)V <init>
+	a (III)I a
+	b (III)Lqj; b
+	c (III)I c
+	d (III)Lna; d
+	e (III)Z e
+fx net/minecraft/src/ClsFx
+	a a
+	b b
+	a ()Lfx; a
+	<init> ()V <init>
+	a (ILkp;)V a
+	a (I)Lkp; a
+	b ()Ljava/util/Map; getB
+	<clinit> ()V <clinit>
+fy net/minecraft/src/ClsFy
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lfy; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+fz net/minecraft/src/ClsFz
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (Ltv;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ga net/minecraft/src/IfGa
+	a ()V a
+gb net/minecraft/src/ClsGb
+	<init> (II)V <init>
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I getLightOpacity
+gc net/minecraft/src/ClsGc
+	a a
+	<init> (IIZ)V <init>
+	a (II)I getBN
+	a (I)I a
+	a (Lge;III)V a
+	c (Lge;III)Z c
+	a (Lge;IIILne;)V a
+gd net/minecraft/src/ClsGd
+	a a
+	<init> (I)V <init>
+	a ()Z a
+	c ()I c
+	a_ ()Lqj; a_
+	b ()Z b
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	f ()V f
+	a (Lge;IIILih;)Z a
+	d (Lge;III)V d
+	a (ILjava/util/Random;I)I getLightOpacity
+ge net/minecraft/world/World
+	a a
+	b b
+	G G
+	H H
+	I I
+	c c
+	J J
+	K K
+	d d
+	e e
+	L cloudColor
+	f f
+	g g
+	h TICK_RANDOM_ADDEND
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	M cloudColor
+	p p
+	q q
+	r rand
+	s s
+	t t
+	u u
+	v chunkProvider
+	w w
+	x x
+	y y
+	N N
+	z z
+	A A
+	O O
+	P P
+	Q Q
+	B B
+	C C
+	D D
+	R R
+	E lightUpdateBlockList
+	S S
+	F F
+	a (II)Llt; a
+	a ()Laae; a
+	<init> (Lzb;Ljava/lang/String;Lip;Lzl;)V <init>
+	b ()Ldf; b
+	c ()V c
+	d ()Lcf; d
+	b (II)I b
+	a (ZLaam;)V a
+	A ()V A
+	a (III)I a
+	f (III)I f
+	g (III)Z g
+	h (III)Z h
+	i (III)Z i
+	a (IIII)Z a
+	a (IIIIII)Z a
+	h (II)Z h
+	c (II)Lmy; getChunk
+	d (II)Lmy; d
+	a (IIIII)Z a
+	b (IIII)Z b
+	d (III)Lna; d
+	c (III)I c
+	c (IIII)V c
+	d (IIII)Z d
+	e (IIII)Z e
+	b (IIIII)Z b
+	j (III)V j
+	f (IIII)V f
+	g (IIII)V g
+	k (III)V k
+	b (IIIIII)V b
+	h (IIII)V h
+	k (IIII)V k
+	l (III)Z l
+	m (III)I m
+	n (III)I n
+	a (IIIZ)I a
+	e (II)I e
+	a (Lfe;III)I a
+	a (Lfe;IIII)V a
+	o (III)V o
+	p (III)F p
+	e ()Z e
+	a (Lcj;Lcj;)Lwu; a
+	a (Lcj;Lcj;Z)Lwu; a
+	a (Lcj;Lcj;ZZ)Lwu; a
+	a (Ltv;Ljava/lang/String;FF)V a
+	a (DDDLjava/lang/String;FF)V a
+	a (Ljava/lang/String;III)V a
+	a (Ljava/lang/String;DDDDDD)V a
+	a (Ltv;)Z a
+	b (Ltv;)Z b
+	c (Ltv;)V c
+	d (Ltv;)V d
+	e (Ltv;)V e
+	f (Ltv;)V f
+	a (Lqy;)V a
+	a (Ltv;Lfp;)Ljava/util/List; a
+	a (F)I a
+	b (F)F b
+	f (II)I f
+	g (II)I g
+	c (IIIII)V c
+	d (IIIII)V d
+	f ()V f
+	a (Ljava/util/Collection;)V a
+	g (Ltv;)V g
+	a (Ltv;Z)V a
+	a (Lfp;)Z a
+	b (Lfp;)Z b
+	c (Lfp;)Z c
+	d (Lfp;)Z d
+	a (Lfp;Lna;Ltv;)Z a
+	a (Lfp;Lna;)Z a
+	b (Lfp;Lna;)Z b
+	a (Ltv;DDDF)Lsb; a
+	a (Ltv;DDDFZ)Lsb; a
+	a (Lcj;Lfp;)F a
+	a (Lih;IIII)Z a
+	b (III)Lqj; b
+	a (IIILqj;)V a
+	q (III)V q
+	a (Lqj;)V a
+	r (III)Z r
+	e (III)Z e
+	b (IIIZ)Z b
+	g ()V g
+	a (ZZ)V a
+	h ()V tick
+	B ()V B
+	i ()V i
+	C ()V C
+	j ()V j
+	k ()V k
+	a (IILmy;)V a
+	l ()V l
+	s (III)Z s
+	t (III)Z t
+	c (IIIZ)Z c
+	u (III)Z u
+	v (III)V v
+	c (IIIIII)I c
+	d (IIIIII)I d
+	b (Lfe;III)V checkLight
+	a (Z)Z a
+	a (Lmy;Z)Ljava/util/List; a
+	b (Ltv;Lfp;)Ljava/util/List; b
+	a (Ljava/lang/Class;Lfp;)Ljava/util/List; a
+	a (Ljava/lang/Class;Lfp;Ltv;)Ltv; a
+	b (IIILqj;)V b
+	a (Ljava/lang/Class;)I a
+	a (Ljava/util/List;)V a
+	b (Ljava/util/List;)V b
+	a (IIIIZI)Z a
+	a (Ltv;Ltv;FZZZZ)Led; a
+	a (Ltv;IIIFZZZZ)Led; a
+	i (IIII)Z i
+	w (III)Z w
+	j (IIII)Z j
+	x (III)Z x
+	a (Ltv;D)Lih; a
+	a (DDDD)Lih; a
+	a (DDD)Lih; a
+	b (Ltv;D)Lih; b
+	b (DDDD)Lih; b
+	a (Ljava/lang/String;)Lih; a
+	m ()V m
+	a (J)V a
+	b (J)V b
+	n ()J n
+	o ()J o
+	p ()Lcf; p
+	a (Lih;III)Z a
+	a (Ltv;B)V a
+	q ()Ldf; getChunkProvider
+	e (IIIII)V e
+	r ()Lzb; getW
+	s ()Lfj; getX
+	t ()V t
+	u ()V u
+	v ()Z v
+	c (F)F c
+	d (F)F d
+	w ()Z w
+	x ()Z x
+	y (III)Z y
+	z (III)Z z
+	a (Ljava/lang/String;Ljd;)V a
+	a (Ljava/lang/Class;Ljava/lang/String;)Ljd; a
+	b (Ljava/lang/String;)I b
+	f (IIIII)V f
+	a (Lih;IIIII)V a
+	y ()I getHeight
+	A (III)Ljava/util/Random; A
+	z ()Z z
+	a (Lmu;III)Lbw; a
+	b (Ljava/lang/String;III)Lyj; b
+gf net/minecraft/src/ClsGf
+	b b
+	c c
+	d d
+	e e
+	a a
+	<init> (Lgj;)V <init>
+	a ()Z a
+	c ()V c
+	d ()V setB
+	b ()Z b
+	e ()V e
+	f ()Z f
+	i ()V i
+	a (Lne;)V a
+gg net/minecraft/src/IfGg
+gh net/minecraft/src/ClsGh
+	<init> (I)V <init>
+	a (II)I a
+	a (I)I a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;)I a
+gi net/minecraft/src/ClsGi
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	cf cf
+	cg cg
+	ch ch
+	ci ci
+	cj cj
+	ck ck
+	cl cl
+	h h
+	i i
+	j j
+	<init> (Lnet/minecraft/server/MinecraftServer;Lge;Ljava/lang/String;Lwd;)V <init>
+	a (Lph;)V a
+	b (Lph;)V b
+	a (Lge;)V a
+	e_ (I)V e_
+	x ()V x
+	y ()[Lkp; getCk
+	A ()V setBF
+	B ()F B
+	F_ ()V F_
+	c (I)Lkp; c
+	a (Lrq;)V a
+	a (Lrq;I)Z a
+	C ()Z C
+	d (I)V d
+	a (Z)V a
+	e (I)V e
+	a (Lqj;)V a
+	a (Ltv;I)V a
+	C_ ()V C_
+	E ()V E
+	a (III)Ldv; a
+	a (ZZZ)V a
+	b (Ltv;)V b
+	a (DZ)V a
+	b (DZ)V b
+	bc ()V bc
+	b (III)V b
+	c (III)V c
+	a (Lni;)V a
+	a (Ltr;)V a
+	a (Lbm;)V a
+	a (Laay;)V a
+	a (Lew;ILkp;)V a
+	a (Lew;)V a
+	a (Lew;Ljava/util/List;)V a
+	a (Lew;II)V a
+	a (Lkp;)V a
+	F ()V F
+	G ()V G
+	H ()V H
+	a (Lxo;I)V a
+	I ()V I
+	D_ ()V setCf
+	a (Ljava/lang/String;)V a
+	K ()V K
+	a (Lkp;I)V a
+	b (Lzv;)V setE
+	c (Lzv;)V c
+	d (Lzv;)V d
+	a_ (DDD)V a_
+	c (Ltv;)V c
+	d (Ltv;)V d
+	L ()V L
+gj net/minecraft/src/ClsGj
+	b b
+	c c
+	g g
+	a a
+	<init> (Lge;)V <init>
+	<init> (Lge;I)V <init>
+	c_ ()Z c_
+	g ()V g
+	b ()V b
+	d ()I d
+	e ()V e
+	b (Lph;)V b
+	a (Lph;)V a
+	n ()Z n
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	f_ (I)V f_
+	x ()I x
+	A ()Z isC
+	a (Z)V setC
+	b (Z)V setG
+	C ()Z isG
+	a (Lne;)V a
+gk net/minecraft/src/ClsGk
+	a a
+	b b
+	<init> (Lnet/minecraft/server/MinecraftServer;Lgp;)V <init>
+	a (Ljava/lang/String;DDDDDD)V a
+	a (Ltv;)V a
+	b (Ltv;)V b
+	a (Ljava/lang/String;DDDFF)V a
+	a (IIIIII)V a
+	a (III)V a
+	b (III)V b
+	a (Ljava/lang/String;III)V a
+	a (IIILqj;)V a
+	a (Lih;IIIII)V a
+gl net/minecraft/src/ClsGl
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I get_H
+gm net/minecraft/src/ClsGm
+	<init> (I)V <init>
+	a (I)I a
+	a (Lge;IIILih;)Z a
+gn net/minecraft/src/ClsGn
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+go net/minecraft/src/ClsGo
+	<init> (IILna;Z)V <init>
+	a (Ljava/util/Random;)I a
+	a ()Z a
+	b ()Z b
+	h ()Z h
+gp net/minecraft/src/ClsGp
+	G G
+	H H
+	I I
+	J J
+	K K
+	<init> (Lnet/minecraft/server/MinecraftServer;Lzb;Ljava/lang/String;ILip;)V <init>
+	a (Ltv;Z)V a
+	b (Ltv;Z)V b
+	b ()Ldf; b
+	c (IIIIII)Ljava/util/List; c
+	a (Lih;III)Z a
+	c ()V c
+	c (Ltv;)V c
+	d (Ltv;)V d
+	a (I)Ltv; a
+	a (Ltv;)Z a
+	a (Ltv;B)V a
+	a (Ltv;DDDFZ)Lsb; a
+	e (IIIII)V e
+	A ()V A
+	i ()V i
+gq net/minecraft/src/ClsGq
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Ljava/io/File;Ljava/lang/String;Z)V <init>
+	f ()V f
+	a ()Ljava/io/File; getB
+	b ()V b
+	a (Lzl;)Lbq; a
+	c ()Lfj; c
+	a (Lfj;Ljava/util/List;)V a
+	a (Lfj;)V a
+	a (Lih;)V a
+	b (Lih;)V b
+	a (Ljava/lang/String;)Lph; a
+	d ()Ljv; d
+	g ()[Ljava/lang/String; g
+	e ()V e
+	b (Ljava/lang/String;)Ljava/io/File; b
+	<clinit> ()V <clinit>
+gr net/minecraft/src/ClsGr
+	a a
+	b b
+	<init> (II)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+gs net/minecraft/src/ClsGs
+	a a
+	b b
+	<init> (Let;)V <init>
+	a ()Z a
+	c ()V c
+gt net/minecraft/src/ClsGt
+	a a
+	<init> (I)V <init>
+	b (Lkp;)Ljava/util/List; b
+	b (I)Ljava/util/List; b
+	b (Lkp;Lge;Lih;)Lkp; b
+	c (Lkp;)I c
+	d (Lkp;)Lkt; d
+	a (Lkp;Lge;Lih;)Lkp; a
+	a (Lkp;Lih;Lge;IIII)Z a
+	c (I)Z c
+gu net/minecraft/src/ClsGu
+	<init> (II)V <init>
+	a (I)I getBN
+	a (Lge;IIILih;)Z a
+	f (Lge;IIII)V f
+	c_ (Lge;III)V c_
+	d (Lge;III)V d
+	a (Lge;IIIIFI)V a
+	a_ ()Lqj; a_
+gv net/minecraft/src/ClsGv
+	<init> (I)V <init>
+	a (II)I getBN
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	f ()V f
+	a ()Z a
+	c ()I c
+	b ()Z b
+	a (Lge;IIILih;)Z a
+	a (ILjava/util/Random;I)I getLightOpacity
+gw net/minecraft/src/ClsGw
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (IIIII)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+gx net/minecraft/src/ClsGx
+	a a
+	b b
+	c c
+	d d
+	<init> (Lbr;F)V <init>
+	a ()Z a
+	b ()Z isB
+	c ()V setD
+	d ()V setB
+	e ()V e
+gy net/minecraft/src/ClsGy
+	a a
+	b b
+	<init> ()V <init>
+	a ()Ljava/lang/String; a
+	a (C)Z a
+	<clinit> ()V <clinit>
+gz net/minecraft/src/ClsGz
+	i i
+	j j
+	k k
+	l l
+	a a
+	b b
+	m m
+	n n
+	o o
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lge;J)V <init>
+	a (II[B[Llt;)V a
+	b (II[B[Llt;)V b
+	c (II)Lmy; c
+	b (II)Lmy; b
+	a ([DIIIIII)[D a
+	a (II)Z a
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z isB
+	b ()Z b
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+ha net/minecraft/src/ClsHa
+	a a
+	f f
+	g g
+	<init> ()V <init>
+	a (II)Z a
+	a ()Ljava/util/List; a
+	b (II)Lwg; b
+hb net/minecraft/src/ClsHb
+	a a
+	b b
+	<init> (Lge;)V <init>
+	g_ ()Z g_
+	b ()V b
+	F_ ()V F_
+	b (Lph;)V b
+	a (Lph;)V a
+	o_ ()Z o_
+	a (Lrq;I)Z a
+hc net/minecraft/src/ClsHc
+	a a
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	d ()I d
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	v ()Lcc; v
+	e ()V e
+	a (Lrq;)V a
+	f ()I getB
+	a (ZI)V a
+	b (I)V b
+	<clinit> ()V <clinit>
+hd net/minecraft/src/ClsHd
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	g (J)I g
+	a (I)I a
+	a (II)I a
+	a ()I getB
+	a (J)Ljava/lang/Object; a
+	b (J)Z b
+	c (J)Lrx; c
+	a (JLjava/lang/Object;)V a
+	b (I)V b
+	a ([Lrx;)V a
+	d (J)Ljava/lang/Object; d
+	e (J)Lrx; e
+	a (IJLjava/lang/Object;I)V a
+	f (J)I f
+he net/minecraft/src/ClsHe
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	a (Ldf;Lge;II[B)V a
+	a (Lge;IIII[B)V a
+hf net/minecraft/src/ClsHf
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lzy;ZZZZ)V <init>
+	a (Ltv;Ltv;F)Led; a
+	a (Ltv;IIIF)Led; a
+	a (Ltv;DDDF)Led; a
+	a (Ltv;Le;Le;Le;F)Led; a
+	b (Ltv;Le;Le;Le;F)I b
+	a (Ltv;IIILe;I)Le; a
+	a (III)Le; a
+	a (Ltv;IIILe;)I a
+	a (Le;Le;)Led; a
+hg net/minecraft/src/ClsHg
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+hh net/minecraft/src/ClsHh
+	c c
+	<init> (Lge;Ljava/util/Random;III)V <init>
+	a ()Z isC
+hi net/minecraft/src/ClsHi
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lge;)V <init>
+	g_ ()Z g_
+	b ()V b
+	b_ (Ltv;)Lfp; b_
+	h ()Lfp; getBw
+	e_ ()Z e_
+	<init> (Lge;DDD)V <init>
+	x_ ()D x_
+	a (Lrq;I)Z a
+	o_ ()Z o_
+	F_ ()V F_
+	i_ ()V i_
+	b (Lph;)V b
+	a (Lph;)V a
+	b (Lih;)Z b
+	b (I)V b
+	k ()I k
+	c (I)V c
+	l ()I l
+	d (I)V d
+	m ()I m
+hj net/minecraft/src/ClsHj
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> (Lka;FF)V <init>
+	a ()Z a
+	b ()Z b
+	d ()V setB
+	c ()V c
+hk net/minecraft/src/ClsHk
+	a a
+	b b
+	<init> (Let;)V <init>
+	a ()Z a
+	c ()V c
+hl net/minecraft/src/ClsHl
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lhl; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+hm net/minecraft/src/ClsHm
+	a a
+	b b
+	c c
+	<init> (Laq;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	e ()V e
+hn net/minecraft/src/ClsHn
+	a a
+	b b
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	d ()I d
+	b ()V b
+	b (Lph;)V b
+	a (Lph;)V a
+	F_ ()V F_
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (Lrq;)V a
+	a (Ltv;)Z a
+	x ()Z x
+	f ()I f
+	A ()I A
+	c (I)V c
+	a (Ld;)V a
+ho net/minecraft/src/ClsHo
+	<init> (II)V <init>
+	c ()I c
+	e (Lge;III)Lfp; e
+	c (Lge;III)Z c
+	d (I)Z d
+	f (Lge;III)Z f
+hp net/minecraft/src/ClsHp
+	a a
+	b b
+	<init> (II)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+hq net/minecraft/src/IfHq
+	c ()Z c
+hr net/minecraft/src/ClsHr
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+hs net/minecraft/src/ClsHs
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	G G
+	H H
+	I I
+	J J
+	K K
+	<init> (Llt;)V <init>
+	a (Lge;Ljava/util/Random;II)V a
+	a ()V a
+	a (ILqt;II)V a
+	b (ILqt;II)V b
+	b ()V b
+ht net/minecraft/src/ClsHt
+	a a
+	b b
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lht; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+hu net/minecraft/src/ClsHu
+	a a
+	d d
+	b b
+	c c
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> (Lnet/minecraft/server/MinecraftServer;Ljava/net/Socket;Ljava/lang/String;)V <init>
+	a ()V a
+	a (Ljava/lang/String;)V a
+	a (Lny;)V a
+	a (Lpk;)V a
+	b (Lpk;)V b
+	a (Ljava/lang/String;[Ljava/lang/Object;)V a
+	a (Ler;)V a
+	a (Llx;)V a
+	b ()Ljava/lang/String; b
+	c ()Z c
+	a (Lhu;)Ljava/lang/String; getI
+	a (Lhu;Lpk;)Lpk; a
+	<clinit> ()V <clinit>
+hv net/minecraft/src/ClsHv
+	a a
+	b b
+	c c
+	d d
+	<init> (Lge;JZ)V <init>
+	a ([B)V a
+	c (II)Lmy; c
+	b (II)Lmy; b
+	a (II)Z a
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z a
+	b ()Z b
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+hw net/minecraft/src/ClsHw
+	a a
+	b b
+	c c
+	d d
+	<init> (Lgj;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V setB
+	e ()V e
+hx net/minecraft/src/ClsHx
+	<init> (I)V <init>
+	b ()Z b
+	a ()Z a
+	a (II)I getBN
+	a (I)I a
+	a_ ()Lqj; a_
+	a (Lge;IIILih;)Z a
+hy net/minecraft/src/ClsHy
+	<init> (Lnet/minecraft/server/MinecraftServer;Lzb;Ljava/lang/String;ILip;Lgp;)V <init>
+hz net/minecraft/src/ClsHz
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (Lyq;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ia net/minecraft/src/ClsIa
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (Ltv;)V <init>
+	<init> (IDDD)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getB
+ib net/minecraft/src/ClsIb
+	b b
+	c c
+	g g
+	h h
+	i i
+	j j
+	k k
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	b (Lne;)V setL
+	g ()V g
+	d ()I d
+	b ()V b
+	g_ ()Z g_
+	b (Lph;)V b
+	a (Lph;)V a
+	n ()Z n
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	p ()F p
+	f ()I f
+	e ()V e
+	F_ ()V F_
+	B ()F B
+	D ()I D
+	a (Lrq;I)Z a
+	a (Ltv;)Z a
+	b (Lih;)Z b
+	a (Lkp;)Z a
+	q ()I q
+	E ()Z E
+	d (Z)V d
+	a (Lbr;)Lbr; a
+	e (Z)V setB
+	b (Lbr;)Z b
+ic net/minecraft/src/ClsIc
+	a a
+	<init> (II)V <init>
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	h (Lge;III)V h
+	d ()I d
+	g (Lge;III)Z g
+	<clinit> ()V <clinit>
+id net/minecraft/item/Item
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	G G
+	H H
+	I I
+	J J
+	K K
+	L L
+	M M
+	N N
+	O O
+	P P
+	Q Q
+	R R
+	S S
+	T T
+	U U
+	V V
+	W W
+	X X
+	Y Y
+	Z Z
+	aa aa
+	ab ab
+	ac ac
+	ad ad
+	ae ae
+	af af
+	ag ag
+	ah ah
+	ai ai
+	aj aj
+	ak ak
+	al al
+	am am
+	an an
+	ao ao
+	ap ap
+	aq aq
+	ar ar
+	as as
+	at at
+	au au
+	av av
+	aw aw
+	ax ax
+	ay ay
+	az az
+	aA aA
+	aB aB
+	aC aC
+	aD aD
+	aE aE
+	aF aF
+	aG aG
+	aH aH
+	aI aI
+	aJ aJ
+	aK aK
+	aL aL
+	aM aM
+	aN aN
+	aO aO
+	aP aP
+	aQ aQ
+	aR aR
+	aS aS
+	aT aT
+	aU aU
+	aV aV
+	aW aW
+	aX aX
+	aY aY
+	aZ aZ
+	ba ba
+	bb bb
+	bc bc
+	bd bd
+	be be
+	bf bf
+	bg bg
+	bh bh
+	bi bi
+	bj bj
+	bk bk
+	bl bl
+	bm bm
+	bn bn
+	bo bo
+	bp bp
+	bq bq
+	br br
+	bs bs
+	bt bt
+	bu bu
+	bv bv
+	bw bw
+	bx bx
+	by by
+	bz bz
+	bA bA
+	bB bB
+	bC bC
+	bD bD
+	bE bE
+	bF bF
+	bG bG
+	bH bH
+	bI bI
+	bJ bJ
+	bK bK
+	bL bL
+	bM bM
+	bN bN
+	bO bO
+	bP bP
+	bQ bQ
+	a a
+	bR bR
+	bS bS
+	bT bT
+	b b
+	bU bU
+	bV bV
+	<init> (I)V <init>
+	d (I)Lid; d
+	e (I)Lid; e
+	a (II)Lid; a
+	a (Lkp;Lih;Lge;IIII)Z a
+	a (Lkp;Lvz;)F a
+	a (Lkp;Lge;Lih;)Lkp; a
+	b (Lkp;Lge;Lih;)Lkp; b
+	d ()I getBQ
+	a (I)I a
+	e ()Z isBT
+	a (Z)Lid; a
+	f ()I f
+	f (I)Lid; f
+	g ()Z g
+	a (Lkp;Lne;Lne;)Z a
+	a (Lkp;IIIILne;)Z a
+	a (Ltv;)I getA
+	a (Lvz;)Z a
+	a (Lkp;Lne;)V a
+	h ()Lid; h
+	a (Ljava/lang/String;)Lid; a
+	b ()Ljava/lang/String; getBV
+	a (Lkp;)Ljava/lang/String; getBV
+	a (Lid;)Lid; a
+	e (Lkp;)Z e
+	i ()Z i
+	j ()Lid; getB
+	k ()Z k
+	l ()Ljava/lang/String; l
+	a (Lkp;Lge;Ltv;IZ)V a
+	d (Lkp;Lge;Lih;)V d
+	t_ ()Z t_
+	d (Lkp;)Lkt; d
+	c (Lkp;)I c
+	a (Lkp;Lge;Lih;I)V a
+	b (Ljava/lang/String;)Lid; b
+	m ()Ljava/lang/String; getBU
+	n ()Z n
+	f (Lkp;)Z f
+	a (Lge;Lih;Z)Lwu; a
+	c ()I c
+	<clinit> ()V <clinit>
+ie net/minecraft/src/ClsIe
+	a a
+	b b
+	c c
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lie; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	<clinit> ()V <clinit>
+if net/minecraft/src/ClsIf
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+ig net/minecraft/src/ClsIg
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lni;III)V <init>
+	a (Lkp;Lkp;)V a
+	a (Lkp;I)V a
+	b (Lkp;)V b
+	c (Lkp;)V c
+	a (Lkp;)Z a
+	b ()Lkp; b
+	c ()Z c
+	d (Lkp;)V d
+	d ()V d
+	a ()I get_H
+	a (I)Lkp; a
+	a (Lni;I)Z a
+ih net/minecraft/entity/player/Player
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	a a
+	G G
+	H H
+	b b
+	c c
+	I I
+	J J
+	K K
+	L L
+	M M
+	N N
+	O O
+	d d
+	e e
+	P P
+	Q Q
+	R R
+	<init> (Lge;)V <init>
+	d ()I d
+	b ()V b
+	M ()Z M
+	N ()V N
+	O ()V O
+	P ()Z P
+	F_ ()V F_
+	b (Lkp;I)V b
+	K ()V K
+	Q ()Z Q
+	F ()V F
+	R ()V R
+	E ()I E
+	d_ ()V d_
+	e ()V e
+	l (Ltv;)V l
+	a (Lrq;)V a
+	b (Ltv;I)V b
+	b_ (I)I b_
+	S ()Lja; S
+	b (Lkp;)Lja; b
+	a (Lkp;Z)Lja; a
+	a (Lja;)V a
+	a (Lvz;)F a
+	b (Lvz;)Z b
+	a (Lph;)V a
+	b (Lph;)V b
+	a (Lni;)V a
+	c (III)V c
+	b (III)V b
+	a (Ltv;I)V a
+	B ()F B
+	A ()V setBF
+	a (Lrq;I)Z a
+	b (Lrq;I)I b
+	C ()Z C
+	a (Lne;Z)V a
+	f (I)V f
+	T ()I T
+	c (Lrq;I)V c
+	a (Ltr;)V a
+	a (Lbm;)V a
+	a (Laav;)V a
+	a (Laay;)V a
+	e (Ltv;)V e
+	U ()Lkp; U
+	V ()V V
+	W ()D W
+	C_ ()V C_
+	f (Ltv;)V f
+	c (Ltv;)V c
+	d (Ltv;)V d
+	a (Lkp;)V a
+	X ()V setBE
+	Y ()Z Y
+	a (III)Ldv; a
+	c (I)V c
+	a (ZZZ)V a
+	G ()Z G
+	a (Lge;Lcf;)Lcf; a
+	Z ()Z is_E
+	aa ()Z aa
+	a (Ljava/lang/String;)V a
+	ab ()Lcf; getB
+	a (Lcf;)V a
+	a (Lxo;)V a
+	a (Lxo;I)V a
+	ac ()V ac
+	a (FF)V a
+	b (DDD)V b
+	h (DDD)V h
+	a (F)V a
+	c (Lne;)V c
+	ad ()V ad
+	g (I)V g
+	e_ (I)V e_
+	ae ()I ae
+	H ()V H
+	c (F)V c
+	af ()Lti; getN
+	b (Z)Z b
+	ag ()Z ag
+	a (Lkp;I)V a
+	d (III)Z d
+	a (Lih;)I getAA
+	ah ()Z ah
+	s ()Ljava/lang/String; getV
+	e (I)V e
+	c (Lih;)V c
+	g_ ()Z g_
+	L ()V L
+ii net/minecraft/src/ClsIi
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ij net/minecraft/src/ClsIj
+	c c
+	<init> (Lge;)V <init>
+	e ()V e
+	F_ ()V F_
+	o ()Ltv; o
+	a (Lrq;I)Z a
+	a (Ltv;)Z a
+	a (Ltv;F)V a
+	a (III)F a
+	b (Lph;)V b
+	a (Lph;)V a
+	C ()Z C
+	l ()Z l
+ik net/minecraft/src/ClsIk
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lka;Ljava/lang/Class;FFF)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V setD
+	e ()V e
+il net/minecraft/src/ClsIl
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;Lxv;Lrv;III)V a
+	a (Ljava/util/Random;)Lrv; a
+	a (Ly;Ljava/util/List;Ljava/util/Random;II)Lln; a
+	b (Ly;Ljava/util/List;Ljava/util/Random;II)Lln; b
+	c (Ly;Ljava/util/List;Ljava/util/Random;II)Lln; c
+	a (Lxv;)Z a
+im net/minecraft/src/ClsIm
+	a a
+	b b
+	<init> ()V <init>
+	a (Ljb;)V a
+in net/minecraft/src/ClsIn
+	<init> (II)V <init>
+	a (I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I a
+io net/minecraft/src/ClsIo
+	a a
+	b b
+	c c
+	d d
+	<init> (Lzb;)V <init>
+	a (Ljava/lang/Class;Ljava/lang/String;)Ljd; a
+	a (Ljava/lang/String;Ljd;)V a
+	a ()V a
+	a (Ljd;)V a
+	b ()V b
+	a (Ljava/lang/String;)I a
+ip net/minecraft/src/ClsIp
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (JIZZLej;)V <init>
+	a ()J getA
+	b ()I getB
+	c ()Z isD
+	d ()Z isC
+	e ()Lej; getE
+	a (I)I a
+iq net/minecraft/src/ClsIq
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+ir net/minecraft/src/ClsIr
+	a a
+	<init> (Ljava/lang/String;Ltv;)V <init>
+	a ()Ltv; getO
+	a (Lih;)Ljava/lang/String; a
+is net/minecraft/src/ClsIs
+	a a
+	b b
+	c c
+	<init> (Llt;FF)V <init>
+	a (II)Llt; getA
+	a ([Llt;IIII)[Llt; a
+	a ([FIIII)[F a
+	b ([FIIII)[F b
+	b ([Llt;IIII)[Llt; b
+	a ([Llt;IIIIZ)[Llt; a
+	a (IIILjava/util/List;Ljava/util/Random;)Lyj; a
+	a (IIILjava/util/List;)Z a
+it net/minecraft/src/ClsIt
+	<init> (II)V <init>
+	a (Lge;IIILjava/util/Random;)V a
+	a (II)I a
+	b (Lge;IIILjava/util/Random;)V b
+	f (Lge;IIII)Z f
+	c (I)I c
+iu net/minecraft/src/ClsIu
+	<init> (Lge;)V <init>
+	d ()I d
+	a (Ltv;)Z a
+iv net/minecraft/src/ClsIv
+	a a
+	<init> ()V <init>
+	a ()V a
+	<clinit> ()V <clinit>
+iw net/minecraft/src/ClsIw
+	a a
+	<init> ()V <init>
+	<init> (J)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ix net/minecraft/src/ClsIx
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (I)V <init>
+	a (III)I a
+	a (IIII)V a
+	b (III)I b
+	b (IIII)V b
+	a ()Z a
+	b ()Z isB
+	c ()I getA
+	c (IIII)V c
+	c (III)I c
+	d (IIII)V d
+	d (III)I d
+	d ()V d
+	e ()V e
+	f ()I getB
+	g ()[B getD
+	h ()Lym; getE
+	i ()Lym; getF
+	j ()Lym; getG
+	k ()Lym; getH
+	a ([B)V setD
+	a (Lym;)V setE
+	b (Lym;)V setF
+	c (Lym;)V setG
+	d (Lym;)V setH
+iy net/minecraft/src/ClsIy
+	b b
+	c c
+	a a
+	<init> (Lne;)V <init>
+	a ()Z a
+	c ()V c
+	d ()V setA
+	b ()Z b
+	f ()I getA
+	e ()V e
+iz net/minecraft/src/ClsIz
+	<init> (Ljava/io/File;)V <init>
+	a ()I a
+	a (Ljava/lang/String;Z)Lzb; a
+	a (Ljava/lang/String;)Z a
+	a (Ljava/lang/String;Laam;)Z a
+	c (Ljava/lang/String;)V c
+	a (Ljava/io/File;Ljava/util/ArrayList;Laae;IILaam;)V a
+	a (Ljava/io/File;Ljava/io/File;Laae;IILaam;)V a
+	a (Ljava/io/File;Ljava/util/ArrayList;)V a
+ja net/minecraft/src/ClsJa
+	a a
+	b b
+	c c
+	e e
+	d d
+	<init> (Lge;DDDLkp;)V <init>
+	g_ ()Z g_
+	<init> (Lge;)V <init>
+	b ()V b
+	F_ ()V F_
+	k ()V setB
+	h_ ()Z h_
+	a (I)V a
+	a (Lrq;I)Z a
+	b (Lph;)V b
+	a (Lph;)V a
+	a_ (Lih;)V a_
+	s ()Ljava/lang/String; getV
+	k_ ()Z k_
+jb net/minecraft/src/ClsJb
+	a a
+	b b
+	a ()Ljb; a
+	<init> ()V <init>
+	a (Lkp;[Ljava/lang/Object;)V a
+	b (Lkp;[Ljava/lang/Object;)V b
+	a (Lnz;)Lkp; a
+	b ()Ljava/util/List; getB
+	<clinit> ()V <clinit>
+jc net/minecraft/src/ClsJc
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+jd net/minecraft/src/ClsJd
+	a a
+	b b
+	<init> (Ljava/lang/String;)V <init>
+	a (Lph;)V a
+	b (Lph;)V b
+	a ()V a
+	a (Z)V setB
+	b ()Z isB
+je com/mojang/nbt/NBTByteArray
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;[B)V <init>
+	a (Ljava/io/DataOutput;)V a
+	a (Ljava/io/DataInput;)V a
+	a ()B a
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+jf net/minecraft/src/ClsJf
+	o o
+	<init> (Ljava/lang/String;Ltv;Ltv;)V <init>
+	b ()Ltv; getA
+	a ()Ltv; getO
+	a (Lih;)Ljava/lang/String; a
+jg net/minecraft/src/ClsJg
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	a ([Lgp;)V a
+	a (Lgi;)V a
+	a ()I a
+	a (I)Lzf; a
+	b (Lgi;)V b
+	c (Lgi;)V c
+	d (Lgi;)V d
+	e (Lgi;)V e
+	a (Lhu;Ljava/lang/String;)Lgi; a
+	a (Lgi;IZ)Lgi; a
+	a (Lgi;I)V a
+	b ()V b
+	a (IIII)V a
+	a (Llx;)V a
+	a (Llx;I)V a
+	c ()Ljava/lang/String; c
+	d ()[Ljava/lang/String; d
+	a (Ljava/lang/String;)V a
+	b (Ljava/lang/String;)V b
+	l ()V l
+	m ()V m
+	e ()Ljava/util/Set; getF
+	f ()Ljava/util/Set; getG
+	c (Ljava/lang/String;)V c
+	d (Ljava/lang/String;)V d
+	n ()V n
+	o ()V o
+	e (Ljava/lang/String;)V e
+	f (Ljava/lang/String;)V f
+	p ()V p
+	q ()V q
+	r ()V r
+	s ()V s
+	g (Ljava/lang/String;)Z g
+	h (Ljava/lang/String;)Z h
+	i (Ljava/lang/String;)Lgi; i
+	a (Ljava/lang/String;Ljava/lang/String;)V a
+	a (DDDDILlx;)V a
+	a (Lih;DDDDILlx;)V a
+	j (Ljava/lang/String;)V j
+	a (Ljava/lang/String;Llx;)Z a
+	g ()V g
+	a (IIILqj;)V a
+	k (Ljava/lang/String;)V k
+	l (Ljava/lang/String;)V l
+	h ()Ljava/util/Set; getI
+	i ()V i
+	a (Lgi;Lgp;)V a
+	f (Lgi;)V f
+	j ()I j
+	k ()I getE
+	t ()[Ljava/lang/String; t
+	u ()V u
+	<clinit> ()V <clinit>
+jh net/minecraft/src/ClsJh
+	a a
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I get_H
+ji net/minecraft/src/ClsJi
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (IILkp;)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+jj net/minecraft/src/ClsJj
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	n n
+	o o
+	<init> (Ltv;IIZ)V <init>
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	a (Ljava/util/List;)V a
+	a (Llx;)V a
+	b (Llx;)V b
+	a ()V a
+	a (Lgi;)V a
+	b (Lgi;)V b
+	b (Ljava/util/List;)V b
+	b ()Llx; b
+	c (Lgi;)V c
+jk net/minecraft/src/IfJk
+	a (Lrs;)V a
+jl net/minecraft/src/ClsJl
+	a a
+	<init> (ILna;)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+	a (Lge;IIIILvz;)V a
+jm net/minecraft/src/ClsJm
+	a a
+	b b
+	c c
+	e e
+	<init> (IIIII)V <init>
+jn net/minecraft/src/ClsJn
+	b b
+	c c
+	a a
+	<init> (Lrm;II)V <init>
+	close ()V close
+jo net/minecraft/src/ClsJo
+	a a
+	<init> (Len;)V <init>
+	format (Ljava/util/logging/LogRecord;)Ljava/lang/String; format
+jp net/minecraft/src/ClsJp
+	<init> (I)V <init>
+jq net/minecraft/src/ClsJq
+	a a
+	b b
+	<init> (Let;)V <init>
+	a ()Z a
+	c ()V c
+	d ()V d
+	a (Z)V setB
+jr net/minecraft/src/ClsJr
+	a a
+	b b
+	<init> (ILjava/util/Random;II)V <init>
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Ljr; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+js com/mojang/nbt/NBTIntArray
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;[I)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+jt net/minecraft/src/ClsJt
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+ju net/minecraft/src/ClsJu
+	a a
+	b b
+	<init> (Labl;Lph;)V <init>
+jv net/minecraft/src/IfJv
+	a (Lih;)V a
+	b (Lih;)V b
+	g ()[Ljava/lang/String; g
+jw net/minecraft/src/ClsJw
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> ()V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+jx net/minecraft/src/ClsJx
+	a a
+	<init> (Lne;Z)V <init>
+	a ()Z a
+	c ()V c
+jy net/minecraft/src/ClsJy
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	<init> (Z)V <init>
+	a ()V a
+	a (IIIFBI)V a
+	a (I)F a
+	b (I)F b
+	a (III)V a
+	a ([I[II)V a
+	b ()V b
+	c (I)Z c
+	c ()V c
+	d ()V d
+	a ([I[I)I a
+	e ()Z e
+	a (DDD)V a
+	a (Lge;Ljava/util/Random;III)Z a
+	<clinit> ()V <clinit>
+jz com/mojang/nbt/NBTBase
+	a key
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/lang/String;)Ljz; setKey
+	c ()Ljava/lang/String; getKey
+	b (Ljava/io/DataInput;)Ljz; read
+	a (Ljz;Ljava/io/DataOutput;)V write
+	a (BLjava/lang/String;)Ljz; a
+	a (B)Ljava/lang/String; getType
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+ka net/minecraft/src/ClsKa
+	a a
+	d d
+	e e
+	f f
+	<init> (Lge;)V <init>
+	F ()Z F
+	d_ ()V d_
+	G ()V G
+	a (Ltv;F)V a
+	b (Ltv;F)V b
+	a (III)F a
+	o ()Ltv; o
+	l ()Z l
+	H ()Z H
+	a (Led;)V setA
+	I ()Ltv; getD
+	d (Ltv;)V setD
+	J ()F J
+kb net/minecraft/src/ClsKb
+	a a
+	<init> ()V <init>
+	a (F)F a
+	b (F)F b
+	c (F)F c
+	a (D)F a
+	d (F)I d
+	b (D)I b
+	c (D)J c
+	e (F)F e
+	a (I)I a
+	a (III)I a
+	a (DD)D a
+	a (Ljava/util/Random;II)I a
+	<clinit> ()V <clinit>
+kc net/minecraft/src/ClsKc
+	<init> (I)V <init>
+kd net/minecraft/src/ClsKd
+	a a
+	<init> ()V <init>
+	a ([BII)Ljava/lang/String; a
+	a ([BI)I a
+	b ([BII)I b
+	c ([BII)I c
+	a (B)Ljava/lang/String; a
+	<clinit> ()V <clinit>
+ke net/minecraft/inventory/ContainerEnchantment
+	a a
+	h h
+	i xpSeed
+	j xpSeed
+	k xpSeed
+	l rand
+	b b
+	c c
+	<init> (Lko;Lge;III)V <init>
+	a (Lff;)V a
+	a ()V a
+	a (Lni;)V a
+	a (Lih;I)Z a
+	a (Lih;)V a
+	b (Lih;)Z b
+	a (I)Lkp; a
+kf net/minecraft/src/ClsKf
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	G G
+	H H
+	I I
+	J J
+	K K
+	L L
+	M M
+	N N
+	<init> (IZI)V <init>
+	a (II)Lkf; a
+	a ()I get_H
+	a (Lne;I)V a
+	a (Lne;Lne;ID)V a
+	b ()Z isK
+	b (II)Z b
+	a (Ljava/lang/String;)Lkf; a
+	c ()Ljava/lang/String; get_I
+	a (D)Lkf; a
+	d ()D get_L
+	e ()Lkf; e
+	f ()Z is_M
+	g ()I get_N
+	<clinit> ()V <clinit>
+kg net/minecraft/src/ClsKg
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+kh net/minecraft/src/EnumKh
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F $VALUES
+	values ()[Lkh; values
+	valueOf (Ljava/lang/String;)Lkh; valueOf
+	<init> (Ljava/lang/String;ILjava/lang/String;IIII)V <init>
+	<clinit> ()V <clinit>
+ki net/minecraft/src/ClsKi
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+kj net/minecraft/src/ClsKj
+	a a
+	<init> ()V <init>
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lln; a
+	b (Lln;Ljava/util/List;Ljava/util/Random;IIIII)Lln; b
+	a (Lln;Ljava/util/List;Ljava/util/Random;IIIII)Lln; a
+	a ()[Ljm; a
+	<clinit> ()V <clinit>
+kk net/minecraft/src/ClsKk
+	a a
+	b b
+	c c
+	h h
+	i i
+	j j
+	<init> (Lko;Lge;III)V <init>
+	a (Lni;)V a
+	a (Lih;)V a
+	b (Lih;)Z b
+	a (I)Lkp; a
+kl net/minecraft/src/ClsKl
+	b b
+	c c
+	d d
+	e e
+	a a
+	<init> (II[Lkp;Lkp;)V <init>
+	b ()Lkp; getE
+	a (Lnz;)Z a
+	a (Lnz;IIZ)Z a
+	b (Lnz;)Lkp; b
+	a ()I getA
+km net/minecraft/src/ClsKm
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	j j
+	i i
+	<init> (Ljava/lang/String;)V <init>
+	a (Lph;)V a
+	b (Lph;)V b
+	a (Lih;Lkp;)V a
+	a (Lkp;Lge;Lih;)[B a
+	a (III)V a
+kn net/minecraft/src/ClsKn
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (IILjava/lang/String;I)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+ko net/minecraft/src/ClsKo
+	a a
+	b b
+	c c
+	d d
+	f f
+	e e
+	<init> (Lih;)V <init>
+	d ()Lkp; d
+	h ()I h
+	f (I)I f
+	d (Lkp;)I d
+	m ()I m
+	e (Lkp;)I e
+	i ()V i
+	c (I)Z c
+	d (I)Z d
+	a (Lkp;)Z a
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	a (Lvz;)F a
+	a (Ltx;)Ltx; a
+	b (Ltx;)V b
+	c ()I c
+	g_ (I)Lkp; g_
+	e ()Ljava/lang/String; getA
+	a ()I getA
+	a (Ltv;)I a
+	b (Lvz;)Z b
+	j ()I j
+	e (I)V e
+	k ()V k
+	G_ ()V setE
+	b (Lkp;)V b
+	l ()Lkp; getF
+	a (Lih;)Z a
+	c (Lkp;)Z c
+	f ()V f
+	g ()V g
+	a (Lko;)V a
+kp net/minecraft/src/ClsKp
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lvz;)V <init>
+	<init> (Lvz;I)V <init>
+	<init> (Lvz;II)V <init>
+	<init> (Lid;)V <init>
+	<init> (Lid;I)V <init>
+	<init> (Lid;II)V <init>
+	<init> (III)V <init>
+	a (Lph;)Lkp; a
+	<init> ()V <init>
+	a (I)Lkp; a
+	a ()Lid; a
+	a (Lih;Lge;IIII)Z a
+	a (Lvz;)F a
+	a (Lge;Lih;)Lkp; a
+	b (Lge;Lih;)Lkp; b
+	b (Lph;)Lph; b
+	c (Lph;)V c
+	b ()I b
+	c ()Z c
+	d ()Z d
+	e ()Z e
+	f ()Z f
+	g ()I getE
+	h ()I h
+	b (I)V setE
+	i ()I i
+	a (ILne;)V a
+	a (Lne;Lih;)V a
+	a (IIIILih;)V a
+	a (Ltv;)I a
+	b (Lvz;)Z b
+	a (Lih;)V a
+	a (Lne;)V a
+	j ()Lkp; j
+	a (Lkp;Lkp;)Z a
+	b (Lkp;Lkp;)Z b
+	d (Lkp;)Z d
+	a (Lkp;)Z a
+	k ()Ljava/lang/String; k
+	b (Lkp;)Lkp; b
+	toString ()Ljava/lang/String; toString
+	a (Lge;Ltv;IZ)V a
+	a (Lge;Lih;I)V a
+	c (Lkp;)Z c
+	l ()I l
+	m ()Lkt; m
+	b (Lge;Lih;I)V b
+	n ()Z n
+	o ()Lph; getD
+	p ()Ltx; p
+	d (Lph;)V setD
+	q ()Z q
+	a (Lon;I)V a
+	r ()Z r
+kq net/minecraft/src/ClsKq
+	<init> (II)V <init>
+	d (I)Z d
+	a (II)I getBN
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Lge;Lih;IIII)V a
+kr net/minecraft/data/EntityType
+	b b
+	c c
+	d d
+	e e
+	f f
+	a a
+	<init> ()V <init>
+	a (Ljava/lang/Class;Ljava/lang/String;I)V registerEntity
+	a (Ljava/lang/Class;Ljava/lang/String;III)V a
+	a (Ljava/lang/String;Lge;)Ltv; createEntity
+	a (Lph;Lge;)Ltv; createEntity
+	a (ILge;)Ltv; createEntity
+	a (Ltv;)I a
+	b (Ltv;)Ljava/lang/String; b
+	a (Ljava/lang/String;)I a
+	<clinit> ()V <clinit>
+ks net/minecraft/src/ClsKs
+	a a
+	b b
+	<init> (Lko;Laay;)V <init>
+	a (Lff;)V a
+	a ()V a
+	b (Lih;)Z b
+	a (I)Lkp; a
+kt net/minecraft/src/EnumKt
+	a a
+	b b
+	c c
+	d d
+	e e
+	f $VALUES
+	values ()[Lkt; values
+	valueOf (Ljava/lang/String;)Lkt; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	<clinit> ()V <clinit>
+ku net/minecraft/src/ClsKu
+	a a
+	b b
+	<init> ()V <init>
+	<init> (IB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+kv net/minecraft/src/ClsKv
+	<init> (I)V <init>
+	a (Ljava/util/List;)I a
+	a (Lrn;Ljava/util/List;Ljava/util/List;Ljava/util/Random;IIIII)Lkv; a
+	a (Lrn;Ljava/util/List;Ljava/util/Random;IIIIIZ)Lln; a
+	a (Lrn;Ljava/util/List;Ljava/util/Random;IIZ)Lln; a
+	b (Lrn;Ljava/util/List;Ljava/util/Random;IIZ)Lln; b
+	c (Lrn;Ljava/util/List;Ljava/util/Random;IIZ)Lln; c
+	a (Lxv;)Z a
+kw net/minecraft/src/EnumKw
+	a TILE
+	b ENTITY
+	c $VALUES
+	values ()[Lkw; values
+	valueOf (Ljava/lang/String;)Lkw; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	<clinit> ()V <clinit>
+kx net/minecraft/src/ClsKx
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> ()V <init>
+	<clinit> ()V <clinit>
+ky net/minecraft/src/ClsKy
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	G G
+	H H
+	<init> ()V <init>
+	a ()V a
+	b ()V b
+	c ()V c
+	d ()V d
+	a (Ljava/lang/String;I)[Lxo; a
+	a ([Lxo;Ljava/lang/String;III)[Lxo; a
+	b ([Lxo;Ljava/lang/String;III)[Lxo; b
+	a ([Lxo;)V a
+	a ([Lxo;II)V a
+	<clinit> ()V <clinit>
+kz net/minecraft/src/ClsKz
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	q q
+	<init> ()V <init>
+	<init> (Lne;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getB
+la net/minecraft/src/ClsLa
+	a a
+	<init> (ILvz;)V <init>
+	a (I)I a
+lb net/minecraft/src/ClsLb
+	b b
+	c c
+	d d
+	a a
+	e e
+	<init> ()V <init>
+	a ()V a
+	c ()Z c
+	a (Ljava/lang/Class;Ljava/util/List;Ljava/util/Random;IIIII)Lil; a
+	b (Ly;Ljava/util/List;Ljava/util/Random;IIIII)Lil; b
+	c (Ly;Ljava/util/List;Ljava/util/Random;IIIII)Lln; c
+	a (Ly;Ljava/util/List;Ljava/util/Random;IIIII)Lln; a
+	a (Ljava/lang/Class;)Ljava/lang/Class; a
+	b ()Lww; b
+	<clinit> ()V <clinit>
+lc net/minecraft/src/ClsLc
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+ld net/minecraft/src/ClsLd
+	a a
+	<init> (IILna;Z)V <init>
+	a ()Z a
+le net/minecraft/src/ClsLe
+	a a
+	b b
+	<init> (IIZ)V <init>
+	a (II)I a
+	c ()I c
+	a ()Z a
+	a (Lge;IIILih;)Z a
+	a (Lge;IIILne;)V a
+	a (Lge;IIII)V a
+	a (Lge;III)V a
+	g (Lge;III)V g
+	f (Lge;IIII)Z f
+	a (Lge;IIIII)V a
+	a (Lzy;III)V a
+	f ()V f
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	e (Lge;III)Lfp; e
+	b ()Z b
+	d (I)I d
+	e (I)Z e
+	c (Lge;IIILih;)I c
+	a (ILge;IIIZ)Z a
+	g (Lge;IIII)Z g
+	h (Lge;IIII)Z h
+lf net/minecraft/src/ClsLf
+	<init> (Ley;)V <init>
+	c ()Z c
+lg net/minecraft/src/ClsLg
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	a (Lzy;III)V a
+	c (Lge;III)Z c
+	a (Lge;IIII)V a
+	g (Lge;III)Z g
+	a (Lge;Lih;IIII)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a (Lge;IIILjava/util/Random;)V a
+lh net/minecraft/block/blockentity/BlockEntityChest
+	i i
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	j j
+	<init> ()V <init>
+	c ()I c
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	e ()Ljava/lang/String; getA
+	a (Lph;)V a
+	b (Lph;)V b
+	a ()I a
+	a (Lih;)Z a
+	h ()V h
+	i ()V i
+	q_ ()V q_
+	b (II)V b
+	f ()V f
+	g ()V g
+	j ()V setO
+li net/minecraft/src/ClsLi
+	a a
+	b b
+	<init> (Lge;)V <init>
+	<init> (Lge;DDDI)V <init>
+	g_ ()Z g_
+	b ()V b
+	o_ ()Z o_
+	F_ ()V F_
+	b (Lph;)V b
+	a (Lph;)V a
+lj net/minecraft/src/ClsLj
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+lk net/minecraft/src/ClsLk
+	<init> (II)V <init>
+	<init> (IILna;)V <init>
+	c (Lge;III)Z c
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	a ()Z a
+	b ()Z b
+	b (Lzy;III)Z b
+	c ()I c
+	c (Lzy;III)Z c
+ll net/minecraft/src/ClsLl
+	a a
+	b b
+	<init> (Laq;)V <init>
+	a ()Z a
+	c ()V c
+lm net/minecraft/src/ClsLm
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> ()V <init>
+	g (I)I g
+	a (II)I getBN
+	a (I)Ljava/lang/Object; a
+	b (I)Z b
+	c (I)Lys; c
+	a (ILjava/lang/Object;)V a
+	h (I)V h
+	a ([Lys;)V a
+	d (I)Ljava/lang/Object; d
+	e (I)Lys; e
+	a ()V a
+	a (IILjava/lang/Object;I)V a
+	f (I)I f
+ln net/minecraft/src/ClsLn
+	g g
+	h h
+	i i
+	<init> (I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	b ()Lxv; getG
+	c ()I getI
+	a (Ljava/util/List;Lxv;)Lln; a
+	b_ ()Lyj; b_
+	a (Lge;Lxv;)Z a
+	a (II)I a
+	b (I)I b
+	b (II)I b
+	c (II)I c
+	a (Lge;IIIIILxv;)V a
+	a (Lge;IIILxv;)I a
+	a (Lge;Lxv;IIIIIIIIZ)V a
+	a (Lge;Lxv;IIIIIIZLjava/util/Random;Lcp;)V a
+	a (Lge;Lxv;Ljava/util/Random;FIIIIIIIIZ)V a
+	a (Lge;Lxv;Ljava/util/Random;FIIIII)V a
+	a (Lge;Lxv;IIIIIIIZ)V a
+	b (Lge;IIILxv;)V b
+	b (Lge;IIIIILxv;)V b
+	a (Lge;Lxv;Ljava/util/Random;III[Ljm;I)V a
+	a (Ljava/util/Random;[Ljm;Llh;I)V a
+	a (Lge;Lxv;Ljava/util/Random;IIII)V a
+lo net/minecraft/src/ClsLo
+	<init> ()V <init>
+	a (Ljb;)V a
+lp net/minecraft/src/ClsLp
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (Ltv;IIII)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+lq net/minecraft/src/ClsLq
+	a a
+	b b
+	c c
+	<init> (Lne;)V <init>
+	a ()V a
+	a (Ltv;)Z a
+lr net/minecraft/src/ClsLr
+	<init> (Lge;)V <init>
+	<init> (Lge;Lne;)V <init>
+	<init> (Lge;DDD)V <init>
+	e ()F e
+	c ()F c
+	d ()F d
+	a (Lwu;)V a
+ls net/minecraft/src/ClsLs
+	a a
+	b b
+	<init> ()V <init>
+	<init> (ILjava/util/List;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getB
+lt net/minecraft/world/biome/Biome
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	G G
+	H H
+	I I
+	J J
+	K K
+	L L
+	R R
+	S S
+	M M
+	N N
+	O O
+	P P
+	Q Q
+	<init> (I)V <init>
+	a ()Lhs; a
+	a (FF)Llt; a
+	b (FF)Llt; b
+	j ()Llt; j
+	a (Ljava/util/Random;)Lqt; get_Q
+	b (Ljava/util/Random;)Lqt; b
+	b ()Llt; b
+	a (Ljava/lang/String;)Llt; a
+	a (I)Llt; a
+	b (I)Llt; b
+	a (Lmu;)Ljava/util/List; a
+	c ()Z is_R
+	d ()Z d
+	e ()Z e
+	f ()F f
+	g ()I g
+	h ()I h
+	i ()F get_F
+	a (Lge;Ljava/util/Random;II)V a
+	<clinit> ()V <clinit>
+lu net/minecraft/src/ClsLu
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+lv net/minecraft/src/ClsLv
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+lw net/minecraft/src/ClsLw
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+lx net/minecraft/network/Packet
+	j j
+	a a
+	b b
+	c c
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	<init> ()V <init>
+	a (IZZLjava/lang/Class;)V a
+	a (I)Llx; a
+	b ()I b
+	a (Ljava/io/DataInputStream;Z)Llx; a
+	a (Llx;Ljava/io/DataOutputStream;)V a
+	a (Ljava/lang/String;Ljava/io/DataOutputStream;)V a
+	a (Ljava/io/DataInputStream;I)Ljava/lang/String; a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+	b (Ljava/io/DataInputStream;)Lkp; b
+	a (Lkp;Ljava/io/DataOutputStream;)V a
+	c (Ljava/io/DataInputStream;)Lph; c
+	a (Lph;Ljava/io/DataOutputStream;)V a
+	<clinit> ()V <clinit>
+ly net/minecraft/src/ClsLy
+	a a
+	b b
+	<init> (I)V <init>
+	a (Lkp;)Ljava/lang/String; getBV
+	a (Lkp;Lih;Lge;IIII)Z a
+	a (Lkp;Lne;)V a
+	<clinit> ()V <clinit>
+lz net/minecraft/src/ClsLz
+	a a
+	b b
+	c c
+	<init> (III)V <init>
+ma net/minecraft/src/ClsMa
+	a a
+	<init> ()V <init>
+	b ()Ljava/util/List; getA
+	a (II)Z a
+	b (II)Lwg; b
+mb net/minecraft/src/ClsMb
+	<init> (I)V <init>
+	a (I)I getLightOpacity
+	c (Lge;III)Z c
+	a (Lge;IIILjava/util/Random;)V a
+mc net/minecraft/src/ClsMc
+	a a
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+md net/minecraft/src/ClsMd
+	c c
+	a a
+	b b
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lmd; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	<clinit> ()V <clinit>
+me net/minecraft/src/ClsMe
+	A A
+	B B
+	C C
+	D D
+	a a
+	<init> (III)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I get_H
+	a (ILne;)I a
+	a (Lon;)Z a
+	<clinit> ()V <clinit>
+mf net/minecraft/src/ClsMf
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	<init> ()V <init>
+	a (II)Z a
+	b (II)I b
+	c (II)I c
+	a (Ljava/util/Collection;)I a
+	a (ZZZIIII)I a
+	a (I)I a
+	a (Ljava/lang/String;III)I a
+	a (IZ)Ljava/util/List; a
+	a (IIZZZ)I a
+	a (ILjava/lang/String;)I a
+	<clinit> ()V <clinit>
+mg net/minecraft/src/ClsMg
+	a a
+	<init> (Ljb;)V <init>
+	a (Lev;Lev;)I a
+	compare (Ljava/lang/Object;Ljava/lang/Object;)I compare
+mh net/minecraft/src/ClsMh
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lmh; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+mi net/minecraft/src/ClsMi
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	a ()V a
+	a ([J)D a
+	paint (Ljava/awt/Graphics;)V paint
+	a (Lmi;)V a
+	<clinit> ()V <clinit>
+mj net/minecraft/src/ClsMj
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Ljava/util/List;Ljava/util/Random;IIII)Lxv; a
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+mk net/minecraft/src/ClsMk
+	a a
+	b b
+	<init> ()V <init>
+	a (Lon;I)V a
+	<init> (Lqo;)V <init>
+ml net/minecraft/src/ClsMl
+	<init> (ILck;)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+mm net/minecraft/src/ClsMm
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	<init> (Lnet/minecraft/server/MinecraftServer;Lqq;Lgi;)V <init>
+	a ()V a
+	a (Ljava/lang/String;)V a
+	a (Ljw;)V a
+	a (DDDFF)V a
+	a (Llj;)V a
+	a (Lii;)V a
+	a (Ljava/lang/String;[Ljava/lang/Object;)V a
+	a (Llx;)V a
+	b (Llx;)V b
+	a (Ljh;)V a
+	a (Lqr;)V a
+	c (Ljava/lang/String;)V c
+	a (Loy;)V a
+	a (Lvd;)V a
+	a (Labb;)V a
+	b ()I b
+	b (Ljava/lang/String;)V b
+	d ()Ljava/lang/String; d
+	a (La;)V a
+	a (Lqk;)V a
+	a (Lnx;)V a
+	a (Lry;)V a
+	a (Lqs;)V a
+	a (Leu;)V a
+	a (Lpv;)V a
+	a (Lvq;)V a
+	a (Lnn;)V a
+	c ()Z c
+	a (Lhz;)V a
+	<clinit> ()V <clinit>
+mn net/minecraft/src/ClsMn
+	<init> (ILna;)V <init>
+	a ()Z a
+	b (Lzy;III)Z b
+	b ()Z b
+	c ()I c
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	c (Lzy;III)I c
+	d (Lzy;III)Z d
+	d (I)V d
+	b (Lge;IIILih;)V b
+	a (Lge;IIILih;)Z a
+	a (Lge;IIIZ)V a
+	a (Lge;IIII)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Lge;IIILcj;Lcj;)Lwu; a
+	c (Lge;III)Z c
+	g ()I g
+	e (Lzy;III)I e
+mo net/minecraft/pathfinding/PathHeap
+	a a
+	b b
+	<init> ()V <init>
+	a (Le;)Le; addPoint
+	a ()V setB
+	b ()Le; b
+	a (Le;F)V a
+	a (I)V a
+	b (I)V b
+	c ()Z c
+mp net/minecraft/world/chunk/ChunkProviderServer
+	b b
+	c c
+	d d
+	e e
+	a a
+	f f
+	g g
+	h h
+	<init> (Lgp;Lbq;Ldf;)V <init>
+	a (II)Z a
+	d (II)V d
+	c ()V c
+	c (II)Lmy; c
+	b (II)Lmy; b
+	e (II)Lmy; e
+	a (Lmy;)V a
+	b (Lmy;)V b
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z a
+	b ()Z b
+	d ()Ljava/lang/String; d
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+mq com/mojang/nbt/ClsMq
+	<init> ()V <init>
+	a (Ljava/io/DataInput;)V a
+	a (Ljava/io/DataOutput;)V a
+	a ()B a
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+mr net/minecraft/src/ClsMr
+	<init> (Lge;II)V <init>
+	a (II)Z a
+	b (II)I b
+	a ()V a
+	b ()V b
+	a (III)I a
+	b (III)I b
+	a (IIIII)Z a
+	a (IIII)Z a
+	c (III)I c
+	b (IIII)Z b
+	a (Lfe;III)I a
+	a (Lfe;IIII)V a
+	c (IIII)I c
+	a (Ltv;)V addEntity
+	b (Ltv;)V b
+	a (Ltv;I)V a
+	d (III)Z d
+	e (III)Lqj; e
+	a (Lqj;)V a
+	a (IIILqj;)V a
+	f (III)V f
+	c ()V c
+	d ()V d
+	e ()V setL
+	a (Ltv;Lfp;Ljava/util/List;)V a
+	a (Ljava/lang/Class;Lfp;Ljava/util/List;)V a
+	a (Z)Z a
+	a (J)Ljava/util/Random; a
+	f ()Z f
+	c (II)Z c
+ms net/minecraft/src/ClsMs
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (FII)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+mt net/minecraft/src/ClsMt
+	<init> ()V <init>
+	a ()V a
+	b ()Ldf; b
+	a (JF)F a
+	c ()Z c
+	d ()Z d
+	a (II)Z a
+	e ()Lcf; e
+	f ()I f
+mu net/minecraft/src/EnumMu
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h $VALUES
+	values ()[Lmu; values
+	valueOf (Ljava/lang/String;)Lmu; valueOf
+	<init> (Ljava/lang/String;ILjava/lang/Class;ILna;Z)V <init>
+	a ()Ljava/lang/Class; getD
+	b ()I getE
+	c ()Lna; getF
+	d ()Z isG
+	<clinit> ()V <clinit>
+mv net/minecraft/src/ClsMv
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I getB
+mw net/minecraft/src/ClsMw
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+	a (Lon;)Z a
+mx net/minecraft/src/ClsMx
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	<init> (II)V <init>
+my net/minecraft/world/chunk/Chunk
+	a a
+	q q
+	r r
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	s s
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	t t
+	p p
+	<init> (Lge;II)V <init>
+	<init> (Lge;[BII)V <init>
+	a (II)Z a
+	b (II)I b
+	g ()I g
+	h ()[Lix; getQ
+	a ()V a
+	b ()V b
+	e (II)V e
+	o ()V o
+	g (III)V g
+	d (IIII)V d
+	h (III)V h
+	b (III)I b
+	a (III)I a
+	c (III)I c
+	a (IIII)Z a
+	a (IIIII)Z a
+	b (IIII)Z b
+	a (Lfe;III)I a
+	a (Lfe;IIII)V a
+	c (IIII)I c
+	a (Ltv;)V addEntity
+	b (Ltv;)V b
+	a (Ltv;I)V a
+	d (III)Z d
+	e (III)Lqj; e
+	a (Lqj;)V a
+	a (IIILqj;)V a
+	f (III)V f
+	c ()V c
+	d ()V d
+	e ()V setL
+	a (Ltv;Lfp;Ljava/util/List;)V a
+	a (Ljava/lang/Class;Lfp;Ljava/util/List;)V a
+	a (Z)Z a
+	a (J)Ljava/util/Random; a
+	f ()Z f
+	i ()V i
+	a (Ldf;Ldf;II)V a
+	d (II)I d
+	j ()V j
+	k ()Labl; k
+	c (II)Z c
+	a ([Lix;)V setQ
+	a (IILaae;)Llt; a
+	l ()[B getR
+	a ([B)V setR
+	m ()V setT
+	n ()V n
+mz net/minecraft/src/ClsMz
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lmz; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+na net/minecraft/src/ClsNa
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	G G
+	H H
+	I I
+	F F
+	J J
+	K K
+	<init> (Ley;)V <init>
+	d ()Z d
+	a ()Z a
+	b ()Z b
+	c ()Z c
+	o ()Lna; o
+	e ()Lna; e
+	f ()Lna; f
+	g ()Z is_G
+	h ()Lna; h
+	i ()Z is_H
+	j ()Z j
+	k ()Z is_J
+	l ()I get_K
+	m ()Lna; m
+	n ()Lna; n
+	<clinit> ()V <clinit>
+nb net/minecraft/src/ClsNb
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+nc net/minecraft/src/ClsNc
+	f f
+	a a
+	<init> (Lks;Lih;Lni;III)V <init>
+	a (Lkp;)Z a
+	a ()I a
+	c (Lkp;)V c
+nd net/minecraft/src/ClsNd
+	a a
+	<init> (Lmi;)V <init>
+	actionPerformed (Ljava/awt/event/ActionEvent;)V actionPerformed
+ne net/minecraft/entity/LivingBase
+	S S
+	T T
+	U U
+	V V
+	W W
+	X X
+	Y Y
+	Z Z
+	aa aa
+	ab ab
+	ac ac
+	ad ad
+	ae ae
+	af af
+	ag ag
+	ah ah
+	ai ai
+	aj aj
+	ak ak
+	al al
+	am am
+	an an
+	ao ao
+	ap ap
+	aq aq
+	ar ar
+	a a
+	as as
+	at at
+	au au
+	av av
+	aw aw
+	ax ax
+	ay ay
+	az az
+	aA aA
+	aB aB
+	aC aC
+	aD aD
+	aE aE
+	aF aF
+	aG aG
+	aH aH
+	b b
+	c c
+	d d
+	aI aI
+	aJ aJ
+	aK aK
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	aL aL
+	aM aM
+	l l
+	m m
+	n n
+	o o
+	p p
+	aN aN
+	aO aO
+	aP aP
+	aQ aQ
+	aR aR
+	aS aS
+	aT aT
+	aU aU
+	aV aV
+	aW aW
+	aX aX
+	aY aY
+	aZ aZ
+	ba ba
+	bb bb
+	q q
+	r r
+	bc bc
+	<init> (Lge;)V <init>
+	ai ()Leo; getG
+	aj ()Ll; getH
+	ak ()Lpr; getI
+	al ()Lzp; getK
+	am ()Llq; getM
+	an ()Ljava/util/Random; getBS
+	ao ()Lne; getB
+	ap ()Lne; getD
+	g (Ltv;)V g
+	aq ()I getAV
+	ar ()F get_X
+	as ()F getN
+	d (F)V d
+	a (Ltv;)Z a
+	at ()Lne; getL
+	b (Lne;)V setL
+	a (Ljava/lang/Class;)Z a
+	z ()V z
+	au ()Z au
+	e (III)Z e
+	b (IIII)V b
+	av ()Lcf; getO
+	aw ()F getP
+	ax ()V setP
+	ay ()Z ay
+	a (Lne;)V a
+	b ()V b
+	h (Ltv;)Z h
+	o_ ()Z o_
+	e_ ()Z e_
+	B ()F B
+	m ()I m
+	az ()V az
+	aA ()V tick
+	aB ()V aB
+	b_ (I)I b_
+	a (Lih;)I getAA
+	ah ()Z ah
+	aC ()V aC
+	R ()V R
+	F_ ()V F_
+	b (FF)V b
+	d (I)V d
+	d ()I d
+	aD ()I getAp
+	h (I)V h
+	a (Lrq;I)Z a
+	A ()F A
+	T ()I T
+	f (I)V f
+	d (Lrq;I)I d
+	b (Lrq;I)I b
+	c (Lrq;I)V c
+	p ()F p
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (Ltv;IDD)V a
+	a (Lrq;)V a
+	b (I)V b
+	a (ZI)V a
+	f ()I f
+	a (F)V a
+	a (FF)V a
+	t ()Z t
+	b (Lph;)V b
+	a (Lph;)V a
+	aE ()Z aE
+	f_ ()Z f_
+	e (F)V setAX
+	f (Z)V setAZ
+	e ()V e
+	c_ ()Z c_
+	aF ()Z aF
+	Q ()Z Q
+	P ()Z P
+	ac ()V ac
+	n ()Z n
+	aG ()V aG
+	z_ ()V z_
+	g ()V g
+	d_ ()V d_
+	D ()I D
+	a (Ltv;FF)V a
+	b (FFF)F b
+	aH ()V aH
+	l ()Z l
+	aI ()V aI
+	aJ ()Lcj; aJ
+	f (F)Lcj; f
+	q ()I q
+	Z ()Z is_E
+	aK ()V aK
+	aL ()V aL
+	aM ()Ljava/util/Collection; aM
+	a (Lkf;)Z a
+	b (Lkf;)Lzv; b
+	e (Lzv;)V e
+	a (Lzv;)Z a
+	aN ()Z aN
+	b (Lzv;)V setE
+	c (Lzv;)V c
+	d (Lzv;)V d
+	J ()F J
+	a_ (DDD)V a_
+	aO ()Z aO
+	v ()Lcc; v
+	c (Lkp;)V c
+nf net/minecraft/src/ClsNf
+	<init> (Ley;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()Z c
+ng net/minecraft/src/ClsNg
+	a a
+	<init> (ILvz;)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+nh net/minecraft/src/ClsNh
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lnh; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+ni net/minecraft/src/IfNi
+	c ()I getB
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	e ()Ljava/lang/String; getA
+	a ()I a
+	G_ ()V setE
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+nj net/minecraft/src/ClsNj
+	d d
+	e e
+	f f
+	g g
+	h h
+	a a
+	b b
+	i i
+	j j
+	k k
+	c c
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	<init> (Lge;)V <init>
+	<init> (Lge;Lih;)V <init>
+	b ()V b
+	a (DDDFF)V a
+	F_ ()V F_
+	b (Lph;)V b
+	a (Lph;)V a
+	k ()I k
+nk net/minecraft/src/ClsNk
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lka;F)V <init>
+	a ()Z a
+	b ()Z isB
+	c ()V c
+nl net/minecraft/src/ClsNl
+	<init> (IILna;)V <init>
+	a (ILjava/util/Random;)I a
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I getLightOpacity
+nm net/minecraft/src/ClsNm
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+	a (Lge;IDDD)Z a
+nn net/minecraft/src/ClsNn
+	a a
+	<init> ()V <init>
+	<init> (I)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+no net/minecraft/src/ClsNo
+	a a
+	<init> (IZ)V <init>
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+np net/minecraft/src/ClsNp
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lne;)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	e ()V e
+	a (III)Lmn; a
+nq net/minecraft/src/ClsNq
+	a a
+	b b
+	c c
+	d d
+	<init> (IILjava/lang/Object;)V <init>
+	a ()I getB
+	a (Ljava/lang/Object;)V setC
+	b ()Ljava/lang/Object; getC
+	c ()I getA
+	d ()Z isD
+	a (Z)V setD
+nr net/minecraft/src/ClsNr
+	a a
+	b b
+	<init> ()V <init>
+	b (Ltz;Ljava/util/List;Ljava/util/Random;IIIII)Lkv; b
+	a (Ltz;Ljava/util/List;Ljava/util/Random;IIIII)Lkv; a
+	a ()[Ltz; a
+	b ()[Ltz; b
+	<clinit> ()V <clinit>
+ns net/minecraft/src/ClsNs
+	i i
+	j j
+	<init> (Lne;Z)V <init>
+	b ()Z isK
+	c ()V c
+	d ()V d
+	e ()V e
+nt net/minecraft/src/ClsNt
+	L L
+	<init> (Llt;)V <init>
+	a ()V a
+nu com/mojang/nbt/NBTLong
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;J)V <init>
+	a (Ljava/io/DataOutput;)V a
+	a (Ljava/io/DataInput;)V a
+	a ()B a
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+nv net/minecraft/src/ClsNv
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> ()V <init>
+	<init> (Lih;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I get_H
+nw net/minecraft/src/ClsNw
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+nx net/minecraft/src/ClsNx
+	a a
+	<init> ()V <init>
+	<init> (I)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+ny net/minecraft/src/ClsNy
+	a a
+	<init> ()V <init>
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+nz net/minecraft/src/ClsNz
+	a a
+	b b
+	c c
+	<init> (Lew;II)V <init>
+	c ()I c
+	g_ (I)Lkp; g_
+	b (II)Lkp; b
+	e ()Ljava/lang/String; getA
+	b (I)Lkp; b
+	a (II)Lkp; a
+	a (ILkp;)V a
+	a ()I a
+	G_ ()V setE
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+oa net/minecraft/src/ClsOa
+	b b
+	a a
+	g g
+	h h
+	<init> (Lge;)V <init>
+	d ()I d
+	b ()V b
+	b (Lph;)V b
+	a (Lph;)V a
+	o ()Ltv; o
+	b (F)F b
+	c (Lih;)Z c
+	e ()V e
+	x ()Z x
+	e (Ltv;)Z e
+	b (DDD)Z b
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	f ()I f
+	a (ZI)V a
+	c (I)V c
+	A ()I A
+	e (I)V e
+	E ()I E
+	a (Lrq;I)Z a
+	<clinit> ()V <clinit>
+ob net/minecraft/src/ClsOb
+	<init> (I)V <init>
+	a (I)I a
+oc net/minecraft/src/ClsOc
+	a a
+	b b
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+od net/minecraft/src/ClsOd
+	b b
+	a a
+	c c
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lod; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	<clinit> ()V <clinit>
+oe net/minecraft/src/ClsOe
+	<init> (II)V <init>
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;)I a
+	c (I)I c
+of net/minecraft/src/ClsOf
+	a a
+	b b
+	g g
+	<init> (Lge;)V <init>
+	d ()I d
+	b ()V b
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (Lrq;I)Z a
+	a (Lrq;)V a
+	b (F)F b
+	e ()V e
+	a (Ltv;F)V a
+	a (F)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	f ()I f
+	B_ ()Z B_
+	a (ZI)V a
+	A ()Z A
+	a (Z)V a
+	C ()Z C
+og net/minecraft/src/ClsOg
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (III)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+oh net/minecraft/src/ClsOh
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Loh; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+oi net/minecraft/src/ClsOi
+	<init> (I)V <init>
+oj net/minecraft/src/ClsOj
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	q q
+	<init> ()V <init>
+	<init> (Lja;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+ok net/minecraft/src/ClsOk
+	<init> (II)V <init>
+	a (ILjava/util/Random;I)I a
+ol net/minecraft/src/ClsOl
+	<init> ()V <init>
+	a (Ljb;)V a
+om net/minecraft/src/ClsOm
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (IIIIII)V <init>
+	a (III)I a
+	b (III)I b
+	a ()I a
+	b ()I getB
+	c ()I c
+	a (II)Z a
+	d ()V setH
+	e ()V e
+	f ()I getH
+on net/minecraft/src/ClsOn
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	a a
+	y y
+	z z
+	<init> (IILrp;)V <init>
+	b ()I getA
+	c ()I c
+	a ()I a
+	a (I)I a
+	b (I)I b
+	a (ILrq;)I a
+	a (ILne;)I a
+	a (Lon;)Z a
+	a (Ljava/lang/String;)Lon; a
+	<clinit> ()V <clinit>
+oo net/minecraft/src/ClsOo
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+op net/minecraft/src/ClsOp
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	a ()Lop; a
+	b ()V b
+	a (Ljava/util/Properties;Ljava/lang/String;)V a
+	a (Ljava/lang/String;)V a
+	b (Ljava/lang/String;)Ljava/lang/String; b
+	a (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String; a
+	<clinit> ()V <clinit>
+oq net/minecraft/src/ClsOq
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+or net/minecraft/src/ClsOr
+	<init> (I)V <init>
+os net/minecraft/src/ClsOs
+	<init> (II)V <init>
+	d (I)Z d
+	a (Lge;IIILjava/util/Random;)V a
+	g (Lge;III)V g
+	i (Lge;III)F i
+	a (II)I getBN
+	c ()I c
+	a (Lge;IIIIFI)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+ot net/minecraft/src/ClsOt
+	a a
+	b b
+	<init> ()V <init>
+	<init> (ILzv;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+ou net/minecraft/src/ClsOu
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lou; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+ov net/minecraft/src/ClsOv
+	<init> (II)V <init>
+	a (Lge;Lih;IIII)V a
+	a (Ljava/util/Random;)I a
+	a (Lge;IIILjava/util/Random;)V a
+	g ()I g
+	a_ (I)Lkp; a_
+ow net/minecraft/src/ClsOw
+	a a
+	b b
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Ljava/util/List;Ljava/util/Random;IIII)Lxv; a
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+ox net/minecraft/src/IfOx
+	a (Ljava/lang/String;)Z a
+	a (Ljava/lang/String;Laam;)Z a
+oy net/minecraft/src/ClsOy
+	a a
+	b b
+	<init> ()V <init>
+	<init> (Ltv;I)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+oz net/minecraft/src/ClsOz
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> (Lge;)V <init>
+	a ()V a
+	b ()Z b
+	c ()Z c
+	a (III)Lcj; a
+pa net/minecraft/src/ClsPa
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	<init> (Lge;)V <init>
+	a (I)V a
+	a (IIIIII)Lcj; a
+	b (IIIIII)Z b
+	h ()V h
+	i ()V i
+	a ()Lcf; getD
+	b ()I getE
+	c ()I c
+	d ()I d
+	e ()I getH
+	a (III)Z a
+	f ()Ljava/util/List; getB
+	b (III)Lom; b
+	c (III)Lom; c
+	d (III)Lom; d
+	a (Lom;)V a
+	g ()Z g
+	a (Lne;)V a
+	b (Lne;)Lne; b
+	j ()V j
+	k ()V k
+	e (III)Z e
+	l ()V l
+pb net/minecraft/src/ClsPb
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lka;F)V <init>
+	a ()Z isB
+	c ()V c
+	b ()Z b
+pc net/minecraft/src/ClsPc
+	b b
+	<init> (IILna;Z)V <init>
+	a ()Z a
+pd net/minecraft/src/ClsPd
+	a a
+	b b
+	<init> ()V <init>
+	<init> (Ltv;Ltv;)V <init>
+	a ()I getA
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+pe net/minecraft/src/ClsPe
+	<init> (Lge;)V <init>
+	<init> (Lge;Lne;)V <init>
+	<init> (Lge;DDD)V <init>
+	a (Lwu;)V a
+pf net/minecraft/src/ClsPf
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lpf; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+pg net/minecraft/src/ClsPg
+	<init> (Lge;)V <init>
+	d ()I d
+	a (III)F a
+ph com/mojang/nbt/NBTCompound
+	a map
+	<init> ()V <init>
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	d ()Ljava/util/Collection; d
+	a ()B getId
+	a (Ljava/lang/String;Ljz;)V setTag
+	a (Ljava/lang/String;B)V setByte
+	a (Ljava/lang/String;S)V setShort
+	a (Ljava/lang/String;I)V setInt
+	a (Ljava/lang/String;J)V setLong
+	a (Ljava/lang/String;F)V setFloat
+	a (Ljava/lang/String;D)V setDouble
+	a (Ljava/lang/String;Ljava/lang/String;)V setString
+	a (Ljava/lang/String;[B)V setByteArray
+	a (Ljava/lang/String;[I)V setIntArray
+	a (Ljava/lang/String;Lph;)V a
+	a (Ljava/lang/String;Z)V setBoolean
+	b (Ljava/lang/String;)Ljz; getTag
+	c (Ljava/lang/String;)Z containsKey
+	d (Ljava/lang/String;)B getTypeOf
+	e (Ljava/lang/String;)S getShort
+	f (Ljava/lang/String;)I getInt
+	g (Ljava/lang/String;)J getLong
+	h (Ljava/lang/String;)F getFloat
+	i (Ljava/lang/String;)D getDouble
+	j (Ljava/lang/String;)Ljava/lang/String; getString
+	k (Ljava/lang/String;)[B getByteArray
+	l (Ljava/lang/String;)[I getIntArray
+	m (Ljava/lang/String;)Lph; m
+	n (Ljava/lang/String;)Ltx; n
+	o (Ljava/lang/String;)Z getBoolean
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+pi net/minecraft/src/ClsPi
+	<init> (ILna;)V <init>
+	b (Lzy;III)Z b
+	a (Lge;IIII)V a
+	i (Lge;III)V i
+	a (Lge;IIILjava/util/Random;)V a
+	j (Lge;III)Z j
+pj net/minecraft/src/ClsPj
+	a a
+	b b
+	c c
+	k k
+	d d
+	l l
+	<init> (ILjava/lang/String;IILid;Lpj;)V <init>
+	<init> (ILjava/lang/String;IILvz;Lpj;)V <init>
+	<init> (ILjava/lang/String;IILkp;Lpj;)V <init>
+	a ()Lpj; a
+	b ()Lpj; b
+	c ()Lpj; c
+	d ()Lxo; d
+	e ()Lxo; e
+pk net/minecraft/src/ClsPk
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> ()V <init>
+	<init> (Ljava/lang/String;ILej;IIBBB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I get_H
+pl net/minecraft/src/ClsPl
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lpl; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+pm net/minecraft/src/ClsPm
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	a (Lge;IIILtv;)V a
+pn net/minecraft/src/ClsPn
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIII)Lxv; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+po net/minecraft/src/ClsPo
+	<init> ()V <init>
+	a (Ljb;)V a
+pp net/minecraft/src/ClsPp
+	a a
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+pq net/minecraft/src/ClsPq
+	a a
+	<init> (ILvz;)V <init>
+	d (I)Z d
+	a (Lge;IIILjava/util/Random;)V a
+	g (Lge;III)V g
+	i (Lge;III)F i
+	a (II)I getBN
+	f ()V f
+	a (Lzy;III)V a
+	c ()I c
+	a (Lge;IIIIFI)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+pr net/minecraft/src/ClsPr
+	a a
+	b b
+	<init> (Lne;)V <init>
+	a ()V setB
+	b ()V b
+ps net/minecraft/src/ClsPs
+	a a
+	b b
+	<init> ()V <init>
+	<init> (II)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getA
+pt net/minecraft/src/ClsPt
+	a a
+	b b
+	c c
+	<init> (Ljava/lang/String;Lni;Lni;)V <init>
+	c ()I getB
+	e ()Ljava/lang/String; getA
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	a ()I a
+	G_ ()V setE
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+pu net/minecraft/src/ClsPu
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	d ()I d
+	a ()Z a
+	b ()Z b
+	b (Lge;IIII)Z b
+	c (Lge;III)Z c
+	e (Lge;IIII)V e
+	g (Lge;III)I g
+	a (Lge;IIII)V a
+	h (Lge;III)Z h
+	a (Lzy;III)V a
+	b (Lge;IIILih;)V b
+	a (Lge;IIILih;)Z a
+	d (Lge;III)V d
+	a (Lzy;IIII)Z a
+	d (Lge;IIII)Z d
+	e ()Z isA
+	a (Lge;IIILjava/util/Random;)V a
+	f ()V f
+pv net/minecraft/src/ClsPv
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (ISZ)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getB
+pw net/minecraft/src/ClsPw
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lge;Lbq;Ldf;)V <init>
+	a (II)Z a
+	d (II)V d
+	c (II)Lmy; c
+	b (II)Lmy; b
+	e (II)Lmy; e
+	a (Lmy;)V a
+	b (Lmy;)V b
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z a
+	b ()Z b
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+px net/minecraft/src/ClsPx
+	a a
+	b b
+	c c
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lpx; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+py net/minecraft/src/ClsPy
+	<init> (I)V <init>
+	f ()V f
+	c ()I c
+	a ()Z a
+	b ()Z b
+	a (Lzy;III)V a
+	e (Lge;III)Lfp; e
+	b (Lge;IIII)Z b
+	d (I)Z d
+	g (Lge;III)Z g
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	e (Lge;IIII)V e
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	a (Lge;Lih;IIII)V a
+pz net/minecraft/src/ClsPz
+	a a
+	b b
+	c c
+	<init> (ILna;)V <init>
+	i (Lge;III)V i
+	b (Lzy;III)Z b
+	a (Lge;IIILjava/util/Random;)V a
+	g (Lge;IIII)V g
+	c (Lge;IIIII)I c
+	j (Lge;III)[Z j
+	k (Lge;III)Z k
+	f (Lge;IIII)I f
+	l (Lge;III)Z l
+	a (Lge;III)V a
+qa net/minecraft/src/ClsQa
+	a a
+	<init> (Liz;)V <init>
+	accept (Ljava/io/File;Ljava/lang/String;)Z accept
+qb net/minecraft/src/ClsQb
+	<init> (ILna;)V <init>
+	a ()Z a
+	b ()Z isK
+	b (Lzy;III)Z b
+	c ()I c
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	f ()V f
+	d (I)V d
+	b (Lge;IIILih;)V b
+	a (Lge;IIILih;)Z a
+	a (Lge;IIIZ)V a
+	a (Lge;IIII)V a
+	a (Lge;IIILcj;Lcj;)Lwu; a
+	e (Lge;IIII)V e
+	b (Lge;IIII)Z b
+	e (I)Z e
+	h (I)Z h
+qc net/minecraft/src/ClsQc
+	<init> (II)V <init>
+	a (Lge;IIILjava/util/Random;)V a
+	e (Lge;III)Lfp; e
+	a (I)I getLightOpacity
+	b ()Z b
+	a ()Z a
+	c ()I c
+	c (Lge;III)Z c
+	a (Lge;IIII)V a
+	f (Lge;III)Z f
+	a (Lge;IIILtv;)V a
+qd net/minecraft/src/ClsQd
+	<init> (II)V <init>
+qe net/minecraft/src/ClsQe
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lqe; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	a (I)I a
+qf net/minecraft/src/ClsQf
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+qg net/minecraft/src/ClsQg
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIII)Lxv; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+qh net/minecraft/src/ClsQh
+	<init> (Ley;)V <init>
+	a ()Z a
+	b ()Z isB
+	c ()Z c
+qi net/minecraft/src/ClsQi
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lqi; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+qj net/minecraft/block/blockentity/BlockEntity
+	a a
+	b b
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q block
+	<init> ()V <init>
+	a (Ljava/lang/Class;Ljava/lang/String;)V a
+	a (Lph;)V a
+	b (Lph;)V b
+	q_ ()V q_
+	c (Lph;)Lqj; fromNBT
+	k ()I getB
+	G_ ()V G_
+	d ()Llx; d
+	l ()Z isO
+	j ()V setO
+	m ()V m
+	b (II)V b
+	h ()V h
+	<clinit> ()V <clinit>
+qk net/minecraft/src/ClsQk
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (IBLej;II)V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getB
+ql net/minecraft/src/ClsQl
+	<init> (J)V <init>
+	a (IIII)[I a
+qm net/minecraft/src/ClsQm
+	a a
+	g (Lge;III)Z g
+	d (I)Z d
+	<init> (IIZ)V <init>
+	i ()Z isA
+	e (Lge;III)Lfp; e
+	a ()Z a
+	a (Lge;IIILcj;Lcj;)Lwu; a
+	a (Lzy;III)V a
+	a (II)I getBN
+	b ()Z b
+	c ()I c
+	a (Ljava/util/Random;)I a
+	c (Lge;III)Z c
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	a (Lge;IIIZ)V a
+	a (Lge;IIIIZI)Z a
+	a (Lge;IIIZII)Z a
+	g ()I g
+	a (Lqm;)Z isA
+qn net/minecraft/src/ClsQn
+	<init> (IILrp;)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+	a (Lon;)Z a
+qo net/minecraft/src/ClsQo
+qp net/minecraft/src/ClsQp
+	a a
+	b b
+	<init> (Lon;I)V <init>
+qq net/minecraft/src/ClsQq
+	a a
+	b b
+	c c
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	d d
+	e e
+	f f
+	y y
+	<init> (Ljava/net/Socket;Ljava/lang/String;Luq;)V <init>
+	a (Luq;)V setP
+	a (Llx;)V a
+	g ()Z g
+	a ()V a
+	h ()Z h
+	a (Ljava/lang/Exception;)V a
+	a (Ljava/lang/String;[Ljava/lang/Object;)V a
+	b ()V b
+	c ()Ljava/net/SocketAddress; getI
+	d ()V d
+	e ()I e
+	f ()Ljava/net/Socket; getH
+	a (Lqq;)Z isL
+	b (Lqq;)Z isQ
+	c (Lqq;)Z c
+	d (Lqq;)Z d
+	e (Lqq;)Ljava/io/DataOutputStream; getK
+	f (Lqq;)Z isT
+	a (Lqq;Ljava/lang/Exception;)V a
+	g (Lqq;)Ljava/lang/Thread; getS
+	h (Lqq;)Ljava/lang/Thread; getR
+	<clinit> ()V <clinit>
+qr net/minecraft/src/ClsQr
+	b b
+	a a
+	<init> ()V <init>
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+	<clinit> ()V <clinit>
+qs net/minecraft/src/ClsQs
+	a a
+	b b
+	<init> ()V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getA
+qt net/minecraft/src/ClsQt
+	a a
+	<init> ()V <init>
+	<init> (Z)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+	a (DDD)V a
+	a (Lge;IIII)V a
+	a (Lge;IIIII)V a
+qu net/minecraft/src/ClsQu
+	<init> (II)V <init>
+	d ()I d
+	e ()Z isA
+	a (Lge;IIILtv;)V a
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lzy;IIII)Z a
+	d (Lge;IIII)Z d
+	f (Lge;IIII)V f
+qv net/minecraft/src/ClsQv
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (Lde;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+qw net/minecraft/src/ClsQw
+	<init> ()V <init>
+	a (II[BDDD)V a
+	a (II[BDDDFFFIID)V a
+	a (Lge;IIII[B)V a
+qx net/minecraft/src/ClsQx
+	a a
+	b b
+	<init> (ILjava/util/Random;II)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+qy net/minecraft/src/IfQy
+	a (III)V a
+	b (III)V b
+	a (IIIIII)V a
+	a (Ljava/lang/String;DDDFF)V a
+	a (Ljava/lang/String;DDDDDD)V a
+	a (Ltv;)V a
+	b (Ltv;)V b
+	a (Ljava/lang/String;III)V a
+	a (IIILqj;)V a
+	a (Lih;IIIII)V a
+qz com/mojang/nbt/NBTInt
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;I)V <init>
+	a (Ljava/io/DataOutput;)V a
+	a (Ljava/io/DataInput;)V a
+	a ()B a
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+ra net/minecraft/src/ClsRa
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lge;)V <init>
+	a (III)V a
+	a ()V a
+	c ()V c
+	b ()Ljava/util/List; getD
+	a (IIII)Lpa; a
+	d ()V d
+	e ()V e
+	a (Lcf;)V a
+	b (III)Lom; b
+	c (III)V c
+	d (III)Z d
+	e (III)Z e
+rb net/minecraft/src/ClsRb
+	<init> (I)V <init>
+	a (I)I getBN
+	a (Lge;IIII)V a
+	a (Lge;IIILih;)Z a
+	b (Lge;IIILih;)V b
+	a_ ()Lqj; a_
+	a (Lge;IIIII)V a
+rc net/minecraft/src/ClsRc
+	a a
+	f f
+	<init> (Laf;Lni;IIII)V <init>
+	a ()I getA
+	a (Lkp;)Z a
+rd net/minecraft/src/ClsRd
+	a a
+	b b
+	c c
+	<init> (Lpa;Lne;I)V <init>
+re net/minecraft/src/ClsRe
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+rf net/minecraft/src/ClsRf
+	<init> (I)V <init>
+rg net/minecraft/src/ClsRg
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+rh net/minecraft/src/ClsRh
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	<init> (Lyk;)V <init>
+	e ()V e
+	f ()V f
+	run ()V run
+	a ()V a
+ri net/minecraft/src/ClsRi
+	<init> ()V <init>
+	<init> (IBBBBB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getA
+rj net/minecraft/profiler/Profiler
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	a (Ljava/lang/String;)V start
+	a ()V end
+	b (Ljava/lang/String;)V next
+	<clinit> ()V <clinit>
+rk net/minecraft/src/ClsRk
+	a a
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+rl net/minecraft/src/ClsRl
+	a a
+	b b
+	<init> (ILck;)V <init>
+	a (Lkp;Lvz;)F a
+	a (Lkp;Lne;Lne;)Z a
+	a (Lkp;IIIILne;)Z a
+	a (Ltv;)I getA
+	d (Lkp;)Lkt; d
+	c (Lkp;)I c
+	a (Lkp;Lge;Lih;)Lkp; a
+	a (Lvz;)Z a
+	c ()I c
+rm net/minecraft/src/ClsRm
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Ljava/io/File;)V <init>
+	a (Ljava/lang/String;)V a
+	b (Ljava/lang/String;)V b
+	a (Ljava/lang/String;IILjava/lang/String;)V a
+	a (Ljava/lang/String;IIILjava/lang/String;)V a
+	b (Ljava/lang/String;IILjava/lang/String;)V b
+	a (II)Ljava/io/DataInputStream; a
+	b (II)Ljava/io/DataOutputStream; b
+	a (II[BI)V a
+	a (I[BI)V a
+	d (II)Z d
+	e (II)I e
+	c (II)Z c
+	a (III)V a
+	b (III)V b
+	a ()V a
+	<clinit> ()V <clinit>
+rn net/minecraft/src/ClsRn
+	a a
+	b b
+	c c
+	d d
+	<init> (Ljava/util/Random;II)V <init>
+ro net/minecraft/src/ClsRo
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	<init> (Ljava/util/Random;II)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lro; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+rp net/minecraft/src/EnumRp
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j $VALUES
+	values ()[Lrp; values
+	valueOf (Ljava/lang/String;)Lrp; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	a (Lid;)Z a
+	<clinit> ()V <clinit>
+rq net/minecraft/src/ClsRq
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	a a
+	o o
+	p p
+	q q
+	r r
+	n n
+	a (Lne;)Lrq; a
+	b (Lih;)Lrq; b
+	a (Lts;Ltv;)Lrq; a
+	a (Lcy;Ltv;)Lrq; a
+	a (Ltv;Ltv;)Lrq; a
+	b (Ltv;Ltv;)Lrq; b
+	c ()Z isR
+	d ()Lrq; d
+	e ()Z isA
+	f ()F getP
+	g ()Z isO
+	<init> (Ljava/lang/String;)V <init>
+	b ()Ltv; b
+	a ()Ltv; getO
+	h ()Lrq; h
+	i ()Lrq; i
+	j ()Lrq; j
+	a (Lih;)Ljava/lang/String; a
+	k ()Z isQ
+	l ()Ljava/lang/String; getN
+	<clinit> ()V <clinit>
+rr net/minecraft/src/ClsRr
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	a a
+	b b
+	o o
+	p p
+	c c
+	q q
+	r r
+	s s
+	t t
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lge;J)V <init>
+	a (II[B)V a
+	b (II[B)V b
+	c (II)Lmy; c
+	b (II)Lmy; b
+	a ([DIIIIII)[D a
+	a (II)Z a
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z a
+	b ()Z b
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+rs net/minecraft/src/ClsRs
+	a a
+	b b
+	c c
+	d d
+	<init> (Ljava/lang/String;I)V <init>
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	c ()I getB
+	e ()Ljava/lang/String; getA
+	a ()I getA
+	G_ ()V setE
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+rt com/mojang/nbt/NBTByte
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;B)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+ru net/minecraft/src/ClsRu
+	<init> (I)V <init>
+	a (I)I a
+rv net/minecraft/src/EnumRv
+	a OPENING
+	b WOOD_DOOR
+	c GRATES
+	d IRON_DOOR
+	e $VALUES
+	values ()[Lrv; values
+	valueOf (Ljava/lang/String;)Lrv; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	<clinit> ()V <clinit>
+rw net/minecraft/src/ClsRw
+	<init> (I)V <init>
+	a (Lge;Lih;IIII)V a
+	a (II)I getBN
+	c (Lge;IIII)V c
+	a (Ljava/util/Random;)I a
+	d (I)Z d
+	e (I)I e
+	a_ (I)Lkp; a_
+rx net/minecraft/src/ClsRx
+	a a
+	b b
+	c c
+	d d
+	<init> (IJLjava/lang/Object;Lrx;)V <init>
+	a ()J getA
+	b ()Ljava/lang/Object; getB
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	toString ()Ljava/lang/String; toString
+ry net/minecraft/src/ClsRy
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> ()V <init>
+	a (Luq;)V a
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getA
+rz net/minecraft/src/ClsRz
+	f f
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lge;)V <init>
+	<init> (Lge;IIII)V <init>
+	b ()V b
+	b (I)V b
+	c (I)F c
+	F_ ()V F_
+	k ()Z k
+	o_ ()Z o_
+	a (Lrq;I)Z a
+	b (Lph;)V b
+	a (Lph;)V a
+	a (DDD)V a
+	b_ (DDD)V b_
+sa net/minecraft/src/ClsSa
+	a a
+	<init> (Lge;)V <init>
+	<init> (Lge;DDD)V <init>
+	b ()V b
+	g_ ()Z g_
+	o_ ()Z o_
+	F_ ()V F_
+	k ()V k
+	b (Lph;)V b
+	a (Lph;)V a
+sb net/minecraft/src/ClsSb
+	a a
+	h h
+	i i
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> (Lge;Ltv;DDDF)V <init>
+	a ()V a
+	a (Z)V a
+sc net/minecraft/src/ClsSc
+	f f
+	a a
+	b b
+	c c
+	d d
+	e e
+	g g
+	<init> (IIII)V <init>
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	a (J)Lsc; a
+	a (Lsc;)I a
+	compareTo (Ljava/lang/Object;)I compareTo
+	<clinit> ()V <clinit>
+sd net/minecraft/src/ClsSd
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;I)V a
+	b (Lkp;Lge;Lih;)Lkp; b
+	c (Lkp;)I c
+	d (Lkp;)Lkt; d
+	a (Lkp;Lge;Lih;)Lkp; a
+	c ()I c
+se net/minecraft/src/ClsSe
+	<init> (I)V <init>
+	a (II)I getBN
+	c (I)I c
+sf net/minecraft/src/ClsSf
+	<init> (I)V <init>
+	a (Ljava/util/Random;)Lqt; get_Q
+sg net/minecraft/src/ClsSg
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (III)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+sh net/minecraft/src/ClsSh
+	<init> (I)V <init>
+	a (II)I a
+	a (I)I getLightOpacity
+	c (I)I c
+si net/minecraft/src/ClsSi
+	A A
+	B B
+	C C
+	D D
+	a a
+	<init> (III)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+	a (ILrq;)I a
+	a (Lon;)Z a
+	<clinit> ()V <clinit>
+sj net/minecraft/src/ClsSj
+	a a
+	b b
+	<init> (II)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+sk net/minecraft/src/ClsSk
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> ()V <init>
+	<init> (Ltv;)V <init>
+	<init> (IIIIBB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+sl net/minecraft/src/ClsSl
+	<init> ()V <init>
+sm net/minecraft/src/ClsSm
+	<init> (II)V <init>
+	a (Lge;IIILjava/util/Random;)V a
+	c (Lge;III)Z c
+	a (Lge;IIII)V a
+	g (Lge;III)V g
+	f (Lge;III)Z f
+	e (Lge;III)Lfp; e
+	a (ILjava/util/Random;I)I getLightOpacity
+	a ()Z a
+	b ()Z b
+	c ()I c
+sn net/minecraft/src/ClsSn
+	a a
+	<init> ()V <init>
+	a (Ljava/io/File;II)Lrm; a
+	a ()V a
+	b (Ljava/io/File;II)Ljava/io/DataInputStream; b
+	c (Ljava/io/File;II)Ljava/io/DataOutputStream; c
+	<clinit> ()V <clinit>
+so net/minecraft/src/ClsSo
+	a a
+	b b
+	<init> (III)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+sp net/minecraft/src/ClsSp
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+sq net/minecraft/src/ClsSq
+	a a
+	<init> (II)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+sr net/minecraft/src/ClsSr
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (DDDFLjava/util/Set;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ss net/minecraft/src/ClsSs
+	e e
+	<init> ()V <init>
+	a (Ldf;Lge;II[B)V a
+	a (Lge;IIII[B)V a
+	a (Lge;Ljava/util/Random;II)Z a
+	a (III)Z a
+	a (Lge;III)Lyj; a
+	a ()Ljava/util/List; a
+	a (II)Z a
+	b (II)Lwg; b
+st net/minecraft/src/ClsSt
+	<init> (II)V <init>
+	a (Lge;IIILtv;)V a
+	a ()Z a
+	e (Lge;III)Lfp; e
+	c ()I c
+	b ()Z b
+	a (ILjava/util/Random;I)I getLightOpacity
+su net/minecraft/src/ClsSu
+	<init> (ILna;)V <init>
+	b (Lzy;III)Z b
+	d (I)F d
+	a (I)I getLightOpacity
+	g (Lge;III)I g
+	c (Lzy;III)I c
+	b ()Z b
+	a ()Z a
+	a (IZ)Z a
+	b (Lzy;IIII)Z b
+	e (Lge;III)Lfp; e
+	c ()I c
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	d (Lzy;III)Lcj; d
+	a (Lge;IIILtv;Lcj;)V a
+	d ()I d
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	i (Lge;III)V i
+	h (Lge;III)V h
+sv net/minecraft/src/ClsSv
+	a a
+	b b
+	c c
+	<init> (Ljava/io/File;)V <init>
+	a ()V a
+	b ()V b
+	c ()Ljava/io/File; getC
+	a (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; a
+	a (Ljava/lang/String;I)I a
+	a (Ljava/lang/String;Z)Z a
+	a (Ljava/lang/String;Ljava/lang/Object;)V a
+	b (Ljava/lang/String;Z)V b
+	<clinit> ()V <clinit>
+sw net/minecraft/src/EnumSw
+	a a
+	b b
+	c c
+	d $VALUES
+	values ()[Lsw; values
+	valueOf (Ljava/lang/String;)Lsw; valueOf
+	<init> (Ljava/lang/String;I)V <init>
+	<clinit> ()V <clinit>
+sx net/minecraft/src/ClsSx
+	<init> (II)V <init>
+	a (II)I getBN
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (ILjava/util/Random;)I a
+	a (Lge;Lih;IIII)V a
+sy net/minecraft/src/ClsSy
+	a a
+	<init> ()V <init>
+	<init> (I)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+sz net/minecraft/src/ClsSz
+	<init> (ILna;)V <init>
+	<init> (IILna;)V <init>
+	a (Lge;III)V a
+	d (Lge;III)V d
+	a_ ()Lqj; a_
+	a (Lge;IIIII)V a
+ta net/minecraft/src/ClsTa
+	<init> (I)V <init>
+	a (Lkp;)Ljava/lang/String; getBV
+tb net/minecraft/src/ClsTb
+	a a
+	b b
+	<init> (Lfk;Ljava/lang/String;Lnet/minecraft/server/MinecraftServer;)V <init>
+	run ()V run
+tc net/minecraft/src/ClsTc
+	<init> (II)V <init>
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+td net/minecraft/src/ClsTd
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lka;F)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	f ()Lcj; f
+te net/minecraft/src/ClsTe
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I getA
+tf net/minecraft/src/ClsTf
+	a a
+	b b
+	<init> ()V <init>
+	a (ILzc;)V a
+	a ()V a
+	a (Lxp;)Z a
+	a (Lxp;Lxp;)Z a
+tg net/minecraft/src/ClsTg
+	<init> (I)V <init>
+	a (Lkp;Lne;)V a
+	a (Lkp;Lne;Lne;)Z a
+th net/minecraft/src/ClsTh
+	<init> ()V <init>
+	<init> (IBB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getA
+ti net/minecraft/src/ClsTi
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	a (IF)V a
+	a (Labi;)V a
+	a (Lih;)V a
+	a (Lph;)V a
+	b (Lph;)V b
+	a ()I getA
+	b ()Z b
+	a (F)V a
+	c ()F getB
+tj net/minecraft/src/ClsTj
+	<init> (I)V <init>
+tk net/minecraft/src/ClsTk
+	d d
+	e e
+	a a
+	f f
+	g g
+	h h
+	b b
+	c c
+	i i
+	<init> (Let;FFF)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	e ()V e
+tl net/minecraft/src/ClsTl
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	<init> (IIZ)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+tm net/minecraft/src/ClsTm
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+tn net/minecraft/src/ClsTn
+	<init> (Ley;)V <init>
+	d ()Z d
+	c ()Z c
+	a ()Z a
+to net/minecraft/src/ClsTo
+	a a
+	b b
+	<init> (Lhn;)V <init>
+	a ()Z a
+	c ()V c
+	d ()V setB
+	e ()V e
+tp net/minecraft/src/ClsTp
+	a a
+	<init> (Lni;Lbm;)V <init>
+	b (Lih;)Z b
+	a (I)Lkp; a
+tq net/minecraft/src/ClsTq
+	a a
+	b b
+	c c
+	e e
+	f f
+	g g
+	d d
+	<init> (Lkm;Lih;)V <init>
+	a (Lkp;)[B a
+tr net/minecraft/block/blockentity/BlockEntityFurnace
+	d d
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	c ()I getB
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	e ()Ljava/lang/String; getA
+	a (Lph;)V a
+	b (Lph;)V b
+	a ()I getA
+	i ()Z i
+	q_ ()V q_
+	o ()Z o
+	n ()V n
+	a (Lkp;)I a
+	b (Lkp;)Z b
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+ts net/minecraft/src/ClsTs
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	a a
+	b b
+	c c
+	k k
+	l l
+	m m
+	n n
+	d d
+	<init> (Lge;)V <init>
+	<init> (Lge;DDD)V <init>
+	<init> (Lge;Lne;Lne;FF)V <init>
+	<init> (Lge;Lne;F)V <init>
+	b ()V b
+	a (DDDFF)V a
+	F_ ()V F_
+	b (Lph;)V b
+	a (Lph;)V a
+	a_ (Lih;)V a_
+	a (D)V setM
+	k ()D getM
+	b (I)V setN
+	k_ ()Z k_
+tt net/minecraft/src/ClsTt
+	a a
+	b b
+	c c
+	d d
+	<init> (Ljava/lang/Class;II)V <init>
+	a (I)Z a
+	a ()Z a
+tu net/minecraft/src/ClsTu
+	a a
+	b b
+	<init> (II)V <init>
+	a (II)I getBN
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	c ()I c
+	c (Lge;III)Z c
+	g (Lge;III)V g
+	a (Lge;IIIIII)V a
+	h (Lge;III)V h
+	a (Lge;III)V a
+	d (Lge;III)V d
+	f (Lge;IIII)I f
+	a (Lge;IIII)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	d (Lge;IIII)Z d
+	a (Lzy;IIII)Z a
+	e ()Z isA
+	c (Lzy;IIII)Z c
+	d (Lzy;IIII)Z d
+tv net/minecraft/entity/Entity
+	a nextEntityId
+	bd bd
+	be be
+	bf bf
+	bg riding
+	bh riding
+	bi bi
+	bj bj
+	bk bk
+	bl bl
+	bm bm
+	bn bn
+	bo bo
+	bp bp
+	bq bq
+	br br
+	bs bs
+	bt bt
+	bu bu
+	bv bv
+	bw bw
+	bx bx
+	by by
+	bz bz
+	bA bA
+	bB bB
+	bC bC
+	bD bD
+	bE bE
+	bF bF
+	bG bG
+	bH bH
+	bI bI
+	bJ bJ
+	bK bK
+	b b
+	bL bL
+	bM bM
+	bN bN
+	bO bO
+	bP bP
+	bQ bQ
+	bR bR
+	bS random
+	bT bT
+	bU bU
+	c c
+	bV bV
+	bW bW
+	d d
+	bX bX
+	bY bY
+	e e
+	f f
+	bZ bZ
+	ca ca
+	cb cb
+	cc cc
+	cd cd
+	ce ce
+	<init> (Lge;)V <init>
+	b ()V b
+	aP ()Lvh; getBY
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	X ()V setBE
+	b (FF)V b
+	c (FF)V c
+	c (DDD)V c
+	F_ ()V F_
+	aA ()V tick
+	aQ ()V aQ
+	i (I)V i
+	aR ()V setC
+	aI ()V aI
+	d (DDD)Z d
+	a (DDD)V a
+	a (IIII)V a
+	g_ ()Z g_
+	a (DZ)V a
+	h ()Lfp; getBw
+	a (I)V a
+	aS ()Z isBX
+	a (F)V a
+	aT ()Z aT
+	aU ()Z isBV
+	h_ ()Z h_
+	a (Lna;)Z a
+	B ()F B
+	aV ()Z aV
+	a (FFF)V a
+	b (F)F b
+	a (Lge;)V setBi
+	b (DDDFF)V b
+	c (DDDFF)V c
+	i (Ltv;)F i
+	e (DDD)D e
+	f (DDD)D f
+	j (Ltv;)D j
+	a_ (Lih;)V a_
+	k (Ltv;)V k
+	b_ (DDD)V b_
+	aW ()V setBB
+	a (Lrq;I)Z a
+	o_ ()Z o_
+	e_ ()Z e_
+	b (Ltv;I)V b
+	c (Lph;)Z c
+	d (Lph;)V d
+	e (Lph;)V e
+	aX ()Ljava/lang/String; aX
+	a (Lph;)V a
+	b (Lph;)V b
+	a ([D)Ltx; a
+	a ([F)Ltx; a
+	b (II)Lja; b
+	a (IIF)Lja; a
+	a (Lkp;F)Lja; a
+	aE ()Z aE
+	Y ()Z Y
+	b (Lih;)Z b
+	b_ (Ltv;)Lfp; b_
+	R ()V R
+	i_ ()V i_
+	W ()D W
+	x_ ()D x_
+	b (Ltv;)V b
+	j_ ()F j_
+	aJ ()Lcj; aJ
+	ad ()V ad
+	y ()[Lkp; getCk
+	B_ ()Z B_
+	aY ()Z aY
+	g (Z)V g
+	aZ ()Z aZ
+	h (Z)V h
+	i (Z)V i
+	j (I)Z j
+	a (IZ)V a
+	ba ()I ba
+	k (I)V k
+	a (Ld;)V a
+	c (Lne;)V c
+	g (DDD)Z g
+	u ()V u
+	s ()Ljava/lang/String; getV
+	bb ()[Ltv; getF
+	a_ (Ltv;)Z a_
+	ar ()F get_X
+	k_ ()Z k_
+	<clinit> ()V <clinit>
+tw net/minecraft/src/ClsTw
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	<init> ()V <init>
+	<init> (Ltv;I)V <init>
+	<init> (Ltv;II)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+tx com/mojang/nbt/NBTList
+	a list
+	b tagType
+	<init> ()V <init>
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	a (Ljz;)V add
+	a (I)Ljz; get
+	d ()I size
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+ty net/minecraft/src/ClsTy
+	<init> ()V <init>
+	a (JII[BDDD)V a
+	a (JII[BDDDFFFIID)V a
+	a (Lge;IIII[B)V a
+tz net/minecraft/src/ClsTz
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Ljava/lang/Class;IIZ)V <init>
+	<init> (Ljava/lang/Class;II)V <init>
+	a (I)Z a
+	a ()Z a
+ua net/minecraft/src/ClsUa
+	a a
+	<init> (ILvz;)V <init>
+	a (Lzy;III)V a
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	c ()I c
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	b (Lge;IIILih;)V b
+	c (Lge;IIII)V c
+	a (Ltv;)F a
+	a (II)I getBN
+	a (I)I getLightOpacity
+	d ()I d
+	a (Lge;IIILtv;Lcj;)V a
+	E_ ()Z E_
+	a (IZ)Z a
+	c (Lge;III)Z c
+	a (Lge;III)V a
+	d (Lge;III)V d
+	b (Lge;IIILtv;)V b
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;IIILih;)Z a
+	a_ (Lge;III)V a_
+	a (Lge;IIILne;)V a
+	e (Lge;IIII)V e
+ub net/minecraft/src/ClsUb
+	<init> ()V <init>
+	<init> (IBBB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I getA
+uc net/minecraft/src/ClsUc
+	bU bU
+	<init> (ILck;)V <init>
+	a (Lkp;Lvz;)F a
+	<clinit> ()V <clinit>
+ud com/mojang/nbt/NBTDouble
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;D)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+ue net/minecraft/src/ClsUe
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;II)V a
+uf net/minecraft/src/ClsUf
+	a a
+	b b
+	c c
+	<init> (IZ)V <init>
+	a (ILjava/util/Random;I)I a
+	a (Lge;III)V a
+	g (Lge;III)V g
+	a (I)I getBN
+	a (Lge;IIILih;)Z a
+	a (ZLge;III)V a
+	a_ ()Lqj; a_
+	a (Lge;IIILne;)V a
+	d (Lge;III)V d
+	<clinit> ()V <clinit>
+ug net/minecraft/src/ClsUg
+	<init> (I)V <init>
+uh net/minecraft/src/ClsUh
+	a a
+	b b
+	c c
+	d d
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Ljava/util/List;Ljava/util/Random;IIII)Lxv; a
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+ui net/minecraft/src/ClsUi
+	<init> (I)V <init>
+	a (II)I getBN
+	c (I)I c
+uj net/minecraft/src/ClsUj
+	<init> (I)V <init>
+	a (Ljava/util/Random;)Lqt; get_Q
+uk net/minecraft/src/ClsUk
+	g g
+	<init> (Let;Ljava/lang/Class;FIZ)V <init>
+	a ()Z a
+ul net/minecraft/src/ClsUl
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lne;Ljava/lang/Class;F)V <init>
+	<init> (Lne;Ljava/lang/Class;FF)V <init>
+	a ()Z isB
+	b ()Z b
+	c ()V c
+	d ()V setB
+	e ()V e
+um net/minecraft/src/IfUm
+	b (Ljava/lang/String;)V b
+	d ()Ljava/lang/String; d
+un net/minecraft/src/ClsUn
+	a a
+	b b
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	a (Lbe;)V a
+	a (Ljava/lang/String;Ljava/lang/String;Lum;)V a
+	a (Lum;)V a
+	a (Ljava/lang/String;Ljava/lang/String;)V a
+	a (Ljava/lang/String;I)I a
+	a ([Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; a
+	<clinit> ()V <clinit>
+uo net/minecraft/src/ClsUo
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+up net/minecraft/src/ClsUp
+	<init> (Lge;)V <init>
+	b (Lih;)Z b
+	a (Lbr;)Lbr; a
+uq net/minecraft/src/ClsUq
+	<init> ()V <init>
+	c ()Z c
+	a (Ls;)V a
+	a (Llx;)V a
+	a (Ljava/lang/String;[Ljava/lang/Object;)V a
+	a (Labb;)V a
+	a (Lpk;)V a
+	a (Ljw;)V a
+	a (Lzh;)V a
+	a (Llj;)V a
+	a (Lvf;)V a
+	a (Ltl;)V a
+	a (Lnv;)V a
+	a (Lvm;)V a
+	a (Lsk;)V a
+	a (Lii;)V a
+	a (Ljh;)V a
+	a (Lsy;)V a
+	a (Loj;)V a
+	a (Lef;)V a
+	a (Lqr;)V a
+	a (Ltw;)V a
+	a (Loy;)V a
+	a (Lvd;)V a
+	a (Lny;)V a
+	a (Lkz;)V a
+	a (Liw;)V a
+	a (Lsg;)V a
+	a (Lia;)V a
+	a (Lwe;)V a
+	a (Lpd;)V a
+	a (La;)V a
+	a (Lku;)V a
+	a (Lfs;)V a
+	a (Lqk;)V a
+	a (Lsr;)V a
+	a (Lkn;)V a
+	a (Lnx;)V a
+	a (Lry;)V a
+	a (Lji;)V a
+	a (Lls;)V a
+	a (Lvq;)V a
+	a (Log;)V a
+	a (Lt;)V a
+	a (Lpv;)V a
+	a (Lxs;)V a
+	a (Lxu;)V a
+	a (Lps;)V a
+	a (Llp;)V a
+	a (Lcu;)V a
+	a (Lfz;)V a
+	a (Lao;)V a
+	a (Lgw;)V a
+	a (Ler;)V a
+	a (Les;)V a
+	a (Lot;)V a
+	a (Lfb;)V a
+	a (Lnn;)V a
+	a (Lms;)V a
+	a (Leu;)V a
+	a (Lqv;)V a
+	a (Lqs;)V a
+	a (Lgl;)V a
+	a (Lwn;)V a
+	a (Lvp;)V a
+	a (Lhz;)V a
+ur net/minecraft/src/ClsUr
+	<init> (II)V <init>
+	a (Lge;IIILjava/util/Random;)V a
+	c (Lge;III)Z c
+	d (I)Z d
+	f (Lge;III)Z f
+	b (Lge;IIILjava/util/Random;)Z b
+us net/minecraft/src/ClsUs
+	b b
+	<init> (JLfh;Lej;)V <init>
+	a (IIII)[I a
+ut net/minecraft/src/ClsUt
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lut; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+uu net/minecraft/block/blockentity/BlockEntityMusic
+	a a
+	b b
+	<init> ()V <init>
+	b (Lph;)V b
+	a (Lph;)V a
+	c ()V c
+	a (Lge;III)V a
+uv net/minecraft/src/ClsUv
+	<init> ()V <init>
+	a (Lph;)Lmx; a
+	a (Lmx;Lph;Laae;)V a
+uw net/minecraft/src/ClsUw
+	a a
+	<init> ()V <init>
+	a (Ljb;)V a
+ux net/minecraft/src/ClsUx
+	<init> (Ljava/io/File;Ljava/lang/String;Z)V <init>
+	a (Lzl;)Lbq; a
+	a (Lfj;Ljava/util/List;)V a
+	e ()V e
+uy net/minecraft/src/ClsUy
+	a a
+	<init> (Ljava/io/File;)V <init>
+	b (Ljava/lang/String;)Lfj; b
+	a (Ljava/lang/String;Z)Lzb; a
+	a (Ljava/lang/String;)Z a
+	a (Ljava/lang/String;Laam;)Z a
+uz net/minecraft/src/ClsUz
+	<init> (Lge;)V <init>
+	l ()Z l
+	T ()I T
+	b (F)F b
+	A ()Ljava/lang/String; A
+	C ()Lwa; C
+	f ()I f
+	a (ZI)V a
+	B_ ()Z B_
+	E ()I E
+	F ()V F
+	ac ()V ac
+	a (F)V a
+	G ()Z G
+	H ()I H
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	I ()Ljava/lang/String; I
+	aV ()Z aV
+	K ()Z K
+va net/minecraft/src/ClsVa
+	a a
+	<init> (ILjava/lang/String;)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+vb net/minecraft/src/ClsVb
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Lj;Ljava/util/List;Ljava/util/Random;IIII)Lxv; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+vc net/minecraft/src/ClsVc
+	a a
+	b b
+	<init> (Lkp;Ljava/util/List;)V <init>
+	b ()Lkp; getA
+	a (Lnz;)Z a
+	b (Lnz;)Lkp; b
+	a ()I a
+vd net/minecraft/src/ClsVd
+	a a
+	b b
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+ve net/minecraft/src/ClsVe
+	a a
+	<init> (I)V <init>
+	a (Lj;Ljava/util/List;Ljava/util/Random;II)Lln; a
+	b (Lj;Ljava/util/List;Ljava/util/Random;II)Lln; b
+	b (Lge;Lxv;)I b
+	a (Lxv;)Z a
+	a (Lge;Lxv;IIII)V a
+	a (I)I a
+vf net/minecraft/src/ClsVf
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (IIILge;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+vg net/minecraft/src/ClsVg
+	a a
+	<init> (ILjava/lang/String;I)V <init>
+vh net/minecraft/src/ClsVh
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	a (ILjava/lang/Object;)V a
+	a (I)B a
+	b (I)S b
+	c (I)I c
+	d (I)Ljava/lang/String; d
+	b (ILjava/lang/Object;)V b
+	a ()Z isC
+	a (Ljava/util/List;Ljava/io/DataOutputStream;)V a
+	b ()Ljava/util/ArrayList; b
+	a (Ljava/io/DataOutputStream;)V a
+	a (Ljava/io/DataOutputStream;Lnq;)V a
+	a (Ljava/io/DataInputStream;)Ljava/util/List; a
+	<clinit> ()V <clinit>
+vi net/minecraft/src/ClsVi
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	<init> (Lyk;)V <init>
+	a ([BLjava/net/DatagramPacket;)V a
+	a (Ljava/net/DatagramPacket;)Z a
+	b (Ljava/net/DatagramPacket;)[B b
+	a (Ljava/net/SocketAddress;)[B a
+	c (Ljava/net/DatagramPacket;)Ljava/lang/Boolean; c
+	d (Ljava/net/DatagramPacket;)V d
+	e ()V e
+	run ()V run
+	a ()V a
+	a (Ljava/lang/Exception;)V a
+	f ()Z f
+vj net/minecraft/src/ClsVj
+	a a
+	b b
+	<init> (Ljava/util/Random;I)V <init>
+	a ([DIIIIIIDDD)[D a
+	a ([DIIIIDDD)[D a
+vk net/minecraft/src/ClsVk
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+vl net/minecraft/src/ClsVl
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	u u
+	r r
+	s s
+	<init> (Lge;)V <init>
+	b ()V b
+	a (IF)[D a
+	e ()V e
+	A ()V A
+	C ()V C
+	a (Ljava/util/List;)V a
+	b (Ljava/util/List;)V b
+	E ()V E
+	a (D)F a
+	a (Lfp;)Z a
+	a (Lez;Lrq;I)Z a
+	aB ()V aB
+	a (II)V a
+	aG ()V aG
+	bb ()[Ltv; getF
+	o_ ()Z o_
+vm net/minecraft/src/ClsVm
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> ()V <init>
+	<init> (I)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+vn net/minecraft/src/ClsVn
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> (Lws;II)V <init>
+	a (II)Llt; a
+vo net/minecraft/src/ClsVo
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	a (ILkp;)I a
+	a (I[Lkp;)I a
+	a (Laa;Lkp;)V a
+	a (Laa;[Lkp;)V a
+	a (Lko;Lrq;)I a
+	a (Lko;Lne;)I a
+	b (Lko;Lne;)I b
+	c (Lko;Lne;)I c
+	a (Lko;)I a
+	b (Lko;)I b
+	c (Lko;)I c
+	d (Lko;)Z d
+	e (Lko;)I e
+	f (Lko;)I f
+	g (Lko;)Z g
+	a (Ljava/util/Random;IILkp;)I a
+	a (Ljava/util/Random;Lkp;I)V a
+	b (Ljava/util/Random;Lkp;I)Ljava/util/List; b
+	b (ILkp;)Ljava/util/Map; b
+	<clinit> ()V <clinit>
+vp net/minecraft/src/ClsVp
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> ()V <init>
+	<init> (IIIII)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+vq net/minecraft/src/ClsVq
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (III[Ljava/lang/String;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+vr net/minecraft/src/ClsVr
+	a a
+	b b
+	c c
+	d d
+	<init> (Ljava/io/File;)V <init>
+	a (Lge;II)Lmy; a
+	a (Lge;IILph;)Lmy; a
+	a (Lge;Lmy;)V a
+	a (Labl;Lph;)V a
+	c ()Z c
+	a (Lju;)V a
+	b (Lge;Lmy;)V b
+	a ()V a
+	b ()V b
+	a (Lmy;Lge;Lph;)V a
+	a (Lge;Lph;)Lmy; a
+vs net/minecraft/src/ClsVs
+	a a
+	b b
+	<init> (ILjava/lang/Class;Z)V <init>
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	c ()I c
+	b ()Z isK
+	b (Lzy;III)Z b
+	a ()Z isL
+	a_ ()Lqj; a_
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Lge;IIII)V a
+vt net/minecraft/block/blockentity/BlockEntityPiston
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> ()V <init>
+	<init> (IIIZZ)V <init>
+	c ()I getA
+	k ()I getB
+	e ()Z isD
+	f ()I getC
+	a (F)F a
+	a (FF)V a
+	g ()V g
+	q_ ()V q_
+	a (Lph;)V a
+	b (Lph;)V b
+	<clinit> ()V <clinit>
+vu com/mojang/nbt/NBTShort
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;S)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+vv net/minecraft/src/ClsVv
+	<init> (II)V <init>
+	a (Lzy;III)V a
+	f ()V f
+	e (Lge;III)Lfp; e
+	a (II)I getBN
+	a (I)I getLightOpacity
+	b ()Z b
+	a ()Z a
+	a (Lge;IIILih;)Z a
+	b (Lge;IIILih;)V b
+	c (Lge;IIILih;)V c
+	c (Lge;III)Z c
+	a (Lge;IIII)V a
+	f (Lge;III)Z f
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I getLightOpacity
+vw net/minecraft/src/ClsVw
+	a a
+	<init> ()V <init>
+	a (Lge;Ltv;)V a
+	b (Lge;Ltv;)Z b
+	c (Lge;Ltv;)Z c
+vx net/minecraft/src/ClsVx
+	<init> (Ljava/lang/String;)V <init>
+vy net/minecraft/src/ClsVy
+	<init> (I)V <init>
+	a_ ()Lqj; a_
+	a (Lge;III)V a
+	d (Lge;III)V d
+	c (Lge;III)Z c
+	b (Lge;IIII)Z b
+	c ()I c
+	a ()Z a
+	b ()Z b
+	a (Lge;IIILih;)Z a
+	a (ILjava/util/Random;I)I a
+	a (Lge;IIIIFI)V a
+	a (Lge;IIII)V a
+	a (IIIZZ)Lqj; a
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	b (Lge;IIIIFI)Lfp; b
+	c (Lzy;III)Lvt; c
+vz net/minecraft/block/Block
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	z z
+	A A
+	B B
+	C C
+	D D
+	E E
+	F F
+	G G
+	H H
+	I I
+	J J
+	K K
+	L L
+	M M
+	N N
+	O O
+	P P
+	Q Q
+	R R
+	S S
+	T T
+	U U
+	V V
+	W W
+	X X
+	Y Y
+	Z Z
+	aa aa
+	ab ab
+	ac ac
+	ad ad
+	ae ae
+	af af
+	ag ag
+	ah ah
+	ai ai
+	aj aj
+	ak ak
+	al al
+	am am
+	an an
+	ao ao
+	ap ap
+	aq aq
+	ar ar
+	as as
+	at at
+	au au
+	av av
+	aw aw
+	ax ax
+	ay ay
+	az az
+	aA aA
+	aB aB
+	aC aC
+	aD aD
+	aE aE
+	aF aF
+	aG aG
+	aH aH
+	aI aI
+	aJ aJ
+	aK aK
+	aL aL
+	aM aM
+	aN aN
+	aO aO
+	aP aP
+	aQ aQ
+	aR aR
+	aS aS
+	aT aT
+	aU aU
+	aV aV
+	aW aW
+	aX aX
+	aY aY
+	aZ aZ
+	ba ba
+	bb bb
+	bc bc
+	bd bd
+	be be
+	bf bf
+	bg bg
+	bh bh
+	bi bi
+	bj bj
+	bk bk
+	bl bl
+	bm bm
+	bn bn
+	bo bo
+	bp bp
+	bq bq
+	br br
+	bs bs
+	bt bt
+	bu bu
+	bv bv
+	bw bw
+	bx bx
+	by by
+	bz bz
+	bA bA
+	bB bB
+	bC bC
+	bD bD
+	bE bE
+	bF bF
+	bG bG
+	bH bH
+	bI bI
+	bJ bJ
+	bK bK
+	bL bL
+	bM bM
+	bN lightOpacity
+	bO lightOpacity
+	bP bP
+	bQ bQ
+	bR bR
+	bS bS
+	bT bT
+	bU bU
+	bV bV
+	bW bW
+	bX bX
+	bY bY
+	bZ bZ
+	ca ca
+	cb cb
+	cc cc
+	cd cd
+	ce ce
+	a name
+	<init> (ILna;)V <init>
+	j ()Lvz; j
+	k ()V k
+	<init> (IILna;)V <init>
+	a (Ldu;)Lvz; a
+	f (I)Lvz; f
+	a (F)Lvz; a
+	b (F)Lvz; b
+	g (I)Z g
+	b ()Z b
+	b (Lzy;III)Z b
+	c ()I c
+	c (F)Lvz; c
+	l ()Lvz; l
+	m ()F getBP
+	a (Z)Lvz; a
+	n ()Z isBT
+	o ()Z isBU
+	a (FFFFFF)V a
+	b (Lzy;IIII)Z b
+	a (II)I getBN
+	a (I)I getLightOpacity
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	e (Lge;III)Lfp; e
+	a ()Z a
+	a (IZ)Z a
+	E_ ()Z E_
+	a (Lge;IIILjava/util/Random;)V a
+	c (Lge;IIII)V c
+	a (Lge;IIII)V a
+	d ()I d
+	a (Lge;III)V a
+	d (Lge;III)V d
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Lih;)F a
+	b (Lge;IIIII)V b
+	a (Lge;IIIIFI)V a
+	a (Lge;IIILkp;)V a
+	c (I)I c
+	a (Ltv;)F a
+	a (Lge;IIILcj;Lcj;)Lwu; a
+	a (Lcj;)Z a
+	b (Lcj;)Z b
+	c (Lcj;)Z c
+	a_ (Lge;III)V a_
+	b (Lge;IIII)Z b
+	c (Lge;III)Z c
+	a (Lge;IIILih;)Z a
+	b (Lge;IIILtv;)V b
+	e (Lge;IIII)V e
+	b (Lge;IIILih;)V b
+	a (Lge;IIILtv;Lcj;)V a
+	a (Lzy;III)V a
+	a (Lzy;IIII)Z a
+	e ()Z isA
+	a (Lge;IIILtv;)V a
+	d (Lge;IIII)Z d
+	f ()V f
+	a (Lge;Lih;IIII)V a
+	h ()Z h
+	a_ (I)Lkp; a_
+	a (ILjava/util/Random;)I a
+	f (Lge;III)Z f
+	a (Lge;IIILne;)V a
+	a (Ljava/lang/String;)Lvz; a
+	p ()Ljava/lang/String; p
+	q ()Ljava/lang/String; getName
+	a (Lge;IIIII)V a
+	r ()Z isBS
+	s ()Lvz; s
+	g ()I g
+	a (Lge;IIILtv;F)V a
+	<clinit> ()V <clinit>
+wa net/minecraft/src/ClsWa
+	a a
+	b b
+	c c
+	d d
+	<init> (Lge;)V <init>
+	b ()V b
+	c (I)V c
+	d ()I d
+	L ()I L
+	b (Lph;)V b
+	a (Lph;)V a
+	A ()Ljava/lang/String; A
+	I ()Ljava/lang/String; I
+	F_ ()V F_
+	d_ ()V d_
+	F ()V F
+	E ()I E
+	C ()Lwa; C
+	X ()V setBE
+	a_ (Lih;)V a_
+	G ()Z G
+	H ()I H
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	f ()I f
+	l ()Z l
+	p ()F p
+	D ()I D
+	M ()Z M
+	K ()Z K
+wb net/minecraft/src/ClsWb
+	<init> (I)V <init>
+	b (Lkp;Lge;Lih;)Lkp; b
+	c (Lkp;)I c
+	d (Lkp;)Lkt; d
+	a (Lkp;Lge;Lih;)Lkp; a
+wc net/minecraft/src/ClsWc
+	a a
+	b b
+	c c
+	<init> ([BI)V <init>
+	a (III)I a
+wd net/minecraft/src/ClsWd
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	<init> (Lge;)V <init>
+	a (I)V a
+	a ()I getC
+	b ()Z b
+	b (I)V b
+	c ()V c
+	a (IIII)V a
+	a (III)V a
+	b (III)Z b
+	c (III)Z c
+	a (Lih;Lge;Lkp;)Z a
+	a (Lih;Lge;Lkp;IIII)Z a
+	a (Lgp;)V setA
+we net/minecraft/src/ClsWe
+	a a
+	b b
+	<init> ()V <init>
+	<init> (ILvh;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+wf net/minecraft/src/ClsWf
+	<init> (I)V <init>
+	a (I)I a
+wg net/minecraft/src/ClsWg
+	a a
+	b b
+	<init> ()V <init>
+	b ()Lxv; getB
+	c ()Ljava/util/LinkedList; getA
+	a (Lge;Ljava/util/Random;Lxv;)V a
+	d ()V d
+	a (Lge;Ljava/util/Random;I)V a
+	a (Lge;Ljava/util/Random;II)V a
+	a ()Z isC
+wh net/minecraft/src/ClsWh
+	<init> (IZI)V <init>
+	b ()Z b
+	b (II)Z b
+wi net/minecraft/src/ClsWi
+	a a
+	b b
+	c c
+	<init> (ZIII)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+	a (Lge;IIIILjava/util/Random;)V a
+wj net/minecraft/src/ClsWj
+	a a
+	<init> (Lne;)V <init>
+	a ()Z isC
+	e ()V e
+wk net/minecraft/src/ClsWk
+	<init> (II)V <init>
+	c (Lge;III)Z c
+	e (Lge;III)Lfp; e
+	a (Lzy;III)V a
+	a ()Z a
+	b ()Z b
+	b (Lzy;III)Z b
+	c ()I c
+	a (Lge;IIILne;)V a
+	a (Lge;IIILih;)Z a
+	a (Lge;IIII)V a
+	d (I)Z d
+wl net/minecraft/src/ClsWl
+	<init> (Lge;)V <init>
+	d ()I d
+	T ()I T
+	c_ ()Z c_
+	e ()V e
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	f ()I f
+	v ()Lcc; v
+	b (I)V b
+wm net/minecraft/src/ClsWm
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lwm; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+wn net/minecraft/src/ClsWn
+	a a
+	b b
+	<init> ()V <init>
+	<init> (IB)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I get_H
+wo net/minecraft/src/ClsWo
+	a a
+	b b
+	a (Lnet/minecraft/server/MinecraftServer;)V a
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+	a ()Ljavax/swing/JComponent; a
+	b ()Ljavax/swing/JComponent; b
+	c ()Ljavax/swing/JComponent; c
+	b (Ljava/lang/String;)V b
+	d ()Ljava/lang/String; d
+	a (Lwo;)Lnet/minecraft/server/MinecraftServer; getB
+	<clinit> ()V <clinit>
+wp net/minecraft/src/ClsWp
+	<init> ()V <init>
+	a (Ljava/util/Collection;)I a
+	a (Ljava/util/Random;Ljava/util/Collection;I)Ldh; a
+	a (Ljava/util/Random;Ljava/util/Collection;)Ldh; a
+	a ([Ldh;)I a
+	a (Ljava/util/Random;[Ldh;I)Ldh; a
+	a (Ljava/util/Random;[Ldh;)Ldh; a
+wq net/minecraft/src/ClsWq
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+wr net/minecraft/src/ClsWr
+	<init> (I)V <init>
+	a (Lkp;Lge;Lih;)Lkp; a
+ws net/minecraft/src/ClsWs
+	a a
+	b b
+	c c
+	d d
+	<init> (Laae;)V <init>
+	a (II)Lvn; a
+	b (II)Llt; b
+	a ()V a
+	c (II)[Llt; c
+	a (Lws;)Laae; getA
+wt net/minecraft/src/ClsWt
+	a a
+	<init> (I)V <init>
+	a (Lge;IIILih;)Z a
+	a (II)I getBN
+	c ()I c
+	b ()Z b
+	a ()Z a
+	a (Lzy;III)V a
+	a (Lge;IIII)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	t ()V t
+	d (I)Z d
+	e (I)Z e
+	a (Lge;IIIZ)V a
+	f (Lge;IIII)Lcf; f
+	a (Lge;IIIIFI)V a
+	g ()I g
+	<clinit> ()V <clinit>
+wu net/minecraft/src/ClsWu
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> (IIIILcj;)V <init>
+	<init> (Ltv;)V <init>
+wv net/minecraft/src/ClsWv
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+	a (Lkp;Lge;Lih;)Lkp; a
+ww net/minecraft/src/ClsWw
+	<init> ()V <init>
+	a (Ljava/util/Random;IIIZ)V a
+	<init> (Lbd;)V <init>
+wx net/minecraft/src/ClsWx
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+wy net/minecraft/src/ClsWy
+	<init> (I)V <init>
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I a
+	a (Lge;Lih;IIII)V a
+	d (Lge;III)V d
+	a (II)I getBN
+	c (I)I c
+wz net/minecraft/src/ClsWz
+	<init> ()V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a ()I a
+xa net/minecraft/src/ClsXa
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (Lnet/minecraft/server/MinecraftServer;I)V <init>
+	a (Ltv;)V a
+	a (Ltv;II)V a
+	a (Ltv;IIZ)V a
+	b (Ltv;)V b
+	a ()V a
+	a (Ltv;Llx;)V a
+	b (Ltv;Llx;)V b
+	a (Lgi;)V a
+xb net/minecraft/src/ClsXb
+	t t
+	<init> (Lge;)V <init>
+	d ()I getT
+	a (Lez;Lrq;I)Z a
+	a (Lrq;I)Z a
+	e (Lrq;I)Z e
+xc net/minecraft/src/ClsXc
+	<init> (Lge;Ljava/util/Random;II)V <init>
+xd net/minecraft/src/ClsXd
+	<init> (I)V <init>
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	a (II)I getBN
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;IIILtv;F)V a
+	g (Lge;III)Z g
+	h (Lge;III)Z h
+	a (Lge;IIII)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+xe net/minecraft/src/ClsXe
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	c ()I c
+	g (Lge;III)Z g
+	c (Lge;III)Z c
+	e (Lge;IIII)V e
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;III)V a
+	a (Lge;IIII)V a
+	h (Lge;III)Z h
+	a (Lge;IIILcj;Lcj;)Lwu; a
+xf net/minecraft/src/ClsXf
+	<init> (Lge;)V <init>
+	b ()V b
+	K ()I K
+	c (I)V c
+	b (Lph;)V b
+	a (Lph;)V a
+	e ()V e
+	aO ()Z aO
+xg net/minecraft/src/ClsXg
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	a a
+	<init> (Lqm;Lge;III)V <init>
+	a (I)V a
+	a ()V a
+	a (III)Z a
+	a (Lyj;)Lxg; a
+	b (Lxg;)Z b
+	b (III)Z b
+	b ()I b
+	c (Lxg;)Z c
+	d (Lxg;)V d
+	c (III)Z c
+	a (ZZ)V a
+	a (Lxg;)I a
+xh net/minecraft/src/ClsXh
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lxh; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+xi net/minecraft/src/ClsXi
+	a a
+	<init> (ILna;II)V <init>
+	a (II)I a
+	a (Ljava/util/Random;)I a
+	a (ILjava/util/Random;I)I a
+xj net/minecraft/src/ClsXj
+	a a
+	<init> (Lka;)V <init>
+	a ()Z a
+	c ()V c
+	d ()V setB
+xk net/minecraft/src/ClsXk
+	a a
+	f f
+	<init> (Lih;Lni;III)V <init>
+	a (Lkp;)Z a
+	a (I)Lkp; a
+	c (Lkp;)V c
+	a (Lkp;I)V a
+	b (Lkp;)V b
+xl net/minecraft/src/IfXl
+xm net/minecraft/src/ClsXm
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+xn net/minecraft/src/ClsXn
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lyk;)V <init>
+	a ()V a
+	b ()Z isA
+	a (Ljava/lang/String;)V a
+	b (Ljava/lang/String;)V b
+	c (Ljava/lang/String;)V c
+	d (Ljava/lang/String;)V d
+	c ()I c
+	a (Ljava/net/DatagramSocket;)V a
+	a (Ljava/net/DatagramSocket;Z)Z a
+	a (Ljava/net/ServerSocket;)Z a
+	a (Ljava/net/ServerSocket;Z)Z a
+	d ()V d
+	a (Z)V a
+xo net/minecraft/src/ClsXo
+	e e
+	a a
+	f f
+	g g
+	b b
+	c c
+	h h
+	d d
+	i i
+	j j
+	<init> (ILjava/lang/String;Lyo;)V <init>
+	<init> (ILjava/lang/String;)V <init>
+	e ()Lxo; e
+	d ()Lxo; d
+	toString ()Ljava/lang/String; toString
+	<clinit> ()V <clinit>
+xp net/minecraft/src/ClsXp
+	a a
+	b b
+	c c
+	<init> (Ltf;ILzc;)V <init>
+xq net/minecraft/src/ClsXq
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lxq; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+xr net/minecraft/src/ClsXr
+	<init> (Lge;)V <init>
+	<init> (Lge;Lne;DDD)V <init>
+	<init> (Lge;DDDDDD)V <init>
+	a (Lwu;)V a
+	o_ ()Z o_
+	a (Lrq;I)Z a
+xs net/minecraft/src/ClsXs
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> ()V <init>
+	<init> (Lrz;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+xt net/minecraft/src/ClsXt
+	<init> (Lge;)V <init>
+	<init> (Lge;Lne;)V <init>
+	<init> (Lge;DDD)V <init>
+	a (Lwu;)V a
+xu net/minecraft/src/ClsXu
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (IIIII)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I getA
+xv net/minecraft/src/ClsXv
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> ()V <init>
+	a ()Lxv; a
+	a (IIIIIIIIII)Lxv; a
+	<init> (Lxv;)V <init>
+	<init> (IIIIII)V <init>
+	<init> (IIII)V <init>
+	a (Lxv;)Z a
+	a (IIII)Z a
+	b (Lxv;)V b
+	a (III)V a
+	b (III)Z b
+	b ()I b
+	c ()I c
+	d ()I d
+	e ()I e
+	f ()I f
+	g ()I g
+	toString ()Ljava/lang/String; toString
+xw net/minecraft/src/ClsXw
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lxw; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+xx net/minecraft/src/ClsXx
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+xy net/minecraft/src/ClsXy
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lxy; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+xz net/minecraft/src/ClsXz
+	a a
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Lxz; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+	a (I)I a
+ya net/minecraft/src/ClsYa
+	bV bV
+	a a
+	b b
+	bU bU
+	bW bW
+	<init> (ILdq;II)V <init>
+	c ()I c
+	o ()[I o
+	<clinit> ()V <clinit>
+yb net/minecraft/src/ClsYb
+	<init> (IILna;)V <init>
+	<init> (II)V <init>
+	c (Lge;III)Z c
+	d (I)Z d
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	h (Lge;III)V h
+	f (Lge;III)Z f
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	c ()I c
+yc net/minecraft/src/ClsYc
+	bU bU
+	<init> (ILck;)V <init>
+	a (Lvz;)Z a
+	<clinit> ()V <clinit>
+yd net/minecraft/src/ClsYd
+	a a
+	<init> (I)V <init>
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+ye net/minecraft/src/ClsYe
+	a a
+	b b
+	<init> ()V <init>
+	a ()V a
+	b ()Ljava/lang/String; b
+	b (Ljava/lang/String;)V b
+	d ()Ljava/lang/String; d
+	<clinit> ()V <clinit>
+yf net/minecraft/src/ClsYf
+	<init> ()V <init>
+	a ()V a
+	g ()V g
+	b ()Ldf; b
+	d ()Z d
+	a (II)Z a
+	a (JF)F a
+	c ()Z c
+yg net/minecraft/src/ClsYg
+	a a
+	<init> (Lge;)V <init>
+	d ()I d
+	g_ ()Z g_
+	o ()Ltv; o
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (Lrq;I)Z a
+	a (Ltv;F)V a
+	a (IIII)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	f ()I f
+	F_ ()V F_
+	d_ ()V d_
+	a (III)F a
+	C ()Z C
+	l ()Z l
+	v ()Lcc; v
+yh net/minecraft/src/ClsYh
+	<init> (Lge;Ljava/util/Random;II)V <init>
+yi net/minecraft/src/ClsYi
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	a (IJ)V a
+	<clinit> ()V <clinit>
+yj net/minecraft/src/ClsYj
+	a a
+	b b
+	c c
+	<init> (III)V <init>
+	<init> (Lcj;)V <init>
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+yk net/minecraft/src/IfYk
+	a (Ljava/lang/String;I)I a
+	a (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; a
+	a (Ljava/lang/String;Ljava/lang/Object;)V a
+	c ()V c
+	e ()Ljava/lang/String; e
+	f ()Ljava/lang/String; getY
+	g ()I getZ
+	h ()Ljava/lang/String; getS
+	i ()Ljava/lang/String; i
+	j ()I j
+	k ()I k
+	l ()[Ljava/lang/String; l
+	m ()Ljava/lang/String; m
+	n ()Ljava/lang/String; n
+	o ()V o
+	d (Ljava/lang/String;)Ljava/lang/String; d
+	p ()Z p
+	b (Ljava/lang/String;)V b
+	c (Ljava/lang/String;)V c
+	e (Ljava/lang/String;)V e
+	f (Ljava/lang/String;)V f
+yl net/minecraft/src/ClsYl
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	d ()I d
+	b ()V b
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	b (Lih;)Z b
+	f ()I f
+	A ()Z A
+	a (Z)V a
+	a (Ld;)V a
+	a (F)V a
+	a (Lbr;)Lbr; a
+ym net/minecraft/src/ClsYm
+	a a
+	b b
+	c c
+	<init> (II)V <init>
+	<init> ([BI)V <init>
+	a (III)I a
+	a (IIII)V a
+yn net/minecraft/src/ClsYn
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<clinit> ()V <clinit>
+yo net/minecraft/src/IfYo
+yp net/minecraft/src/ClsYp
+	a a
+	<init> ()V <init>
+	c ()I getB
+	g_ (I)Lkp; g_
+	e ()Ljava/lang/String; getA
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	a ()I a
+	G_ ()V setE
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+yq net/minecraft/src/ClsYq
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	a (Lph;)V a
+	b (Lph;)V b
+yr net/minecraft/src/ClsYr
+	b b
+	c c
+	<init> (JLfh;Lfh;)V <init>
+	a (J)V a
+	a (IIII)[I a
+ys net/minecraft/src/ClsYs
+	a a
+	b b
+	c c
+	d d
+	<init> (IILjava/lang/Object;Lys;)V <init>
+	a ()I getA
+	b ()Ljava/lang/Object; getB
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+	toString ()Ljava/lang/String; toString
+yt net/minecraft/src/ClsYt
+	a DATE_FORMAT
+	<init> ()V <init>
+	format (Ljava/util/logging/LogRecord;)Ljava/lang/String; format
+yu net/minecraft/src/ClsYu
+	<init> (Lge;)V <init>
+	a (F)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	m ()I m
+	n ()Z n
+yv net/minecraft/src/ClsYv
+	a a
+	b b
+	c c
+	<init> (IZ)V <init>
+	b ()Z b
+	c (Lge;III)Z c
+	f (Lge;III)Z f
+	a (Lge;IIILjava/util/Random;)V a
+	a (II)I getBN
+	c ()I c
+	a (I)I getLightOpacity
+	d (Lge;IIII)Z d
+	a (Lzy;IIII)Z a
+	a (Lge;IIII)V a
+	f (Lge;IIII)Z f
+	a (Lge;IIILih;)Z a
+	e ()Z isA
+	a (Lge;IIILne;)V a
+	a (Lge;III)V a
+	c (Lge;IIII)V c
+	a ()Z a
+	a (ILjava/util/Random;I)I getLightOpacity
+	<clinit> ()V <clinit>
+yw net/minecraft/src/ClsYw
+	<init> (I)V <init>
+	a (II)I getBN
+	a (Lge;IIILjava/util/Random;)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+yx net/minecraft/src/ClsYx
+	<init> (Lge;)V <init>
+	a (F)V a
+	a (FF)V a
+	t ()Z t
+yy net/minecraft/src/ClsYy
+	<init> (I)V <init>
+	a (Lkp;Lge;)Lkm; a
+	a (Lge;Ltv;Lkm;)V a
+	a (Lkp;Lge;Ltv;IZ)V a
+	d (Lkp;Lge;Lih;)V d
+	c (Lkp;Lge;Lih;)Llx; c
+yz net/minecraft/src/ClsYz
+	<init> (JLfh;)V <init>
+	a (IIII)[I a
+	a (II)I a
+	b (IIII)I b
+za net/minecraft/src/ClsZa
+	<init> (Z)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+zb net/minecraft/src/IfZb
+	c ()Lfj; c
+	b ()V b
+	a (Lzl;)Lbq; a
+	a (Lfj;Ljava/util/List;)V a
+	a (Lfj;)V a
+	d ()Ljv; d
+	e ()V e
+	b (Ljava/lang/String;)Ljava/io/File; b
+zc net/minecraft/src/ClsZc
+	a a
+	<init> ()V <init>
+	a ()Z a
+	b ()Z b
+	g ()Z g
+	c ()V c
+	d ()V setB
+	e ()V e
+	a (I)V setA
+	h ()I getA
+zd net/minecraft/src/ClsZd
+	a a
+	b b
+	<init> (IIILna;Z)V <init>
+	a (ILjava/util/Random;I)I getLightOpacity
+	a ()Z a
+	b ()Z isK
+	c ()I c
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	f ()V f
+	a (Lzy;III)V a
+	d (I)Z d
+ze net/minecraft/src/ClsZe
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	<init> (Lka;FZ)V <init>
+	a ()Z a
+	b ()Z b
+	c ()V c
+	d ()V d
+	a (Lpa;)Lom; a
+	a (Lom;)Z a
+	f ()V f
+zf net/minecraft/src/ClsZf
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	<init> (Lnet/minecraft/server/MinecraftServer;II)V <init>
+	a ()Lgp; a
+	b ()V b
+	a (IIZ)Lar; a
+	a (III)V a
+	a (Lgi;)V a
+	b (Lgi;)V b
+	a (IIII)Z a
+	c (Lgi;)V c
+	c ()I c
+	a (Lzf;)Lhd; getB
+	b (Lzf;)Ljava/util/List; getC
+zg net/minecraft/src/ClsZg
+	a a
+	b b
+	c c
+	g g
+	h h
+	i i
+	j j
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	d ()I d
+	e ()V e
+	a (F)V a
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	f ()I f
+	a (ZI)V a
+	a (Lbr;)Lbr; a
+zh net/minecraft/src/ClsZh
+	a a
+	b b
+	c c
+	d d
+	e e
+	<init> ()V <init>
+	<init> (II[SILge;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+	<clinit> ()V <clinit>
+zi net/minecraft/src/ClsZi
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+zj net/minecraft/src/ClsZj
+	a a
+	b b
+	<init> (IZ)V <init>
+	a (I)I a
+	a ([Ljava/lang/String;)Lzj; a
+	a (Lkp;)Ljava/lang/String; getBV
+zk net/minecraft/src/ClsZk
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	<init> (Lka;FIZ)V <init>
+	a ()Z isL
+	b ()Z isK
+	c ()V c
+	d ()V setB
+	e ()V e
+	f ()Z isJ
+zl net/minecraft/src/ClsZl
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> ()V <init>
+	a (Lge;)V a
+	g ()V g
+	a ()V a
+	b ()Ldf; b
+	a (II)Z a
+	a (JF)F a
+	d ()Z d
+	c ()Z c
+	a (I)Lzl; a
+	e ()Lcf; e
+	f ()I f
+zm net/minecraft/src/ClsZm
+	a a
+	<init> ()V <init>
+	a (JII[BDDDFFFIID)V a
+	a (Lge;IIII[B)V a
+zn net/minecraft/src/ClsZn
+	a a
+	b b
+	<init> ()V <init>
+	a (Ljb;)V a
+zo com/mojang/nbt/NBTString
+	a a
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;Ljava/lang/String;)V <init>
+	a (Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;)V read
+	a ()B getId
+	toString ()Ljava/lang/String; toString
+	b ()Ljz; b
+	equals (Ljava/lang/Object;)Z equals
+	hashCode ()I hashCode
+zp net/minecraft/src/ClsZp
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	<init> (Lne;Lge;F)V <init>
+	a (Z)V setL
+	a ()Z isL
+	b (Z)V setK
+	c (Z)V setJ
+	b ()Z isK
+	d (Z)V setF
+	a (F)V setD
+	e (Z)V setM
+	a (DDD)Led; a
+	a (DDDF)Z a
+	a (Lne;)Led; a
+	a (Lne;F)Z a
+	a (Led;F)Z a
+	c ()Led; getC
+	d ()V d
+	g ()V g
+	e ()Z e
+	f ()V setC
+	h ()Lcj; h
+	i ()I i
+	j ()Z j
+	k ()Z k
+	l ()V l
+	a (Lcj;Lcj;III)Z a
+	a (IIIIIILcj;DD)Z a
+	b (IIIIIILcj;DD)Z b
+zq net/minecraft/src/ClsZq
+	<init> (I)V <init>
+	a (Lge;III)V a
+	d (Lge;III)V d
+zr net/minecraft/src/ClsZr
+	a a
+	<init> (Lqq;)V <init>
+	run ()V run
+zs net/minecraft/src/ClsZs
+	a a
+	<init> (Lqq;)V <init>
+	run ()V run
+zt net/minecraft/src/ClsZt
+	a a
+	<init> (Lqq;Ljava/lang/String;)V <init>
+	run ()V run
+zu net/minecraft/src/ClsZu
+	a a
+	<init> (Lqq;Ljava/lang/String;)V <init>
+	run ()V run
+zv net/minecraft/src/ClsZv
+	a a
+	b b
+	c c
+	<init> (III)V <init>
+	<init> (Lzv;)V <init>
+	a (Lzv;)V a
+	a ()I getA
+	b ()I getB
+	c ()I c
+	a (Lne;)Z a
+	e ()I e
+	b (Lne;)V b
+	d ()Ljava/lang/String; d
+	hashCode ()I hashCode
+	toString ()Ljava/lang/String; toString
+	equals (Ljava/lang/Object;)Z equals
+zw net/minecraft/src/ClsZw
+	c c
+	d d
+	e e
+	a a
+	b b
+	f f
+	g g
+	<init> (Lne;FZ)V <init>
+	<init> (Lne;FZZ)V <init>
+	b ()Z b
+	c ()V c
+	d ()V d
+	a (Lne;Z)Z a
+	a (Lne;)Z a
+zx net/minecraft/src/ClsZx
+	a a
+	<init> (I)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+zy net/minecraft/src/IfZy
+	a (III)I a
+	b (III)Lqj; b
+	c (III)I c
+	d (III)Lna; d
+	e (III)Z e
+zz net/minecraft/src/ClsZz
+	a a
+	<init> (I)V <init>
+	d ()I d
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Lge;III)V a
+	g (Lge;III)V g
+	a (I)I getBN
+	a (Lge;IIILih;)Z a
+	b (Lge;IIILjava/util/Random;)V b
+	a (Lge;IIII)V a
+	a (Lge;IIILjava/util/Random;)V a
+	a_ ()Lqj; a_
+	a (Lge;IIILne;)V a
+	d (Lge;III)V d
+aaa net/minecraft/src/ClsAaa
+	<init> (II)V <init>
+	e (Lge;III)Lfp; e
+	a ()Z isC
+	b ()Z b
+	c ()I c
+	b (Lge;IIII)Z b
+	c (Lge;III)Z c
+	e (Lge;IIII)V e
+	a (Lge;IIII)V a
+	g (Lge;III)Z g
+	a (Lzy;III)V a
+	b (Lge;IIILih;)V b
+	a (Lge;IIILih;)Z a
+	d (Lge;III)V d
+	a (Lzy;IIII)Z a
+	d (Lge;IIII)Z d
+	e ()Z isA
+aab net/minecraft/src/ClsAab
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+aac net/minecraft/src/ClsAac
+	a a
+	b b
+	c c
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	n n
+	o o
+	p p
+	q q
+	<init> (Lge;)V <init>
+	d ()I d
+	b (Lph;)V b
+	a (Lph;)V a
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	p ()F p
+	f ()I getC
+	a (ZI)V a
+	b (Lih;)Z b
+	aU ()Z isBV
+	e ()V e
+	a (FF)V a
+	d_ ()V d_
+	l ()Z l
+aad net/minecraft/src/ClsAad
+	a a
+	b b
+	c c
+	d d
+	<init> (IIIJ)V <init>
+aae net/minecraft/src/ClsAae
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	<init> (JLej;)V <init>
+	<init> (Lge;)V <init>
+	a ()Ljava/util/List; getD
+	a (II)Llt; getA
+	b ([FIIII)[F b
+	a ([FIIII)[F a
+	a ([Llt;IIII)[Llt; a
+	b ([Llt;IIII)[Llt; b
+	a ([Llt;IIIIZ)[Llt; a
+	a (IIILjava/util/List;)Z a
+	a (IIILjava/util/List;Ljava/util/Random;)Lyj; a
+	b ()V b
+aaf net/minecraft/src/ClsAaf
+	<init> (I)V <init>
+	d (I)Z d
+	f (Lge;III)Z f
+	a (Lge;IIILjava/util/Random;)V a
+	a (II)I getBN
+	c ()I c
+	a (Lge;IIIIFI)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+aag net/minecraft/src/ClsAag
+	<init> ()V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+aah net/minecraft/src/ClsAah
+	<init> ()V <init>
+	a (II)Z a
+	b (II)Lwg; b
+aai net/minecraft/src/ClsAai
+	<init> (II)V <init>
+	a (I)I a
+	b (I)I b
+	a ()I a
+aaj net/minecraft/src/ClsAaj
+	<init> (I)V <init>
+	a (II)I getBN
+	a (Lge;IIILjava/util/Random;)V a
+	a (ILjava/util/Random;I)I getLightOpacity
+aak net/minecraft/src/ClsAak
+	d d
+	a a
+	e e
+	b b
+	c c
+	<init> (Lbr;F)V <init>
+	a ()Z a
+	b ()Z b
+	d ()V setB
+	e ()V e
+	f ()Lbr; f
+	i ()V i
+aal net/minecraft/src/ClsAal
+	a a
+	b b
+	g g
+	<init> (Lge;)V <init>
+	c_ ()Z c_
+	F_ ()V F_
+	l ()Z l
+	b (Lph;)V b
+	a (Lph;)V a
+	o ()Ltv; o
+	e ()V e
+	a (Lrq;I)Z a
+	e (Ltv;)V e
+	i ()Ljava/lang/String; i
+	j ()Ljava/lang/String; j
+	k ()Ljava/lang/String; k
+	a (ZI)V a
+	b (I)V b
+	f ()I f
+	<clinit> ()V <clinit>
+aam net/minecraft/src/IfAam
+	a (Ljava/lang/String;)V a
+	b (Ljava/lang/String;)V b
+	a (I)V a
+aan net/minecraft/src/ClsAan
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Laan; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+aao net/minecraft/src/ClsAao
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+aap net/minecraft/src/ClsAap
+	<init> (ILjava/lang/String;Lyo;)V <init>
+	<init> (ILjava/lang/String;)V <init>
+	d ()Lxo; d
+aaq net/minecraft/src/ClsAaq
+	k k
+	l l
+	m m
+	n n
+	o o
+	a a
+	b b
+	c c
+	p p
+	q q
+	r r
+	s s
+	t t
+	u u
+	v v
+	w w
+	x x
+	y y
+	d d
+	e e
+	f f
+	g g
+	h h
+	i i
+	j j
+	<init> (Lge;JZ)V <init>
+	a (II[B)V a
+	a (II[B[Llt;)V a
+	c (II)Lmy; c
+	b (II)Lmy; b
+	a ([DIIIIII)[D a
+	a (II)Z a
+	a (Ldf;II)V a
+	a (ZLaam;)Z a
+	a ()Z a
+	b ()Z b
+	a (Lmu;III)Ljava/util/List; a
+	a (Lge;Ljava/lang/String;III)Lyj; a
+aar net/minecraft/src/ClsAar
+	a a
+	b b
+	<init> ()V <init>
+	a (Lon;I)V a
+	<init> (Lqo;)V <init>
+aas net/minecraft/src/ClsAas
+	<init> ()V <init>
+	a (Ljava/util/Random;I)Ljava/util/ArrayList; a
+	a (Ljava/util/ArrayList;)I a
+	a (Lft;Ljava/util/List;Ljava/util/Random;IIIII)Lve; a
+	c (Lj;Ljava/util/List;Ljava/util/Random;IIIII)Lve; c
+	d (Lj;Ljava/util/List;Ljava/util/Random;IIIII)Lln; d
+	e (Lj;Ljava/util/List;Ljava/util/Random;IIIII)Lln; e
+	a (Lj;Ljava/util/List;Ljava/util/Random;IIIII)Lln; a
+	b (Lj;Ljava/util/List;Ljava/util/Random;IIIII)Lln; b
+aat net/minecraft/src/ClsAat
+	a a
+	b b
+	c c
+	d d
+	<init> (Z)V <init>
+	<init> (ZIIIZ)V <init>
+	a (Lge;Ljava/util/Random;III)Z a
+	b (Lge;IIII)V b
+aau net/minecraft/src/ClsAau
+	<init> (II)V <init>
+aav net/minecraft/block/blockentity/BlockEntitySign
+	a a
+	b b
+	c c
+	<init> ()V <init>
+	b (Lph;)V b
+	a (Lph;)V a
+	d ()Llx; d
+	c ()Z isC
+aaw net/minecraft/entity/item/MinecartFurnace
+	d d
+	e e
+	f f
+	a a
+	b b
+	c c
+	g g
+	h h
+	i i
+	j j
+	k k
+	l l
+	m m
+	<init> (Lge;)V <init>
+	g_ ()Z g_
+	b ()V b
+	b_ (Ltv;)Lfp; b_
+	h ()Lfp; getBw
+	e_ ()Z e_
+	<init> (Lge;DDDI)V <init>
+	x_ ()D x_
+	a (Lrq;I)Z a
+	o_ ()Z o_
+	X ()V setBE
+	F_ ()V F_
+	h (DDD)Lcj; h
+	b (Lph;)V b
+	a (Lph;)V a
+	k (Ltv;)V k
+	c ()I getB
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	e ()Ljava/lang/String; getA
+	a ()I a
+	G_ ()V setE
+	b (Lih;)Z b
+	a (Lih;)Z a
+	k ()Z k
+	a (Z)V a
+	f ()V f
+	g ()V g
+	c (I)V c
+	l ()I l
+	d (I)V d
+	m ()I m
+	e (I)V e
+	n ()I n
+	<clinit> ()V <clinit>
+aax net/minecraft/src/ClsAax
+	<init> (I)V <init>
+	a (Lkp;Lih;Lge;IIII)Z a
+aay net/minecraft/block/blockentity/BlockEntityCauldron
+	a a
+	b b
+	c c
+	d d
+	<init> ()V <init>
+	e ()Ljava/lang/String; getA
+	c ()I getB
+	q_ ()V q_
+	i ()I getB
+	o ()Z o
+	p ()V p
+	b (ILkp;)I b
+	a (Lph;)V a
+	b (Lph;)V b
+	g_ (I)Lkp; g_
+	a (II)Lkp; a
+	b (I)Lkp; b
+	a (ILkp;)V a
+	a ()I a
+	a (Lih;)Z a
+	f ()V f
+	g ()V g
+	n ()I n
+aaz net/minecraft/src/ClsAaz
+	a a
+	b b
+	<init> (II)V <init>
+	k ()V k
+	a (III)V a
+	e (Lge;III)Lfp; e
+	a ()Z a
+	b ()Z b
+	c ()I c
+	a (Ljava/util/Random;)I a
+	d ()I d
+	a (Lge;IIILjava/util/Random;)V a
+	a (Lge;IIIILjava/util/Random;I)V a
+	g (Lge;III)Z g
+	h (Lge;III)I h
+	E_ ()Z E_
+	c (Lzy;III)Z c
+	f (Lge;IIII)I f
+	c (Lge;III)Z c
+	a (Lge;IIII)V a
+	a (Lge;III)V a
+aba net/minecraft/src/ClsAba
+	a a
+	b b
+	f f
+	g g
+	<init> (Lne;Ljava/lang/Class;FIZ)V <init>
+	<init> (Lne;Ljava/lang/Class;FIZZ)V <init>
+	a ()Z a
+	c ()V c
+abb net/minecraft/src/ClsAbb
+	a a
+	<init> ()V <init>
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/io/DataInputStream;)V a
+	a (Ljava/io/DataOutputStream;)V a
+	a (Luq;)V a
+	a ()I a
+abc net/minecraft/src/ClsAbc
+	a a
+	b b
+	<init> (IZ)V <init>
+	a (Lzy;III)V a
+	f ()V f
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	a (II)I a
+	a (I)I getLightOpacity
+	a ()Z isB
+	e (Lge;IIII)V e
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Ljava/util/Random;)I a
+	c (I)I c
+	b ()Z b
+	a_ (I)Lkp; a_
+	<clinit> ()V <clinit>
+abd net/minecraft/src/ClsAbd
+	a a
+	b b
+	c c
+	d d
+	e e
+	f f
+	g g
+	h h
+	<init> (Lne;FII)V <init>
+	a ()Z a
+	b ()Z b
+	d ()V setC
+	e ()V e
+	f ()V f
+abe net/minecraft/src/ClsAbe
+	<init> (IIFZ)V <init>
+abf net/minecraft/src/ClsAbf
+	<init> (I)V <init>
+	a (II)I getBN
+	a ()Z a
+	c ()I c
+	f ()V f
+	a (Lge;IIILfp;Ljava/util/ArrayList;)V a
+	d (I)Z d
+	a (ILjava/util/Random;I)I getLightOpacity
+	a (Lge;IIILne;)V a
+abg net/minecraft/src/ClsAbg
+	a a
+	b b
+	c c
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Labg; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+abh net/minecraft/src/ClsAbh
+	<init> (ILjava/util/Random;Lxv;I)V <init>
+	a (Lln;Ljava/util/List;Ljava/util/Random;)V a
+	a (Ljava/util/List;Ljava/util/Random;IIIII)Labh; a
+	a (Lge;Ljava/util/Random;Lxv;)Z a
+abi net/minecraft/src/ClsAbi
+	a a
+	b b
+	bU bU
+	bV bV
+	bW bW
+	bX bX
+	bY bY
+	bZ bZ
+	ca ca
+	<init> (IIFZ)V <init>
+	<init> (IIZ)V <init>
+	b (Lkp;Lge;Lih;)Lkp; b
+	c (Lkp;)I c
+	d (Lkp;)Lkt; d
+	a (Lkp;Lge;Lih;)Lkp; a
+	o ()I getB
+	p ()F getBU
+	q ()Z isBV
+	a (IIIF)Labi; a
+	r ()Labi; r
+	a (Ljava/lang/String;)Lid; a
+abj net/minecraft/src/ClsAbj
+	a a
+	f f
+	g g
+	<init> (Lih;Lni;Lni;III)V <init>
+	a (Lkp;)Z a
+	a (I)Lkp; a
+	a (Lkp;I)V a
+	b (Lkp;)V b
+	c (Lkp;)V c
+abk net/minecraft/src/ClsAbk
+	<init> (Lge;)V <init>
+abl net/minecraft/src/ClsAbl
+	a a
+	b b
+	<init> (II)V <init>
+	a (II)J a
+	hashCode ()I hashCode
+	equals (Ljava/lang/Object;)Z equals
+	a (Ltv;)D a
+	a ()I a
+	b ()I b
+	a (I)Lyj; a
+	toString ()Ljava/lang/String; toString
+abm net/minecraft/src/ClsAbm
+	<init> ()V <init>
+	a (Ljava/util/Map;)Ljava/lang/String; a
+	a (Ljava/net/URL;Ljava/util/Map;Z)Ljava/lang/String; a
+	a (Ljava/net/URL;Ljava/lang/String;Z)Ljava/lang/String; a
+abn net/minecraft/src/ClsAbn
+	a a
+	b b
+	<init> (Ljava/lang/String;)V <init>
+	a (Ljava/lang/String;Ljava/lang/Object;)V a
+	a ()V a
+	a (Labn;)Ljava/net/URL; getB
+	b (Labn;)Ljava/util/Map; getA
+abo net/minecraft/src/ClsAbo
+	a a
+	<init> (Labn;Ljava/lang/String;)V <init>
+	run ()V run
+net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
+	a a
+	b b
+	y y
+	z z
+	c c
+	d d
+	e e
+	f tickTimeArray
+	g timeOfLastDimensionTick
+	h h
+	A A
+	B B
+	i i
+	j j
+	k k
+	l l
+	C C
+	D D
+	m m
+	n n
+	o o
+	p p
+	q q
+	r r
+	s s
+	t t
+	E E
+	F F
+	G G
+	H H
+	u tickTimeArray
+	v tickTimeArray
+	w tickTimeArray
+	x tickTimeArray
+	I I
+	J J
+	<init> ()V <init>
+	s ()Z s
+	a (Lox;Ljava/lang/String;JLej;)V a
+	b (Ljava/lang/String;I)V b
+	t ()V t
+	u ()V u
+	v ()V stopServer
+	a ()V set_B
+	run ()V run
+	w ()V w
+	a (Ljava/lang/String;Lum;)V a
+	b ()V b
+	a (Lga;)V a
+	main ([Ljava/lang/String;)V startServerThread
+	a (Ljava/lang/String;)Ljava/io/File; a
+	b (Ljava/lang/String;)V b
+	c (Ljava/lang/String;)V c
+	d ()Ljava/lang/String; d
+	a (I)Lgp; a
+	b (I)Lxa; b
+	a (Ljava/lang/String;I)I a
+	a (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; a
+	a (Ljava/lang/String;Ljava/lang/Object;)V a
+	c ()V c
+	e ()Ljava/lang/String; e
+	f ()Ljava/lang/String; getY
+	g ()I getZ
+	h ()Ljava/lang/String; getS
+	i ()Ljava/lang/String; i
+	j ()I j
+	k ()I k
+	l ()[Ljava/lang/String; l
+	m ()Ljava/lang/String; m
+	n ()Ljava/lang/String; n
+	o ()V o
+	d (Ljava/lang/String;)Ljava/lang/String; d
+	p ()Z p
+	e (Ljava/lang/String;)V e
+	f (Ljava/lang/String;)V f
+	q ()[Ljava/lang/String; q
+	r ()[Ljava/lang/String; r
+	getServerModName ()Ljava/lang/String; getServerModName
+	a (Lnet/minecraft/server/MinecraftServer;)Z is_B
+	<clinit> ()V <clinit>
