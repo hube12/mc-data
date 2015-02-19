@@ -1,38 +1,18 @@
 {
-  "air": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "bedrock": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "cobblestone": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "dirt": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
+  "air": {},
+  "bedrock": {},
+  "cobblestone": {},
+  "dirt": {},
   "flowing_water": {
     "class": "net.minecraft.block.Bedrock"
   },
-  "grass": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "planks": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "sapling": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "stone": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
-  "stonebrick": {
-    "class": "net.minecraft.util.math.HitResult"
-  },
+  "grass": {},
+  "planks": {},
+  "sapling": {},
+  "stone": {},
+  "stonebrick": {},
   "water": {
     "class": "net.minecraft.block.Liquid"
   },
-  "wood": {
-    "class": "net.minecraft.util.math.HitResult"
-  }
+  "wood": {}
 }
