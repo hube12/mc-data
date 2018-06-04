@@ -1,11 +1,11 @@
 {
   "area_effect_cloud": {
     "name": "AreaEffectCloud",
-    "class": "net.minecraft.entity.AreaEffectCloud"
+    "class": "net.minecraft.entity.effect.AreaEffectCloud"
   },
   "armor_stand": {
     "name": "ArmorStand",
-    "class": "net.minecraft.entity.ArmorStand"
+    "class": "net.minecraft.entity.item.ArmorStand"
   },
   "arrow": {
     "name": "Arrow",
@@ -29,7 +29,7 @@
   },
   "chest_minecart": {
     "name": "ChestMinecart",
-    "class": "net.minecraft.entity.ChestMinecart"
+    "class": "net.minecraft.entity.item.ChestMinecart"
   },
   "chicken": {
     "name": "Chicken",
@@ -37,11 +37,11 @@
   },
   "cod": {
     "name": "Cod",
-    "class": "net.minecraft.entity.passive.Cod"
+    "class": "net.minecraft.entity.water.Cod"
   },
   "commandblock_minecart": {
     "name": "CommandblockMinecart",
-    "class": "net.minecraft.entity.CommandblockMinecart"
+    "class": "net.minecraft.entity.item.CommandblockMinecart"
   },
   "cow": {
     "name": "Cow",
@@ -121,7 +121,7 @@
   },
   "fishing_bobber": {
     "name": "FishingBobber",
-    "class": "net.minecraft.entity.FishingBobber"
+    "class": "net.minecraft.entity.item.FishingBobber"
   },
   "furnace_minecart": {
     "name": "FurnaceMinecart",
@@ -169,7 +169,7 @@
   },
   "lightning_bolt": {
     "name": "LightningBolt",
-    "class": "net.minecraft.entity.LightningBolt"
+    "class": "net.minecraft.entity.effect.LightningBolt"
   },
   "llama": {
     "name": "Llama",
@@ -181,7 +181,7 @@
   },
   "magma_cube": {
     "name": "MagmaCube",
-    "class": "net.minecraft.entity.MagmaCube"
+    "class": "net.minecraft.entity.monster.MagmaCube"
   },
   "minecart": {
     "name": "Minecart",
@@ -189,7 +189,7 @@
   },
   "mooshroom": {
     "name": "Mooshroom",
-    "class": "net.minecraft.entity.Mooshroom"
+    "class": "net.minecraft.entity.passive.Mooshroom"
   },
   "mule": {
     "name": "Mule",
@@ -229,7 +229,7 @@
   },
   "pufferfish": {
     "name": "Pufferfish",
-    "class": "net.minecraft.entity.Pufferfish"
+    "class": "net.minecraft.entity.water.Pufferfish"
   },
   "rabbit": {
     "name": "Rabbit",
@@ -237,7 +237,7 @@
   },
   "salmon": {
     "name": "Salmon",
-    "class": "net.minecraft.entity.Salmon"
+    "class": "net.minecraft.entity.water.Salmon"
   },
   "sheep": {
     "name": "Sheep",
@@ -293,7 +293,7 @@
   },
   "squid": {
     "name": "Squid",
-    "class": "net.minecraft.entity.passive.Squid"
+    "class": "net.minecraft.entity.water.Squid"
   },
   "stray": {
     "name": "Stray",
@@ -313,11 +313,11 @@
   },
   "tropical_fish": {
     "name": "TropicalFish",
-    "class": "net.minecraft.entity.TropicalFish"
+    "class": "net.minecraft.entity.water.TropicalFish"
   },
   "turtle": {
     "name": "Turtle",
-    "class": "net.minecraft.entity.Turtle"
+    "class": "net.minecraft.entity.passive.Turtle"
   },
   "vex": {
     "name": "Vex",
@@ -341,7 +341,7 @@
   },
   "wither": {
     "name": "Wither",
-    "class": "net.minecraft.entity.Wither"
+    "class": "net.minecraft.entity.boss.Wither"
   },
   "wither_skeleton": {
     "name": "WitherSkeleton",
